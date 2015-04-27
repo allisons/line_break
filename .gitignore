@@ -10,3 +10,5 @@
 *.xml
 
 output_files/*
+
+rearranged_trec_data/*

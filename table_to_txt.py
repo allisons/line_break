@@ -12,18 +12,31 @@ from collections import defaultdict
 from functools import partial
 import sys
 
+"""
+This script takes a list of files that are the output of crf_test and if they
+have oracle labels, calculates the precision, recall and f-score and prints those
+to standard output and for all inputs produces a file with the predicted newlines 
+based on the file names passed  to it and places it in the "output_files" folder.  
+It creates that folder if it does not currently exist.
+"""
+
 #paths = glob("test_files/predicted*")
 paths = list(glob(sys.argv[1]))
+gold_standard = sys.argv[2]
     
 
 folder = ("output_files/")
-#os.mkdir(folder)
+if not os.path.exists(folder):
+    os.mkdir(folder)
 
-def rebuild(table, output_name):
+def rebuild(table, output_name, gold_standard=True):
     print table
     rebuild = ""
-    characters = table.iloc[:,5]
-    newlines = table.iloc[:,6]
+    if gold_standard:
+        characters = table.iloc[:,-3]
+    else:
+        characters = table.iloc[:,-2]
+    newlines = table.iloc[:,-1]
     for char, new in zip(characters.iteritems(), newlines.iteritems()):
         _, c = char
         _, nl = new
@@ -40,8 +53,10 @@ def rebuild(table, output_name):
          new.write(rebuild)
         
 def tabulate_results(table):
-    gold = table.iloc[:,6]
-    yhat = table.iloc[:,7]
+    assert gold_standard == True #need an oracle to tablulate results!
+    
+    gold = table.iloc[:,-2]
+    yhat = table.iloc[:,-1]
     results = DataFrame(np.zeros(shape=(4,2)), dtype=float)
     results.index=("TP", "FN", "FP", "TN")
     results.columns=("count", "mean prob")
@@ -91,16 +106,16 @@ for p in paths:
     filename = filename[-1]
     outputname = folder+filename
     table = pd.read_table(p, header=None)
-    #print table
-    #new = tabulate_results(table)
-    #total += new
-    #count +=1
+    if gold_standard:
+        new = tabulate_results(table)
+        total += new
+        count +=1
     rebuild(table, outputname)
 
-#total['mean prob'] = total['mean prob']/count
-#print total
-
-#p = total.at['TP', 'count']/(total.at['TP', 'count']+total.at['FP', 'count'])
-#r = total.at['TP', 'count']/(total.at['TP', "count"]+total.at['FN', 'count'])
-#f = 2*(p*r)/(p+r)
-#print 'precision =', p, "recall =", r, "f-score=", f
+if gold_standard:
+    total['mean prob'] = total['mean prob']/count
+    print total
+    p = total.at['TP', 'count']/(total.at['TP', 'count']+total.at['FP', 'count'])
+    r = total.at['TP', 'count']/(total.at['TP', "count"]+total.at['FN', 'count'])
+    f = 2*(p*r)/(p+r)
+    print 'precision =', p, "recall =", r, "f-score=", f

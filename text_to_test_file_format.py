@@ -10,8 +10,9 @@ import sys
 
 TESTDATA = glob(sys.argv[1])
 """
-Give this as a list of characters, rather than a single string
- (so we can take a " " or "\n" and return it as a "<sp>")
+This file takes a raw text file (no expected NLs) and puts it in the
+table format appropriate for crf_test for testing.  It outputs to a file
+titled "feature_format_" + the file name provided to it
  """
 
 
