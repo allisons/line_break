@@ -2,6 +2,8 @@
 from string import punctuation as punct
 import pandas as pd
 
+
+
 from pandas import DataFrame, Series
 
 def features(char_list, gold_standard=True):
@@ -13,7 +15,7 @@ def features(char_list, gold_standard=True):
 
 def features_orig(char_list):
     assert isinstance(char_list, list)
-    feat_index = Series(["isAlpha", "isNumeric", "isPunct", "isUpper", "is<sp>", "char", "new_line_value"])
+    feat_index = Series(["isAlpha", "isNumeric", "isPunct", "isUpper", "isLower", "is<sp>", "char", "new_line_value"])
     
     feature_list_of_series = list()
     for i in range(len(char_list)):
@@ -32,7 +34,7 @@ def features_orig(char_list):
             featurelist.append(False)
         
         #is character punctuation?
-        if char_list[i] in punct:
+        if char_list[i] in punct and not ((char_list[i] is '*') or (char_list[i] is '[') or (char_list[i] is ']')):
             featurelist.append(True)
         else:
             featurelist.append(False)
@@ -42,6 +44,13 @@ def features_orig(char_list):
             featurelist.append(True)
         else:
             featurelist.append(False)
+            
+        #is character in lowercase?
+        if char_list[i].islower():
+            featurelist.append(True)
+        else:
+            featurelist.append(False)
+        
         
         if char_list[i] == " ":
             featurelist.append(True)
@@ -68,7 +77,7 @@ def features_orig(char_list):
     
 def features_no_gold(char_list):
     assert isinstance(char_list, list)
-    feat_index = Series(["isAlpha", "isNumeric", "isPunct", "isUpper", "index_of_previous_new_line", "is<sp>", "char"])
+    feat_index = Series(["isAlpha", "isNumeric", "isPunct", "isUpper", "isLower", "is<sp>", "char"])
     
     feature_list_of_series = list()
     newlineidx = 0
@@ -88,13 +97,19 @@ def features_no_gold(char_list):
             featurelist.append(False)
         
         #is character punctuation?
-        if char_list[i] in punct:
+        if char_list[i] in punct and not ((char_list[i] == '*') or (char_list[i] == '[') or (char_list[i] == ']')):
             featurelist.append(True)
         else:
             featurelist.append(False)
         
         #is character in uppercase?
         if char_list[i].isupper():
+            featurelist.append(True)
+        else:
+            featurelist.append(False)
+        
+        #is character in lowercase?
+        if char_list[i].islower():
             featurelist.append(True)
         else:
             featurelist.append(False)

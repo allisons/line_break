@@ -22,8 +22,8 @@ folder = ("output_files/")
 def rebuild(table, output_name):
     print table
     rebuild = ""
-    characters = table.iloc[:,6]
-    newlines = table.iloc[:,7]
+    characters = table.iloc[:,5]
+    newlines = table.iloc[:,6]
     for char, new in zip(characters.iteritems(), newlines.iteritems()):
         _, c = char
         _, nl = new
@@ -91,16 +91,16 @@ for p in paths:
     filename = filename[-1]
     outputname = folder+filename
     table = pd.read_table(p, header=None)
-    print table
-    new = tabulate_results(table)
-    total += new
-    count +=1
-    #rebuild(table, outputname)
+    #print table
+    #new = tabulate_results(table)
+    #total += new
+    #count +=1
+    rebuild(table, outputname)
 
-total['mean prob'] = total['mean prob']/count
+#total['mean prob'] = total['mean prob']/count
 #print total
 
-p = total.at['TP', 'count']/(total.at['TP', 'count']+total.at['FP', 'count'])
-r = total.at['TP', 'count']/(total.at['TP', "count"]+total.at['FN', 'count'])
-f = 2*(p*r)/(p+r)
+#p = total.at['TP', 'count']/(total.at['TP', 'count']+total.at['FP', 'count'])
+#r = total.at['TP', 'count']/(total.at['TP', "count"]+total.at['FN', 'count'])
+#f = 2*(p*r)/(p+r)
 #print 'precision =', p, "recall =", r, "f-score=", f
