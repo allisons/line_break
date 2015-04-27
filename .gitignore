@@ -1,5 +1,5 @@
 
-.ipynb_checkpoints/debug_text_to_feature_format-checkpoint.ipynb
+.ipynb_checkpoints/*
 
 *.ipynb
 
@@ -8,3 +8,5 @@
 *.csv
 
 *.xml
+
+output_files/*
