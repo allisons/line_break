@@ -1,6 +1,6 @@
 counter = 0
-for j in range(0,9):
-    for i in range(-5,5):
+for j in range(0,6):
+    for i in range(-4,4):
         if counter < 10:
             cntstr = "0"+str(counter)
         else: 
