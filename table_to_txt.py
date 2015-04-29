@@ -20,17 +20,20 @@ based on the file names passed  to it and places it in the "output_files" folder
 It creates that folder if it does not currently exist.
 """
 
-#paths = glob("test_files/predicted*")
-paths = list(glob(sys.argv[1]))
-gold_standard = sys.argv[2]
-    
+paths = sys.argv[1]
+gold_standard = bool(sys.argv[2])
+paths = sys.argv[1] + "/*"
+paths = glob(paths)
 
 folder = ("output_files/")
 if not os.path.exists(folder):
     os.mkdir(folder)
+    
+print "Rebuilding text files with predicted new lines"
+if gold_standard:
+    print "    and tabulating results from test data"
 
 def rebuild(table, output_name, gold_standard=True):
-    print table
     rebuild = ""
     if gold_standard:
         characters = table.iloc[:,-3]
@@ -53,7 +56,7 @@ def rebuild(table, output_name, gold_standard=True):
          new.write(rebuild)
         
 def tabulate_results(table):
-    assert gold_standard == True #need an oracle to tablulate results!
+    assert gold_standard == 1 #need an oracle to tablulate results!
     
     gold = table.iloc[:,-2]
     yhat = table.iloc[:,-1]
@@ -74,20 +77,25 @@ def tabulate_results(table):
                 results.at["TP", "count"] = count + 1
                 results.at["TP", "mean prob"] = mean + prob
             else:
+                assert y == "NNL"
                 #this is true neg
                 count = results.at["TN", "count"]
                 mean = results.at["TN", "mean prob"]
                 results.at["TN", "count"] = count + 1
                 results.at["TN", "mean prob"] = mean + prob
         elif yhat == "NNL":
+            assert y == "NL"
             #this is a false negative
             count = results.at["FN", "count"]
             mean = results.at["FN", "mean prob"]
             results.at["FN", "count"] = count + 1
             results.at["FN", "mean prob"] = mean + prob
         else:
-            count = results.at["TP", "count"]
-            mean = results.at["TP", "mean prob"]
+            #This is a false positive
+            assert yhat == "NL"
+            assert y == "NNL"
+            count = results.at["FP", "count"]
+            mean = results.at["FP", "mean prob"]
             results.at["FP", "count"] = count + 1
             results.at["FP", "mean prob"] = mean + prob        
     results.at["TP", "mean prob"] /= results.at["TP", "count"]
@@ -114,8 +122,24 @@ for p in paths:
 
 if gold_standard:
     total['mean prob'] = total['mean prob']/count
-    print total
-    p = total.at['TP', 'count']/(total.at['TP', 'count']+total.at['FP', 'count'])
-    r = total.at['TP', 'count']/(total.at['TP', "count"]+total.at['FN', 'count'])
+    TP = total.at['TP', 'count']
+    TN = total.at['TN', 'count']
+    FN = total.at['FN', 'count']
+    FP = total.at['FP', 'count']
+    cnfmat = DataFrame(np.zeros(shape=(3,3)), dtype=float)
+    cnfmat.columns=("Oracle True", "Oracle False", "Total")
+    cnfmat.index=("Predicted True", "Predicted False", "Total")
+    cnfmat.at["Predicted True", "Oracle True"] = TP
+    cnfmat.at["Predicted False", "Oracle False"] = TN
+    cnfmat.at['Predicted True', "Oracle False"] = FP
+    cnfmat.at["Predicted False", "Oracle True"] = FN
+    cnfmat.at["Predicted True", "Total"] = TP + FP
+    cnfmat.at["Predicted False", "Total"] = FN + TN
+    cnfmat.at["Total", "Oracle True"] = TP+FN
+    cnfmat.at["Total", "Oracle False"] = TN+FP
+    cnfmat.at["Total", "Total"] = TP + FN + FP + TN
+    print cnfmat
+    p = TP/(TP + FP)
+    r = TP/(TP + FN)
     f = 2*(p*r)/(p+r)
     print 'precision =', p, "recall =", r, "f-score=", f

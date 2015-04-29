@@ -1,9 +1,18 @@
 from glob import glob
+import sys
+import os.path
+import re
 
-test = glob("test_files/test_files/*")
+model = sys.argv[1]
+
+test = glob("formatted_test_data/*")
+if not os.path.exists("formatted_output_data/"):
+    os.mkdir("formatted_output_data")
+name = re.compile("/")
 
 print "#!/bin/bash"
 for t in test:
-    output = " | sed '1d' > test_files/predicted_" + t[37:-4]
-    print "crf_test -v1 -m model_04_23_13 " + t + output
+    idx = name.search(t).start()
+    output = " | sed '1d' > formatted_output_data" + t[idx:]
+    print "crf_test -v1 -m " +  model +" "+ t + output
     

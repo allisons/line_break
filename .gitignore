@@ -12,3 +12,13 @@
 output_files/*
 
 rearranged_trec_data/*
+
+formatted_output_data/*
+
+formatted_test_data/*
+
+test_files/*
+
+train_test_data/*
+
+m_*

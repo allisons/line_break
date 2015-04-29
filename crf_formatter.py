@@ -4,6 +4,7 @@ import pandas as pd
 
 from pandas import DataFrame, Series
 
+FEAT_LIST = ["isAlpha", "isNumeric", "isPunct", "isUpper", "isLower", "is<sp>", "char", "new_line_value"]
 """
 This module takes a list of characters and returns  a pandas DataFrame 
 containing the features data.  Most of the features are boolean, however
@@ -16,13 +17,12 @@ containing the features data.  Most of the features are boolean, however
 
 def features(char_list, gold_standard=True):
     assert isinstance(char_list, list)
-    feat_list = ["isAlpha", "isNumeric", "isPunct", "isUpper", "isLower", "is<sp>", "char", "new_line_value"]
     
     #If the data contains an oracle label, include that label in the features table
     if gold_standard:
-        feat_index = Series(feat_list)
+        feat_index = Series(FEAT_LIST)
     else:
-        feat_index = Series(feat_list[:-1])
+        feat_index = Series(FEAT_LIST[:-1])
     
     feature_list_of_series = list()
     for i in range(len(char_list)):
@@ -59,17 +59,21 @@ def features(char_list, gold_standard=True):
             featurelist.append(False)
         
         
-        if char_list[i] == " ":
+        if (char_list[i] == " "):
             featurelist.append(True)
             char_list[i] = "<sp>"
+            store = "NNL"
             
-        else:
-            featurelist.append(False)
-        if char_list[i] == "\n":
-            store = "NL"
+        elif char_list[i] =="\n":
             if gold_standard:
                 char_list[i] = "<sp>"
+                featurelist.append(True)
+                char_list[i] = "<sp>"
+                store = "NL"
+            else:
+                featurelist.append(False)
         else:
+            featurelist.append(False)
             store = "NNL"
         #Add character (at the end 'cause we changed it)
         featurelist.append(str("'"+char_list[i]+"'"))
