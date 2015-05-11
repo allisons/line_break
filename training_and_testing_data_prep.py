@@ -12,15 +12,16 @@ from glob import glob
 import sys
 import argparse
 
-from crf_formatter import features
+from crf_formatter import char_features, word_features
 
-
+#Character based features?
+char = False
 
 start = time.time()
 sep = "\t"
 test_portion = .1
 rnd = random.Random()
-rnd.seed(31)
+rnd.seed(75)
 
 def test_train_fold(paths):
     paths = paths+"/*"
@@ -64,11 +65,15 @@ if 1: #prepping training data
             text = root[-1].text
         else:
             text = string
-        char_list = list()
-        for char in text:
-            char_list.append(char)
     
-        feature_matrix = features(char_list)
+        if char:
+            char_list = list()
+            for char in text:
+                char_list.append(char)
+            feature_matrix = char_features(char_list)
+        else:
+            feature_matrix=word_features(text)
+        
         doc_list.append(feature_matrix)
         total_features = pd.concat([total_features, feature_matrix], axis=0)
 
@@ -101,11 +106,13 @@ if 1: #If we're reformating test data at the same time.
             text = root[-1].text
         else:
             text = string
-        char_list = list()
-        for char in text:
-            char_list.append(char)
-    
-        feature_matrix = features(char_list)
+        if char:
+            char_list = list()
+            for char in text:
+                char_list.append(char)
+            feature_matrix = char_features(char_list)
+        else:
+            feature_matrix = word_features(text)
         idx = name.search(path).start()
         if not os.path.exists("formatted_test_data/"):
             os.mkdir("formatted_test_data")

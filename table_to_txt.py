@@ -21,7 +21,8 @@ It creates that folder if it does not currently exist.
 """
 
 paths = sys.argv[1]
-gold_standard = bool(sys.argv[2])
+GOLD_STANDARD = bool(sys.argv[2])
+CHAR = "1" == sys.argv[3]
 paths = sys.argv[1] + "/*"
 paths = glob(paths)
 
@@ -30,33 +31,50 @@ if not os.path.exists(folder):
     os.mkdir(folder)
     
 print "Rebuilding text files with predicted new lines"
-if gold_standard:
+if GOLD_STANDARD:
     print "    and tabulating results from test data"
 
-def rebuild(table, output_name, gold_standard=True):
+def rebuild(table, output_name, char, gold_standard=True):
+    print output_name
     rebuild = ""
+    words = table.iloc[:,0]
     if gold_standard:
-        characters = table.iloc[:,-3]
+        character = table.iloc[:,-3]
     else:
-        characters = table.iloc[:,-2]
+        character = table.iloc[:,-2]
     newlines = table.iloc[:,-1]
-    for char, new in zip(characters.iteritems(), newlines.iteritems()):
-        _, c = char
-        _, nl = new
-        if 1: #We're using a verbose version of the output
-            label, _ = nl.split("/")
-            nl = label
-        if nl == "NL":
-            rebuild +="\n"
-        elif c == "'<sp>'":
-            rebuild += " "
-        else:
-            rebuild += c[1:-1]
+    if char:
+        for char, new in zip(character.iteritems(), newlines.iteritems()):
+            _, c = char
+            _, nl = new
+            if 1: #We're using a verbose version of the output
+                label, _ = nl.split("/")
+                nl = label
+            if nl == "NL":
+                rebuild +="\n"
+            elif c == "'<sp>'":
+                rebuild += " "
+            else:
+                rebuild += c[1:-1]
+    else:
+        for word, new in zip(words.iteritems(), newlines.iteritems()):
+            _, w = word
+            _, nl = new
+            if 1:
+                label, _ = nl.split("/")
+                nl = label
+            if nl == "NL":
+                if w == "<BLANKSPACE>":
+                    rebuild += "\n"
+                else:
+                    rebuild += str(w) + "\n"
+            else:
+                rebuild += str(w) + " "
     with open(output_name, 'wb') as new:
          new.write(rebuild)
         
 def tabulate_results(table):
-    assert gold_standard == 1 #need an oracle to tablulate results!
+    assert GOLD_STANDARD == 1 #need an oracle to tablulate results!
     
     gold = table.iloc[:,-2]
     yhat = table.iloc[:,-1]
@@ -114,13 +132,13 @@ for p in paths:
     filename = filename[-1]
     outputname = folder+filename
     table = pd.read_table(p, header=None)
-    if gold_standard:
+    if GOLD_STANDARD:
         new = tabulate_results(table)
         total += new
         count +=1
-    rebuild(table, outputname)
+    rebuild(table, outputname, CHAR)
 
-if gold_standard:
+if GOLD_STANDARD:
     total['mean prob'] = total['mean prob']/count
     TP = total.at['TP', 'count']
     TN = total.at['TN', 'count']
