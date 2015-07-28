@@ -21,21 +21,65 @@ It creates that folder if it does not currently exist.
 """
 
 paths = sys.argv[1]
-GOLD_STANDARD = bool(sys.argv[2])
-CHAR = "1" == sys.argv[3]
+GOLD_STANDARD = "1" == sys.argv[2]
 paths = sys.argv[1] + "/*"
 paths = glob(paths)
+template = sys.argv[3].split("/")[-1]
+REBUILD = sys.argv[4] == "1"
+
+
+assert (REBUILD or GOLD_STANDARD) #If both are false, I have nothing to do.
 
 folder = ("output_files/")
-if not os.path.exists(folder):
-    os.mkdir(folder)
-    
-print "Rebuilding text files with predicted new lines"
-if GOLD_STANDARD:
-    print "    and tabulating results from test data"
+if REBUILD:
+    if not os.path.exists(folder):
+        os.mkdir(folder)
+    html_folder = ("html_error_viz/")
+    if not os.path.exists(html_folder):
+        os.mkdir(html_folder)
 
-def rebuild(table, output_name, char, gold_standard=True):
-    print output_name
+    
+if REBUILD:
+    print "Rebuilding text files with predicted new lines"
+if GOLD_STANDARD:
+    print "Tabulating results from test data"
+
+def color_code_rebuild(table, output_name):
+    header = "<html>\n<head></head><body>\n<p>"
+    rebuild = ""
+    falsepos = 0
+    falseneg = 0
+    words = table.iloc[:,0]
+    oracle = table.iloc[:,-2]
+    newlines = table.iloc[:, -1]
+    for word, oracle, new in zip(words.iteritems(), oracle.iteritems(), newlines.iteritems()):
+        _, w = word
+        _, true = oracle
+        _, nl = new
+        label, _ = nl.split("/")
+        nl = label
+        if nl =="NL" and true == "NL":
+            if w == "<BLANKSPACE>":
+                rebuild += "-|-</p><p>"
+            else:
+                rebuild += str(w) + "</p><p>"
+        elif nl == "NL" and true == "NNL":
+            falsepos += 1
+            rebuild += "</p><SPAN STYLE=\"background-color:#AA5585\">[ ]</SPAN><p>"
+        elif nl == "NNL" and true == "NL":
+            rebuild += str(w) + "<SPAN STYLE=\"background-color:#A5C663\"> </SPAN> "
+            falseneg += 1
+        else:
+            rebuild += str(w) + " "
+        
+    rebuild += "<p>\n</body></html>"
+    rebuild = header + "<p>Missed NewLine count = <SPAN STYLE=\"background-color:#A5C663\">" + str(falseneg) + "</SPAN> Extra NewLine count = <SPAN STYLE=\"background-color:#AA5585\">" + str(falsepos) + "</SPAN> </p><p>" + rebuild
+    output_name += ".html"
+    with open(output_name, 'wb') as out:
+        out.write(rebuild)
+    
+
+def rebuild(table, output_name, gold_standard=True):
     rebuild = ""
     words = table.iloc[:,0]
     if gold_standard:
@@ -43,33 +87,19 @@ def rebuild(table, output_name, char, gold_standard=True):
     else:
         character = table.iloc[:,-2]
     newlines = table.iloc[:,-1]
-    if char:
-        for char, new in zip(character.iteritems(), newlines.iteritems()):
-            _, c = char
-            _, nl = new
-            if 1: #We're using a verbose version of the output
-                label, _ = nl.split("/")
-                nl = label
-            if nl == "NL":
-                rebuild +="\n"
-            elif c == "'<sp>'":
-                rebuild += " "
+    for word, new in zip(words.iteritems(), newlines.iteritems()):
+        _, w = word
+        _, nl = new
+        if 1:
+            label, _ = nl.split("/")
+            nl = label
+        if nl == "NL":
+            if w == "<BLANKSPACE>":
+                rebuild += "\n"
             else:
-                rebuild += c[1:-1]
-    else:
-        for word, new in zip(words.iteritems(), newlines.iteritems()):
-            _, w = word
-            _, nl = new
-            if 1:
-                label, _ = nl.split("/")
-                nl = label
-            if nl == "NL":
-                if w == "<BLANKSPACE>":
-                    rebuild += "\n"
-                else:
-                    rebuild += str(w) + "\n"
-            else:
-                rebuild += str(w) + " "
+                rebuild += str(w) + "\n"
+        else:
+            rebuild += str(w) + " "
     with open(output_name, 'wb') as new:
          new.write(rebuild)
         
@@ -129,14 +159,18 @@ count = 0
 
 for p in paths:
     filename = p.split("/")
-    filename = filename[-1]
+    filename = "reconstructed_" + filename[-1][15:]
     outputname = folder+filename
     table = pd.read_table(p, header=None)
+    if REBUILD:
+        rebuild(table, outputname)
     if GOLD_STANDARD:
         new = tabulate_results(table)
         total += new
         count +=1
-    rebuild(table, outputname, CHAR)
+        if REBUILD:
+            htmloutput = html_folder+filename
+            color_code_rebuild(table, htmloutput)
 
 if GOLD_STANDARD:
     total['mean prob'] = total['mean prob']/count
@@ -156,8 +190,9 @@ if GOLD_STANDARD:
     cnfmat.at["Total", "Oracle True"] = TP+FN
     cnfmat.at["Total", "Oracle False"] = TN+FP
     cnfmat.at["Total", "Total"] = TP + FN + FP + TN
-    print cnfmat
     p = TP/(TP + FP)
     r = TP/(TP + FN)
     f = 2*(p*r)/(p+r)
-    print 'precision =', p, "recall =", r, "f-score=", f
+    line = template + "\t" + str(TP) + "\t" + str(FP) + "\t" + str(FN) + "\t" + str(TN) + "\t" + str(p) + "\t" + str(r) + "\t" + str(f) +"\n"
+    with open("totalresults.txt", "a") as f:
+        f.write(line)

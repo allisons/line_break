@@ -4,8 +4,8 @@ import os.path
 import re
 
 model = sys.argv[1]
-
-test = glob("formatted_test_data/*")
+test = sys.argv[2] + "/*"
+test = glob(test)
 if not os.path.exists("formatted_output_data/"):
     os.mkdir("formatted_output_data")
 name = re.compile("/")

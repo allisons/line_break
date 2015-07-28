@@ -10,18 +10,20 @@ from string import punctuation as punct
 import os.path
 from glob import glob
 import sys
-import argparse
 
-from crf_formatter import char_features, word_features
+from crf_formatter import *
 
 #Character based features?
 char = False
+
+feat_functs = {"case": case_features, "num": num_features, "punct": punct_features, "casenum": case_num_features, 
+"casepunct": case_punct_features, "numpunct": num_punct_features, "allword": word_features}
 
 start = time.time()
 sep = "\t"
 test_portion = .1
 rnd = random.Random()
-rnd.seed(75)
+#rnd.seed(12)
 
 def test_train_fold(paths):
     paths = paths+"/*"
@@ -32,17 +34,29 @@ def test_train_fold(paths):
     testdata = shuffled[:n]
     traindata = shuffled[n:]
     return testdata, traindata 
-
-if 1: #shuffley bits    
-    TESTDATA, TRAINDATA = test_train_fold(sys.argv[1])
-
+    
+def xml_strip(text):
+    old = text
+    report_tag = re.compile("<report_text>")
+    end_tag = re.compile("</report_text")
+    begin = report_tag.search(text)
+    end = end_tag.search(text)
+    s = begin.start()+13
+    e = end.start()
+    fixed = text[s:e]
+    assert not old == fixed
+    return fixed
+    
+#TESTDATA, TRAINDATA = test_train_fold(sys.argv[1])
+TRAINDATA = glob(sys.argv[1]+"/*")
+TESTDATA = glob(sys.argv[2]+"/*")
+if len(sys.argv) > 3:
+    word_features = feat_functs[sys.argv[3]]
 else:
-    TRAINDATA1 = glob('sliter_gold_standard/*')
-    TRAINDATA2 = glob('first_50/*')
-    TRAINDATA = TRAINDATA1 + TRAINDATA2
-    TESTDATA = glob('test_files/*')
+    word_features = feat_functs["allword"]
 
-if 1: #prepping training data
+
+def prepare_train_data(TRAINDATA):
     print "Beginning training data preparation"
     total_features = DataFrame()
     doc_list = list()
@@ -52,27 +66,12 @@ if 1: #prepping training data
         with open(path) as f:
             string = f.read()
 
-        if path[-3:] == "xml":
-            root = etree.fromstring(string)
-            tree = etree.parse(path)
-
-            #Removes vestigial html tags at end of file.
-            tag = re.compile("<start | <START")
-            search = tag.search(root[-1].text)
-            if search:
-                match = search.start()
-                root[-1].text = root[-1].text[:match]
-            text = root[-1].text
+        if path[-4:] == "xml":
+            text = xml_strip(string)
+            assert len(text) < len(string)
         else:
             text = string
-    
-        if char:
-            char_list = list()
-            for char in text:
-                char_list.append(char)
-            feature_matrix = char_features(char_list)
-        else:
-            feature_matrix=word_features(text)
+        feature_matrix=word_features(text)
         
         doc_list.append(feature_matrix)
         total_features = pd.concat([total_features, feature_matrix], axis=0)
@@ -84,35 +83,21 @@ if 1: #prepping training data
     save_train = time.time() - end_train
     print "Training features saved"
 
-if 1: #If we're reformating test data at the same time.
+def prepare_test_data(TESTDATA):
     print "Beginning test data prep"
     begin_test = time.time()
     name = re.compile("/")
     for path in TESTDATA:
-        #print path
         
         with open(path) as f:
             string = f.read()
-        if path[-3:] == ".xml":
-            root = etree.fromstring(string)
-            tree = etree.parse(path)
-
-            #Removes vestigial html tags at end of file.
-            tag = re.compile("<start | <START")
-            search = tag.search(root[-1].text)
-            if search:
-                match = search.start()
-                root[-1].text = root[-1].text[:match]
-            text = root[-1].text
+        if path[-4:] == ".xml":
+            text = xml_strip(string)
+            assert len(text) < len(string)
         else:
             text = string
-        if char:
-            char_list = list()
-            for char in text:
-                char_list.append(char)
-            feature_matrix = char_features(char_list)
-        else:
-            feature_matrix = word_features(text)
+        
+        feature_matrix = word_features(text)
         idx = name.search(path).start()
         if not os.path.exists("formatted_test_data/"):
             os.mkdir("formatted_test_data")
