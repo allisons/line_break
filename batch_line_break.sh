@@ -1,7 +1,3 @@
-rm -rf formatted_output_data
-rm -rf formatted_test_data
-rm -rf output_files
-rm train_features
 ./line_break.sh training_fold_0.txt testing_fold_0.txt allword AllWordFeatures_2_model_0 templates/AllWordFeatures_2_template 1 0
 rm -rf formatted_output_data
 rm -rf formatted_test_data
