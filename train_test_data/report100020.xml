@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20091103HP-gzcD8RfafP9w-848-253404682</checksum>
+<subtype>PALLIATIVE CONSULT</subtype>
+<type>HP</type>
+<chief_complaint/>
+<admit_diagnosis/>
+<discharge_diagnosis/>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+PALLIATIVE CARE
+CONSULTATION
+ 
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  PREM  **NAME[XXX]
+CONSULTING PHYSICIAN:  **NAME[YYY M. ZZZ], M.D.
+DATE OF ADMISSION:  **DATE[Nov 01 2009]
+DATE OF CONSULTATION:  **DATE[Nov 03 09]
+ 
+ 
+I am seeing this patient in consultation at the request of Dr. **NAME[WWW]. 
+ 
+CHIEF COMPLAINT: Support and goals of care.
+ 
+HPI: The patient is a **AGE[in 50s]-year-old gentleman with a past history of type 2 diabetes, hypertension, and heart failure who presented to **INSTITUTION on the day of admission with shortness of breath, sputum production, and some cyanosis. He then suffered a PEA cardiac arrest. He had 15 minutes of CPR, was resuscitated and was flown to **INSTITUTION for a cooling protocol. His course has been complicated by status epilepticus. He has been seen by the Neurology Service who felt that there was  quite a poor prognosis.  He had been loaded with Dilantin, but is still in status.  
+ 
+We met with the family today. He has a large and very supportive family, including a wife and several children. They are very involved in the Salvation Army Church and have several clergy with them today. They understand the situation is quite grim. They also understand that the plan is to warm him tomorrow, assess for any meaningful mental status and make decisions from there.  
+ 
+PAST MEDICAL HISTORY: 
+ 
+1. Hypertension. 
+2. Chronic renal insufficiency. 
+3. Obstructive sleep apnea. 
+4. Hypothyroidism. 
+5. Type 2 diabetes. 
+ 
+ALLERGIES: 
+ 
+NO DRUG ALLERGIES. 
+ 
+SOCIAL HISTORY: 
+ 
+He is married and lives with his wife. 
+ 
+REVIEW OF SYSTEMS: 
+ 
+Unobtainable as the patient was noncommunicative. 
+MEDICATIONS: 
+ 
+Medications are in the chart and have been reviewed. He is receiving:
+ 
+1. Dopamine.
+2. Fentanyl.
+3. vercurium for paralysis. 
+4. He is on a cooling protocol. 
+ 
+PHYSICAL EXAMINATION: 
+ 
+On exam, he is lying in bed, unresponsive to voice or to touch.
+ 
+HEENT exam: He has anicteric sclerae. He has pinpoint pupils. 
+ 
+Neurologic exam: No corneal reflexes. No overt seizure activity is noted, but he is paralyzed.  
+ 
+Skin: He has some ectatic, superficial veins in his feet. Skin is cold to the touch throughout with some cyanosis of the toes.  
+ 
+Cardiovascular: Regular rate and rhythm. No murmurs. Trace bilateral edema.
+ 
+Lungs: Anterior lung fields are coarse. He is vented. 
+ 
+Abdomen: Distended, soft. No bowel sounds are appreciated.
+ 
+Musculoskeletal: No gross joint abnormalities. 
+ 
+LABORATORY/DIAGNOSTIC DATA: 
+ 
+BUN 22, creatinine 0.7. He had an EEG which showed status epilepticus.
+ 
+The case was discussed with Dr. **NAME[WWW] of the primary service. 
+ 
+IMPRESSION AND PLAN: 
+ 
+1. Goals of care. Will reconvene with the primary service and the family tomorrow after he has been warmed to discuss further his prognosis and possible withdrawal of life support, if indicated.  
+ 
+2. Support and coping. The family has a very strong faith. They appear to be coping quite well thus far. Will continue to be present to provide support, if necessary. 
+ 
+Thank you for the consult.
+ 
+ 
+___________________________________
+**NAME[YYY M. ZZZ], M.D.
+ 
+ 
+ 
+Dictator:  **NAME[YYY M. ZZZ], M.D.
+ 
+WGT/maf
+ 
+D:  **DATE[Nov 03 2009] 14:01:16
+T:  **DATE[Nov 03 2009] 15:32:50
+R:  **DATE[Nov 03 2009] 15:32:50/maf
+ 
+Job ID:  **ID-NUM/**ID-NUM
+ 
+Cc:
+Authenticated and Edited by **NAME[YYY ZZZ] On **DATE[Nov 09 09] 4:19:45 PM 
+
+
+
+</report_text>
+</report>

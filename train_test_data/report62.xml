@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060607ER-jeP9npfyVCGq-848-360226286</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>L EYE PAIN</chief_complaint>
+<admit_diagnosis>930.9</admit_diagnosis>
+<discharge_diagnosis>930.0,E914,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+ 
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Jun 07 06]
+PRIMARY CARE PHYSICIAN: A  N
+ 
+ 
+CHIEF COMPLAINT:  Eye pain.
+ 
+HISTORY OF PRESENT ILLNESS:  This is a **AGE[in 20s]-year-old male who is a metal worker who had a metallic foreign body of the left eye two days ago.  He was seen at an outside Emergency Department in Sewickley and apparently had a portion of the metallic foreign body removed, but per his report they told him there was still a rust ring and that he should see an ophthalmologist on Monday which is tomorrow.  The patient was discharged on Vicodin.  He had worsening pain and returned to the Emergency Department yesterday.  He had a change in his prescription to Percocet and was discharged.  He was not satisfied with this management plan and he brought himself here to hopefully see an ophthalmologist.  The patient states he has continued left eye pain and irritation and tearing.  Difficulty with vision as the rust ring is near his central vision.  He has no itching or burning of the eye, only irritation.  He has a positive foreign body sensation.  He has no visual changes or double vision or blurry vision.   
+ 
+REVIEW OF SYSTEMS:  No fevers or chills, no headache or visual changes other than those noted above.  No nausea, vomiting, diarrhea, abdominal pain.  No chest pain or shortness of breath.  No cough.  No weakness, numbness, or tingling.  Review of systems otherwise reviewed by me and are negative. 
+ 
+PAST MEDICAL HISTORY:  None.
+ 
+MEDICATIONS: None.
+ 
+ALLERGIES:  None.
+ 
+SOCIAL HISTORY:  No tobacco, alcohol, or drugs.
+ 
+FAMILY HISTORY:  None.
+ 
+PHYSICAL EXAM:  
+ 
+GENERAL:  Well-developed, well-nourished, Caucasian male in no acute distress.   
+ 
+VITAL SIGNS:  Temperature 36.8, pulse 83, respirations 16, blood pressure 130/80.   
+ 
+HEENT:  His head is normocephalic and atraumatic.  The pupils are equal, round, and reactive to light.  Sclerae anicteric.  Conjunctivae are slightly injected in the left eye.  The left eye has a very obvious rust ring at 3 o'clock near the central visual field.  Visual acuity is 20/20 on the right and 20/70 on the left.  He has pupils that are equal, round, and reactive to light and brisk.  Extraocular movements are full without any pain.  On slit lamp examination, the anterior chamber appears normal.  The rust ring appears to be lacking any more foreign body.  The disk appears normal on funduscopic examination by indirect ophthalmoscopy.  The mouth shows moist mucous membranes. 
+ 
+NECK:  Supple.
+ 
+HEART:  Regular.
+ 
+LUNGS:  Clear.
+ 
+ABDOMEN:  Soft, nontender.
+ 
+SKIN:  Warm and dry.
+ 
+NEUROLOGIC:  Grossly nonfocal.
+ 
+ED COURSE:  The patient was given two tablets of Percocet here for pain, and he was seen by the Ophthalmology resident whom we consulted.  The Ophthalmology resident removed the foreign body.  They stated that this was only a foreign body and not a rust ring.  The patient was prescribed Vigamox one drop q.i.d. for five days.  He was instructed to follow up with the **INSTITUTION early this week.  He was  
+ discharged in stable condition satisfied with the management plan.  Of note, we had intended to prescribe the patient Percocet, but the patient was discharged prior to getting this prescription.  The patient did have relief in his symptoms with the removal of the foreign body. 
+ 
+DIAGNOSIS(ES):  LEFT EYE FOREIGN BODY, STATUS POST REMOVAL.
+ 
+ 
+ 
+ 
+___________________________________
+**NAME[ZZZ M YYY], M.D.
+ 
+ 
+ 
+ 
+Dictator:  **NAME[WWW M. XXX], M.D.
+ 
+RBB/tm
+ 
+D:  **DATE[Jun 07 2007] 04:09:57
+T:  **DATE[Jun 07 2007] 07:31:53
+R:  **DATE[Jun 07 2007] 07:31:53/tm
+ 
+Job ID:  335613/**ID-NUM
+ 
+Cc:
+ 
+
+
+
+</report_text>
+</report>

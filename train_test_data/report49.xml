@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060504OP-PM1xffCkj2Ng-848-1654875910</checksum>
+<subtype>GI OP</subtype>
+<type>OP</type>
+<chief_complaint>COLON CANCER WITH METS TO LIVER</chief_complaint>
+<admit_diagnosis>997.4</admit_diagnosis>
+<discharge_diagnosis>997.4,789.5,V10.05,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+GASTROENTEROLOGY
+OPERATIVE REPORT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+SURGEON:  **NAME[WWW XXX], TTT], Ph.D.
+ASSISTANT(S):  
+ATTENDING PHYSICIAN:  **NAME[YYY M ZZZ]
+SURGERY DATE:  **DATE[May 04 06]
+ADMISSION DATE:  **DATE[May 03 2007]
+DISCHARGE DATE:  
+PROCEDURE:  ENDOSCOPIC RETROGRADE CHOLANGIOPANCREATOGRAPHY.
+INDICATIONS:  This is a young man with metastatic colon cancer status post wedge resection of a hepatic __________ who had a small bile leak as manifested by a collection.  We were asked to place a stent to help treat potentially intermittent leak.  Consent was obtained from the patient, after explaining the risks, benefits, and alternatives.  The operators were Dr. **NAME[WWW XXX] and Dr. **NAME[SSS RRR]. I was present for the entire procedure.  I supervised the acquisition, interpretation of fluoroscopic images. 
+DESCRIPTION OF OPERATION:  The patient was sedated with monitored anesthesia care.  The Pentax video therapeutic duodenoscope was passed under direct vision.  The esophagus, stomach, and duodenum were normal.  Major papilla was normal.  We selectively cannulated the bile duct avoiding pancreatic injection.  Contrast injection showed normal post-cholecystectomy anatomy with no leak.  We injected enough contrast to fill secondary and tertiary branches and again saw no leak.  Based on the request of the liver surgeon, we placed a 7-French 3-cm transpapillary stent in case we are dealing with it intermittently based on his history of a reaccumulated collection. 
+ASSESSMENT:  Normal postop ERCP.  Stent placed as above.  Recommends EGD with stent removal in 3 to 4 weeks. 
+ 
+___________________________________
+**NAME[WWW XXX], TTT], Ph.D.
+Associate Chief of Division
+Gastroenterology, Hepatology and Nutrition
+Dictator: **NAME[WWW XXX], TTT], Ph.D.
+AS/vk
+D:  **DATE[May 04 2007] 16:50:03
+T:  **DATE[May 05 2007] 04:14:26
+R:  **DATE[May 05 2007] 04:14:26/vk
+JOB ID:  332631/**ID-NUM
+CC:
+10 **NAME[QQQ] West Montefiore
+**NAME[YYY ZZZ], M.D.
+ 
+*** Dictated By: -**NAME[XXX], M.D., Ph.D.-Adam ***
+Electronically Signed by **NAME[WWW XXX]  **DATE[May 08 2007] 01:42:14 PM
+ 
+
+
+
+</report_text>
+</report>

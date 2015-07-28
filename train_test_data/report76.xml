@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060705ER-u4q4f0IC9+kK-848-868212814</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>PAIN UNDER BREAST</chief_complaint>
+<admit_diagnosis>486</admit_diagnosis>
+<discharge_diagnosis>486,733.00,401.9,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM 
+DATE OF SERVICE:  **DATE[Jul 05 06] 
+PRIMARY CARE PHYSICIAN: **NAME[VVV]  **DATE[Sep]
+HISTORY OF PRESENT ILLNESS:  
+Chief complaint:  Cough.
+A **AGE[in 70s]-year-old female who presents with upper respiratory symptoms for the past two weeks.  She has been seen as an outpatient for this.  She initially was taking amoxicillin for four to five days.  This was not helping.  She had an  x-ray done at that time which showed no evidence of pneumonia and she was started on azithromycin for three days.  She completed that course and her symptoms still did not improve.  Her husband had similar symptoms and he was on Avelox and improved on Avelox, so she was started on Avelox four days ago. 
+ She comes in today because she still has a persistent cough with no difficulty breathing and today she feels a constant sharp pain in her right breast.  This pain has been present before, but it has been intermittent.  
+She has had no fevers, no recent travel, no edema.  She has had a small amount of diarrhea in the past two days.  She has also had increased urine output which she attributes to the fact that she has been drinking more fluids. 
+The pain in her right breast is sharp and nonradiating.  It is not tender to palpation.  It is worse with movement and better with rest.  It is worse when she is lying flat in bed or when she is sitting up.   
+REVIEW OF SYSTEMS:  
+As above, the patient denies any other significant symptoms.
+PAST MEDICAL HISTORY:  
+1. Osteoporosis.
+2. Hypertension.
+MEDICATIONS:
+1. Diovan.
+2. Aspirin.
+3. Fosamax.
+ALLERGIES: 
+NO KNOWN DRUG ALLERGIES.
+SOCIAL HISTORY:
+The patient lives at home with her husband.  She quit smoking 30 years ago, drinks one glass of wine a day, denies any other drug use.  
+FAMILY HISTORY:
+Nonsignificant.  Denies any family history of blood clots.
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Temperature 36.6, heart rate 76, respiratory rate 16, blood pressure 160/72, saturating 97% on room air.   
+IN GENERAL:  The patient is not in any acute distress.  She is sitting comfortably on the bed.   
+HEENT:  Pupils equal, round, and reactive to light.  Extraocular movements intact.  Sclerae anicteric.  Mucous membranes moist.   
+NECK:  Supple.
+HEART:  Regular rate and rhythm, no murmurs, rubs, or gallops.
+LUNGS:  Faint expiratory wheezes bilaterally.  
+ABDOMEN:  Soft, nontender, nondistended.
+EXTREMITIES:  2+ pulses in all four extremities, no edema, no calf tenderness.
+NEURO:  Alert and oriented times three, asymmetric, conversing appropriately. 
+ Gait normal.  Moving all four extremities.  No gross deficits.   
+LABORATORY DATA/STUDIES:
+Chest x-ray shows no acute disease.  
+CT of the chest with PE protocol shows no evidence of PE.  There is a right lower lobe pneumonia and a right lower lobe nodule which will require follow-up in eight weeks.   
+Creatinine was 0.8.
+ED COURSE:  
+The patient was examined by myself and Dr. **NAME[UUU].  She was never in any acute distress.  Given her persistent symptoms despite antibiotics, we were concerned for a possible noninfectious cause of her cough and right-sided pleuritic chest pain.  She had a CT of her chest with contrast to rule out a PE and there was no evidence of a PE.  She does have a right lower lobe pneumonia which is consistent with her presentation.  This is a community-acquired pneumonia; however, she has failed outpatient antibiotics times three.  She was given 1 gram of ceftriaxone and 500 mg of azithromycin IV here in the emergency department and she was given albuterol and Atrovent with improvement of her wheezes.  She was also given Vicodin which abated her right-sided chest pain.  I do not believe she has a cardiac nature for this chest pain.  I believe it is musculoskeletal based on her coughing for the past two weeks.   
+The patient was admitted to **INSTITUTION.  This was discussed with Dr. **NAME[TTT], her PCP.  She requested a private bed and they were unable to get this bed for several hours.  The patient did remain in the emergency department for several hours.  She was comfortable while here.  She did require one more dose of Vicodin for her chest pain.  She was admitted to **INSTITUTION in stable condition.  The plan was discussed with the patient. 
+ She expressed her understanding. 
+ADMISSION DIAGNOSIS(ES): 
+1. COMMUNITY-ACQUIRED PNEUMONIA.
+2. MUSCULOSKELETAL PAIN, RIGHT CHEST.
+___________________________________
+**NAME[YYY M ZZZ], M.D.
+ 
+Dictator:  **NAME[WWW XXX], M.D.
+**INITIALS
+D:  **DATE[Jul 05 2007] 16:44:58
+T:  **DATE[Jul 05 2007] 16:55:46
+R:  **DATE[Jul 05 2007] 16:55:46/klf
+Job ID:  334238/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[XXX, SSS] ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Jul 14 2007] 10:06:39 PM
+ 
+
+
+
+</report_text>
+</report>

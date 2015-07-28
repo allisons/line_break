@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060413ER-o+8KLhhglECx-848-1648042395</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>R EYE PAIN</chief_complaint>
+<admit_diagnosis>372.30</admit_diagnosis>
+<discharge_diagnosis>372.39,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Apr 13 06]
+PRIMARY CARE PHYSICIAN: **NAME[XXX M WWW]
+ATTENDING PHYSICIAN ADDENDUM:  
+This is an **AGE[in teens]-year-old female seen by me along with the resident.  Please see the resident's dictated history and physical for details.  
+The patient comes in to the Emergency Department with excessive tearing of the left eye followed by soreness of the upper lid associated with infraorbital pain.  She also complains of mild sinus congestion and denies any fevers, chills. Vitals show that her temperature is 36.8, pulse is 81, respiration is 18, and blood pressure is 100/62.  Examination of the left eye shows her to have fulminant papillae with no evidence of chalazion or stye over the left upper or lower eyelid.  There is trace conjunctival injection.  The cornea is clear.  There is no excessive collection of secretions in the left eye, and there is no tenderness or redness over the ________ glands or over the collecting system.   
+Hospital Course and Plan:  Examination is consistent with contact lens-associated conjunctivitis.  She has mild redness associated with fulminant papillae.  Clinically, there is no evidence to suggest a sinusitis.  She does have __________ discomfort.   
+I have recommended that she be started on Patanol b.i.d., left eye.  Antibiotic treatment will not be initiated at this time.  I have told her that she can take over-the-counter pseudoephedrine to help with the congestion.  Artificial tears are to be used on a p.r.n. basis.  She will follow in a few weeks.  She will come back if her symptoms are worse in any way.   
+DISCHARGE DIAGNOSIS(ES):  
+CONTACT LENS-ASSOCIATED CONJUNCTIVITIS.
+___________________________________
+**NAME[YYY ZZZ], M.D.
+Emergency Medicine
+Attending Physician
+Dictator:  **NAME[YYY ZZZ], M.D.
+JA/mr
+D:  **DATE[Apr 13 2007] 20:32:02
+T:  **DATE[Apr 13 2007] 20:46:19
+R:  **DATE[Apr 13 2007] 20:46:19/mr
+Job ID:  345707/**ID-NUM
+ 
+*** Dictated By: -**NAME[ZZZ, VVV] ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Apr 22 2007] 08:40:56 PM
+ 
+
+
+
+</report_text>
+</report>

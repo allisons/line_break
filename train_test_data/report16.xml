@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060302ER-mI1lyypn43Re-848-1198248013</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>DIARRHEA</chief_complaint>
+<admit_diagnosis>787.91</admit_diagnosis>
+<discharge_diagnosis>276.51,427.31,599.0,428.0,008.8,414.00,V45.81,272.4,244.9,530.81,401.9,250.00,V58.67,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Mar 02 06]
+PRIMARY CARE PHYSICIAN: **NAME[YYY M ZZZ]
+HISTORY OF PRESENT ILLNESS:  
+CHIEF COMPLAINT:  Generalized weakness, diarrhea, elevated blood sugar.
+I reviewed the history, physical and medical management with the resident. I also reviewed her nursing notes. I personally interviewed and examined the patient. 
+HISTORY OF PRESENT ILLNESS:  This is an **AGE[in 80s]-year-old female with a past medical history significant for insulin-dependent diabetes, presenting with persistent diarrhea preceded with abdominal cramping and also elevated blood sugar.  She states that because of her inability to tolerate her regular diet, she has not been using her insulin as her regular regimen.  She denies any blood in her stool and has not had any recent sick contact.  She denies any recent antibiotic use.  She denies any dysuria.  She denies any joint pain.  She does not have any cough or sputum production.  No headache or vision changes, or light-headedness.   
+REVIEW OF SYSTEMS:    
+All other review of systems are otherwise negative.
+PAST MEDICAL HISTORY:   
+PAST MEDICAL HISTORY, MEDICATIONS, ALLERGIES, AND SOCIAL HISTORY:  As per the resident report. 
+PHYSICAL EXAM:  
+On examination this is a well-developed white female in no acute distress.  
+Vital Signs:  Temperature 36.4, pulse 61, respirations 14, blood pressure 120/60, pulse oximetry 94% on room air. 
+HEENT exam reveals normocephalic, atraumatic head, equal and reactive pupils. 
+ Intact extraocular movements.  The oral mucosa is somewhat dry, no erythema or exudate. 
+Neck is supple and nontender.
+Lung sounds are clear and equal bilaterally.
+Heart sounds are regular.
+Abdomen is soft, nontender.
+Extremity exam shows plus 2 pulses, no peripheral edema.
+Neurologically she is alert and oriented times three.  The cranial nerves II through XII are within normal limits.  Motor is 5/5 in all extremities.  
+There is no focal neurologic deficit.  
+Rectal is heme negative brown stool.
+ED COURSE:  
+The patient was hyperglycemic here and she was treated with subcutaneous insulin and given intravenous fluids.  Her CBC and chem 7 otherwise is unremarkable.  She does have some rise in her renal function.  Her blood glucose did come down with the subcutaneous insulin.  The patient was unable to give us a stool sample here to be sent off for Clostridium difficile toxin analysis.   
+The patient does have a urinary tract infection here and this was treated with ciprofloxacin.  Given that the patient states that her blood sugar has been difficult to control over this last month, I think further inpatient treatment for her dehydration as well as improved glycemic control as an inpatient may be warranted.  We spoke with Dr. **NAME[ZZZ]' Service as well as the I Service nurse practitioner and the patient will be admitted. 
+ADMISSION DIAGNOSIS(ES):  
+1. PERSISTENT DIARRHEA OF UNCLEAR ETIOLOGY.
+2. DEHYDRATION.
+3. HYPERGLYCEMIA WITH HISTORY OF INSULIN DEPENDENT DIABETES.
+ 
+___________________________________
+**NAME[WWW XXX], M.D. 
+ 
+Dictator:  **NAME[WWW XXX], M.D.
+**INITIALS
+D:  **DATE[Mar 02 2007] 20:51:54
+T:  **DATE[Mar 02 2007] 20:57:01
+R:  **DATE[Mar 02 2007] 20:57:01/drl
+Job ID:  329540/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[XXX, VVV] ***
+Electronically Signed by **NAME[WWW XXX]  **DATE[Mar 11 2007] 10:04:15 PM
+ 
+
+
+
+</report_text>
+</report>

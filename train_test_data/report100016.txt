@@ -1,0 +1,182 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 02 2009]
+- - - - -
+Chief Complaint: slept well; tell you the truth, I don't want anything
+- - - - -
+SUBJECTIVE SYMPTOMS
+Physical: aches--believes ultram is helpful; pain better controlled here than at home; l;ikes sedative properties from T#3; slept well last night--"first time in years" relates to foley catheter placement; + po, no nausea; no bm yesterday, +day before;  (attending): gets around with power chair at home
+- - - - -
+Medications:  Oral morphine equivalent: no T#3, ultram x 3;  Rounding Report:
+ACTIVE INPATIENT MEDICATION ORDERS
+aspirin   81mg  By Mouth Daily
+digoxin   0.125mg  By Mouth Daily
+docusate (Colace)   100mg  By Mouth BID
+dutasteride (Duagen)   0.5mg  By Mouth Daily
+furosemide (Lasix)   120mg  IV TID
+heparin   5,000Unit(s)  subQ Q8H
+insulin lispro (HumaLOG) (Insul...   0-12 Units  subQ TIDmeals
+insulin lispro-insulin lispro p...   20Unit(s)  subQ WthBrkfst
+insulin lispro-insulin lispro p...   10Unit(s)  subQ WthSupper
+irbesartan (Avapro)   300mg  By Mouth Daily
+metolazone   5mg  By Mouth Daily
+metoprolol   12.5mg  By Mouth BID
+mirtazapine   15mg  By Mouth AtBedtime
+multivitamin   1cap(s)  By Mouth Daily
+mupirocin topical 2% (Bactrob...   1Application  Topically BID
+nystatin topical (nystatin to...   1Application  Topically BID
+pantoprazole EC (Protonix)   40mg  By Mouth Daily
+phenytoin ER   200mg  By Mouth TID
+potassium chloride SR (K-Dur)   40mEq  By Mouth BID
+senna   2tab(s)  By Mouth AtBedtime
+sertraline (Zoloft)   200mg  By Mouth QAM
+simvastatin (Zocor)   80mg  By Mouth QPM
+tramadol (Ultram)   50mg  By Mouth Q6H
+trazodone   50mg  By Mouth AtBedtime
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen (Tylenol)   650mg  By Mouth Q6H
+benzocaine topical 10% (Oraje...   1Application  Topically QID
+emollients, topical (Aquaphor...   1Application  Topically BID
+lidocaine 1% (lidocaine 1% injecta.....   3mL  Misc As DirCPOE
+polyethylene glycol 3350 (MiraLax)   17gm  By Mouth Daily
+polyethylene glycol 3350 (MiraLax)   17gm  By Mouth Daily
+zolpidem (Ambien)   5mg  By Mouth AtBedtime
+- - - - -
+GENERAL EXAM - Only document those organ systems that are medically necessary
+-----
+VITALS:  Rounding Report: VITALS TIME:**DATE[Nov 02 2009] 10:41
+VITALS:
+**DATE[Nov 02] 09:36 T: 35.3 BP:118/59 P: 60 RR: 18 SaO2:100 FiO2:  5 Ht:      Wt:     
+**DATE[Nov 02] 04:03 T:      BP:138/66 P: 60 RR: 20 SaO2:    FiO2:  5 Ht:      Wt:     
+**DATE[Nov 01] 21:50 T:      BP:148/72 P: 60 RR: 18 SaO2: 97 FiO2:  5 Ht:      Wt:     
+**DATE[Nov 01] 08:00 T: 36.9 BP:137/61 P: 63 RR: 18 SaO2: 94 FiO2:  5 Ht:      Wt:     
+24 Hr Max Temp:35.3
+36 Hr Max Temp:36.9
+General Appearance: No acute distress; lying in bed resting
+Skin: no facial lesions
+HEENT: Moist mucosa; Hearing grossly normal; EOMI
+Lymph: Not Examined
+Pulmonary: Not Examined
+Cardiac: Not Examined
+Abdomen: Not Examined
+Extremeties: Not Examined
+Neuro: droswy but easily arousable
+Psych: joking, appreciate of visit
+Musculoskeletal: Not Examined
+Genitalia: Not Examined
+Rectal/Pelvic: Not Examined
+Breasts: Not Examined
+- - - - -
+INVESTIGATION
+Labs: Reviewed
+- - - - -
+Rounding Report: ATTENDING:**NAME[XXX, WWW]
+SERVICE:Cardiology
+CODE STATUS:Code Status - Full Code
+ISOLATION STATUS:VRE
+ALLERGIES:sulfADIAZINE, oxycodone
+ROUNDING REPORT TIME:**DATE[Nov 02 2009] 10:41
+VITALS:
+**DATE[Nov 02] 09:36 T: 35.3 BP:118/59 P: 60 RR: 18 SaO2:100 FiO2:  5 Ht:      Wt:     
+**DATE[Nov 02] 04:03 T:      BP:138/66 P: 60 RR: 20 SaO2:    FiO2:  5 Ht:      Wt:     
+**DATE[Nov 01] 21:50 T:      BP:148/72 P: 60 RR: 18 SaO2: 97 FiO2:  5 Ht:      Wt:     
+**DATE[Nov 01] 08:00 T: 36.9 BP:137/61 P: 63 RR: 18 SaO2: 94 FiO2:  5 Ht:      Wt:     
+24 Hr Max Temp:35.3
+36 Hr Max Temp:36.9
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        680      360      240     1280        0        0        0
+OUTPUT:        **PHONE     1110     3060        0        0        0
+BALANCE:      -120     -790     -870    -1780        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+aspirin   81mg  By Mouth Daily
+digoxin   0.125mg  By Mouth Daily
+docusate (Colace)   100mg  By Mouth BID
+dutasteride (Duagen)   0.5mg  By Mouth Daily
+furosemide (Lasix)   120mg  IV TID
+heparin   5,000Unit(s)  subQ Q8H
+insulin lispro (HumaLOG) (Insul...   0-12 Units  subQ TIDmeals
+insulin lispro-insulin lispro p...   20Unit(s)  subQ WthBrkfst
+insulin lispro-insulin lispro p...   10Unit(s)  subQ WthSupper
+irbesartan (Avapro)   300mg  By Mouth Daily
+metolazone   5mg  By Mouth Daily
+metoprolol   12.5mg  By Mouth BID
+mirtazapine   15mg  By Mouth AtBedtime
+multivitamin   1cap(s)  By Mouth Daily
+mupirocin topical 2% (Bactrob...   1Application  Topically BID
+nystatin topical (nystatin to...   1Application  Topically BID
+pantoprazole EC (Protonix)   40mg  By Mouth Daily
+phenytoin ER   200mg  By Mouth TID
+potassium chloride SR (K-Dur)   40mEq  By Mouth BID
+senna   2tab(s)  By Mouth AtBedtime
+sertraline (Zoloft)   200mg  By Mouth QAM
+simvastatin (Zocor)   80mg  By Mouth QPM
+tramadol (Ultram)   50mg  By Mouth Q6H
+trazodone   50mg  By Mouth AtBedtime
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen (Tylenol)   650mg  By Mouth Q6H
+benzocaine topical 10% (Oraje...   1Application  Topically QID
+emollients, topical (Aquaphor...   1Application  Topically BID
+lidocaine 1% (lidocaine 1% injecta.....   3mL  Misc As DirCPOE
+polyethylene glycol 3350 (MiraLax)   17gm  By Mouth Daily
+polyethylene glycol 3350 (MiraLax)   17gm  By Mouth Daily
+zolpidem (Ambien)   5mg  By Mouth AtBedtime
+LABS:
+**DATE[Nov 02] 05:46
+Glucose (bedside) 207 H
+**DATE[Nov 02] 04:00
+Anion Gap 8.0
+GFR (estimated) eGFR>60
+Cortisol 19
+Na 137
+K 4.5
+Cl 97 L
+CO2 32 H
+BUN 42 H
+Cr 1.1
+Glucose 195 H
+Ca 8.7
+**DATE[Nov 01] 20:37
+Glucose (bedside) 259 H
+**DATE[Nov 01] 17:07
+Glucose (bedside) 219 H
+**DATE[Nov 01] 10:48
+Glucose (bedside) 234 H
+**DATE[Nov 01] 05:46
+Glucose (bedside) 205 H
+**DATE[Nov 01] 03:30
+Anion Gap 8.0
+GFR (estimated) eGFR>60
+Na 133 C
+K 4.8
+Cl 97 L
+CO2 28
+BUN 39 H
+Cr 1.1
+Glucose 156 H
+Ca 8.7
+TSH 3.639
+T4, Free 0.79
+MICROBIOLOGY:
+MRSA SCREEN, (INFECTION CONTRO(Nasal/Nose)  4/26.   Culture: No MRSA isolated  [Final]
+DVT Prophylaxis:Heparin
+GT Prophylaxis:Pantoprazole
+ASSESSMENT AND PLAN
+- - - - -
+Problem/Diagnosis 1: Pain;  Assessment/Plans: believes ultram is helpful.  Continue ATC dosing.  Judge pain regimen efficacy by increased function (hard when he is nonambulatory or subjective report of pain
+Problem/Diagnosis 2: Depression;  Assessment/Plans: no changes
+Problem/Diagnosis 3: Constipation;  Assessment/Plans: if no bm today, would increase senna to bid.  May improve since off opioids.  But diuretics can also conribute to
+Problem/Diagnosis 4: Goals
+Problem/Diagnosis 5: sedation;  Assessment/Plans: see if improves off of tylenol with codeine.  Pt stated he did find it helpful
+Problem/Diagnosis 6: insomnia;  Assessment/Plans: would continue to evaluate, may have been helped by need not to get up and urinate.  if this is the case, may need more evaluation/med adjustment for home
+- - - - -
+RECOMMENDATIONS
+Other: interested in having a beagle visit him--will inquire with pet tx
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[YYY ZZZ], MD (Epic# 18735) at 10:49; **NAME[ZZZ, YYY] ?; 2177/8511; **DATE[Nov 2 2009]; 10:49
+- - - - -
+VISIT CODE(S): 99233
+- - - - -

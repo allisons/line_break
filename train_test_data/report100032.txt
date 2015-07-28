@@ -1,0 +1,89 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+PALLIATIVE CARE
+CONSULTATION
+ 
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[XXX WWW VVV]
+CONSULTING PHYSICIAN:  **NAME[YYY ZZZ], M.D.
+DATE OF ADMISSION:  **DATE[Nov 02 2009]
+DATE OF CONSULTATION:  **DATE[Nov 04 09]
+ 
+ 
+REQUESTING PHYSICIAN: **NAME[UUU TTT], M.D.
+ 
+REASON FOR CONSULTATION: Goals of care determination. 
+ 
+HISTORY OF PRESENT ILLNESS: The patient is a **AGE[in 60s]-year-old gentleman, who was diagnosed with pancreatic cancer in **DATE[Jun 2009]. He presented, I believe to **INSTITUTION, in **DATE[May 2009] with 20 pounds weight loss and painless jaundice. The pancreatic cancer at that time was found to be localized about 2.5 cm in size tumor mass. On further workup he was actually found to have vascular invasion and he was evaluated by the Surgical Oncology Service, Dr. **NAME[SSS]'s service and was thought not to be a surgical candidate because of the vascular invasion. Subsequently, the patient underwent 5 cycles of gemcitabine and 24 doses of radiation therapy, which he seemed to tolerate reasonably well.  His treatment course was marked by fatigue, some episodes of diarrhea and recurrent C. difficile colitis infections. Also during his chemotherapy he was admitted in **DATE[Sep] with chills with rigors and was found to have some leukopenia at that time. At that time workup had been suspicious for the possibility of a liver abscess. The patient also had an ascites and pleural effusion at that time. Peritoneal fluid at that time negative for malignant cells. The patient's most recent admission has been for fatigue and chills, because he presented to **INSTITUTION's ED with the same complaints. He was found to be hypotensive with possible sepsis and transferred here. He has continued to have diarrhea during this time.  On workup here in the hospital, the patient underwent an ERCP.  The ERCP showed evidence of some tumor or subtle invasion of the previously placed biliary stent in **DATE[May] of 2008.  The primary team asked us to see him to discuss goals of care, in light of his poor prognosis, given the fact that his disease has progressed, despite treatment and he does not seem to be a candidate for any curative therapy. 
+ 
+At the time of my interview with the patient, he talks with me quite freely and honestly and we discussed what treatment options he is looking at. He is interested in considering further treatment options in prolonging his life even at the extent of deterioration in his quality of life. To say for instance, if he was too weak to be transported to his appointment, he would ask a friend or family members to essentially to drag him there to undergo treatment. If, however, the treatment was not found to be effective and it was not shrinking his tumor mass, then he would rather not undergo treatment.  At the same time, consistent with these wishes, he also does not want to be resuscitated if there is no chance of the bringing him back. He does not want to be a vegetable. He describes his life at home to be fairly comfortable. He denies any pain, nausea or depression to me. He denies feeling anxious. No shortness of breath. He does feel weak and he admits that he stays in bed most of the time. He eats depending on whether the food is to his liking or not. 
+ 
+I separately spoke with his wife, who told me a slightly different story. The patient spends about 24 hours of his day basically bed bound in his bed. He ambulates to the bedside commode to urinate or have a bowel movement. Most the time, he needs help with transfers. At night he may be able to do it by himself. He sleeps for about up to 16 to 20, sometimes watches TV and doses off while watching TV and feet for the bulk of the day. Basically the only meal that he tends to eat is breakfast. The rest of the meals are he does not take.
+ 
+ 
+PAST MEDICAL HISTORY: Positive for pancreatic cancer.  His treatment of pancreatic cancer has been extensively reviewed in the history of present illness. C. difficile colitis, currently diagnosed with ascending cholangitis. He also has hypertension, hyperlipidemia, anxiety disorder, irritable bowel syndrome and GERD. 
+ 
+SOCIAL HISTORY: The patient has been toolsmith and then subsequently about for the past 10 years, became a gunsmith.  He developed his hobby and made it into a business. Before that he used to make tools, basically saws at a factory. He has enjoyed what he has done. He started out his work as being in the Coast Guard and signed up for service several times after that.  He and his wife and they have been married for 41 years. He has 2 children, both of whom are adults in their 20s. He has 3 grandchildren, 2 of them are currently living with him along with his daughter, who is living at their home as well. The patient's wife works as a cleaner in a nunnery. She is currently on family medical leave. She feels that she needs more help with his care at home. She also feels that she sees more decline in him and feels that the probability of him undergoing further therapy is very low. 
+ 
+FAMILY HISTORY: The patient's father and mother had cancer, and I am not sure which kind. 
+ 
+REVIEW OF SYSTEMS: The complete comprehensive review of systems was negative. Pertinent positives are mentioned in the history of present illness. 
+ 
+PHYSICAL EXAMINATION: 
+VITAL SIGNS: Temperature 36.5, heart rate 73, respiratory rate 18, blood pressure is 132/82 and pulse oximetry is 100% on room air. 
+ 
+GENERAL APPEARANCE: The patient is lying in bed in no apparent distress. 
+ 
+HEAD AND EYES: Head is atraumatic and normocephalic. Some temporal wasting is present. 
+ 
+ENT: Oral mucosa is moist. Dentures the news the basically holds them in his mouth. 
+ 
+NECK is supple. No jugular venous distention. 
+ 
+HEART: Heart sounds are regular. No murmurs heard. 
+ 
+LUNGS: Clear to auscultation bilaterally. 
+ 
+ABDOMEN: Abdomen is distended somewhat, nontender. Recent site of ERCP is nontender.  He has a dressing applied to it. The bowel sounds are diminished. 
+ 
+EXTREMITIES: Bilateral pitting pedal edema 2+. Peripheral pulses are palpable. Peripheries are warm. There is no cyanosis or clubbing. 
+ 
+NEUROLOGIC:  The patient is alert and oriented times three. There are no focal neurologic deficits. CAM is negative. 
+ 
+LABORATORY DATA: Relevant laboratory data shows normal renal function with BUN of 10 and creatinine of 1.1. Albumin was 1.3, total bilirubin is 2.4 and total protein is 3.9.  The latest hemoglobin after transfusion shows 11.1 and hematocrit 31.3. 
+ 
+Radiologic studies on this admission - abdominal CT was done, which showed increased ascites, evidence of right hemicolon colitis with pneumobilia and new hematobilia and evidence of previously drained left hepatic lobe abscess. 
+ 
+ASSESSMENT AND PLAN: The patient is a **AGE[in 60s]-year-old gentleman with a locally advancing pancreatic cancer, who is interested in exploring further treatment options, but his current functional status, based on his wife's report shows a Karnofsky performance status of about 30 and a palliative performance scale of about 40, which would mean an estimated median survival in days of about 20. His wife appears to understand that his prognosis is quite poor. The patient himself is focused on getting more treatment to prolong his life. However, he is not also clearly understanding of the fact that if the treatment is not effective, he does not want further treatment. In order to resolve the question of whether he is a candidate for further treatment, I have asked the primary team to consult Medical Oncology so they can advise based on his functional status and his current state of his malignancy, whether he is a candidate for further treatment.  In the meantime, I think the wife would benefit from our support. I have already advised her on the resources that Palliative Care and Hospice can provide. She is agreeable to having hospice at home and would welcome it. We can certainly arrange that, but I think the patient at this time also needs to hear whether he is a candidate for further treatment or not before we can make to take the final step. I will be meeting with the patient's wife and him tomorrow in the morning, along with the Palliative Care social worker, **NAME[RRR] walk, who will also help in providing support and advising the wife about future options.
+ 
+Thank you for this consult. 
+ 
+Total time spent today was 55 minutes. Greater than 50% was face-to-face time with the patient, discussing future options goals of care.
+ 
+ 
+ 
+ 
+___________________________________
+**NAME[YYY ZZZ], M.D.
+ 
+ 
+     
+Dictator:  **NAME[YYY ZZZ], M.D.
+ 
+**INITIALS
+ 
+D:  **DATE[Nov 04 2009] 18:21:44
+T:  **DATE[Nov 04 2009] 20:33:41
+R:  **DATE[Nov 04 2009] 20:33:41/drl
+ 
+Job ID:  **ID-NUM/**ID-NUM
+ 
+Cc:
+ 
+ 
+Authenticated by **NAME[YYY ZZZ] MD On **DATE[Nov 15 2009] 09:35:40 AM

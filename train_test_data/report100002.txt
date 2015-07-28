@@ -1,0 +1,211 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 01 2009]
+- - - - -
+SUBJECTIVE SYMPTOMS
+Physical: pt unable to voice complaints.  No symptom issues currently.
+Goals of care: Family met with NSGY last night.  Plan will be to proceed with PEG and d/c to SNF.  Family very aware (met with 2 relatives) that current QOL is not acceptable AND they are willing to let time help decide if pt is going to progress to an acceptable QOL which would be living not in a SNF, and needs to be able to interact with family.  Family has planned to reassess pt's status in a month.  They are aware they will need to talk with staff at SNF to have someone help them navigate the system of options if pt makes a recovery or if they choose to focus solely on comfort.
+- - - - -
+Medications:  Rounding Report: ACTIVE INPATIENT MEDICATION ORDERS
+amlodipine (Norvasc)   10mg  By Mouth Daily
+atenolol (Tenormin)   25mg  By Mouth Daily
+D5NS 1000 mL 5%   1000mL 80mL/hr IV
+docusate (docusate sodium)   100mg  By Mouth BID
+insulin aspart (NovoLOG) (Insulin Sl...   0-20 Units  subQ Q4H
+insulin isophane (HumuLIN N, NovoLIN...   14Unit(s)  subQ BID
+phenytoin (Dilantin injection)   100mg  IV Q8H
+terbinafine (Lamisil)   250mg  By Mouth Daily
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+bisacodyl   10mg  Per Rectum Daily
+glucose 50% (Dextrose 50% Injecti...)   25gm  IV As DirCPOE
+glucose 50% (Dextrose 50% Injecti...)   10gm  IV As DirCPOE
+hydrALAZINE (Apresoline)   10mg  IV Q10Min
+labetalol   10mg  IV Q10Min
+lidocaine 1% (lidocaine 1% injecta.....   3mL  Misc As DirCPOE
+magnesium sulfate   4gm  IV As DirCPOE
+magnesium sulfate   8gm  IV As DirCPOE
+menthol topical (Cepacol Re...   1Lozenge  By Mouth As DirCPOE
+ondansetron (Zofran)   4mg  IV Q8H
+phenol topical (Chlorasept...   5Spray(s)  By Mouth As DirCPOE
+potassium chloride (potassium chlori...   20mEq  IV As DirCPOE
+potassium chloride (potassium chlori...   10mEq  IV As DirCPOE
+potassium chloride SR   20mEq  By Mouth As DirCPOE
+potassium chloride   20mEq  By Mouth As DirCPOE
+potassium chloride (potassium chlori...   10mEq  IV As DirCPOE
+potassium phosphate (Neutra-Phos-K)   15mMol  IV As DirCPOE
+potassium phosphate (Neutra-Phos-K)   30mMol  IV As DirCPOE
+sodium phosphate   15mMol  IV As DirCPOE
+sodium phosphate   30mMol  IV As DirCPOE
+ONE TIME MED ORDERS
+4/30 02:00furosemide (Lasix)   20mg  IV ONCE
+5/01 08:00phenytoin (Dilantin injection)   400mg  IV ONCE
+- - - - -
+GENERAL EXAM - Only document those organ systems that are medically necessary
+-----
+VITALS: Vital signs are stable;  Rounding Report: VITALS TIME:**DATE[Nov 01 2009] 10:59
+VITALS:
+**DATE[Nov 01] 08:00 T: 37.2 BP:155/63 P: 78 RR: 16 SaO2:100 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 01] 06:00 T:      BP:139/45 P: 74 RR: 17 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 01] 04:00 T: 37.5 BP:140/65 P: 72 RR: 16 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 01] 02:00 T:      BP:138/68 P: 81 RR: 17 SaO2: 98 FiO2:  2 Ht:      Wt:     
+General Appearance: No acute distress
+Skin: no jaundice
+HEENT: Moist mucosa
+Lymph: Not Examined
+Pulmonary: course BS anteriorly
+Cardiac: rrr s1s2 distant
+Abdomen: Soft; Nontender; BS Present; No rebound guarding
+Extremeties: No edema; warm
+Neuro: Not Examined
+- - - - -
+INVESTIGATION
+Labs: Reviewed
+- - - - -
+Rounding Report: ATTENDING:**NAME[XXX, WWW M]
+SERVICE:Neurosurgery
+ALLERGIES:iodine topical
+ROUNDING REPORT TIME:**DATE[Nov 01 2009] 10:59
+VITALS:
+**DATE[Nov 01] 08:00 T: 37.2 BP:155/63 P: 78 RR: 16 SaO2:100 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 01] 06:00 T:      BP:139/45 P: 74 RR: 17 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 01] 04:00 T: 37.5 BP:140/65 P: 72 RR: 16 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 01] 02:00 T:      BP:138/68 P: 81 RR: 17 SaO2: 98 FiO2:  2 Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        650      **PHONE      400        0        0
+OUTPUT:        400      255      300      955       60        0        0
+BALANCE:       250      **PHONE      340        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+amlodipine (Norvasc)   10mg  By Mouth Daily
+atenolol (Tenormin)   25mg  By Mouth Daily
+D5NS 1000 mL 5%   1000mL 80mL/hr IV
+docusate (docusate sodium)   100mg  By Mouth BID
+insulin aspart (NovoLOG) (Insulin Sl...   0-20 Units  subQ Q4H
+insulin isophane (HumuLIN N, NovoLIN...   14Unit(s)  subQ BID
+phenytoin (Dilantin injection)   100mg  IV Q8H
+terbinafine (Lamisil)   250mg  By Mouth Daily
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+bisacodyl   10mg  Per Rectum Daily
+glucose 50% (Dextrose 50% Injecti...)   25gm  IV As DirCPOE
+glucose 50% (Dextrose 50% Injecti...)   10gm  IV As DirCPOE
+hydrALAZINE (Apresoline)   10mg  IV Q10Min
+labetalol   10mg  IV Q10Min
+lidocaine 1% (lidocaine 1% injecta.....   3mL  Misc As DirCPOE
+magnesium sulfate   4gm  IV As DirCPOE
+magnesium sulfate   8gm  IV As DirCPOE
+menthol topical (Cepacol Re...   1Lozenge  By Mouth As DirCPOE
+ondansetron (Zofran)   4mg  IV Q8H
+phenol topical (Chlorasept...   5Spray(s)  By Mouth As DirCPOE
+potassium chloride (potassium chlori...   20mEq  IV As DirCPOE
+potassium chloride (potassium chlori...   10mEq  IV As DirCPOE
+potassium chloride SR   20mEq  By Mouth As DirCPOE
+potassium chloride   20mEq  By Mouth As DirCPOE
+potassium chloride (potassium chlori...   10mEq  IV As DirCPOE
+potassium phosphate (Neutra-Phos-K)   15mMol  IV As DirCPOE
+potassium phosphate (Neutra-Phos-K)   30mMol  IV As DirCPOE
+sodium phosphate   15mMol  IV As DirCPOE
+sodium phosphate   30mMol  IV As DirCPOE
+ONE TIME MED ORDERS
+4/30 02:00furosemide (Lasix)   20mg  IV ONCE
+5/01 08:00phenytoin (Dilantin injection)   400mg  IV ONCE
+LABS:
+**DATE[Nov 01] 04:55
+Glucose (bedside) 135 H
+**DATE[Nov 01] 01:38
+Glucose (bedside) 160 H
+**DATE[Nov 01] 01:30
+Anion Gap 6.0 L
+GFR (estimated) eGFR
+Na 144
+K 3.9
+Cl 107
+CO2 31
+BUN 11
+Cr 0.5
+Glucose 154 H
+Ca 8.1 L
+Mg 2.1
+Phos 3.2
+WBC 12.3 H
+RBC 4.00
+Hgb 12.6
+Hct 36.6
+MCV 91.6
+RDW 13.2
+Platelets 305
+Neutrophils 73
+Lymphs 15
+Monocytes 9
+Eosinophils 3
+Basophils 0
+Type of Differential Automated Differential
+PT 13.6
+INR 1.0
+PTT 29.0
+Phenytoin 5.9 L
+Phenytoin, Bound 5.0
+Phenytoin, % Bound 85
+Phenytoin, Free 0.9 L
+Phenytoin, % Free 15
+**DATE[Oct 30] 17:15
+Glucose (bedside) 229 H
+**DATE[Oct 30] 09:43
+Glucose (bedside) 200 H
+**DATE[Oct 30] 08:09
+K 3.8
+Mg 2.5 H
+**DATE[Oct 30] 04:36
+Glucose (bedside) 234 H
+**DATE[Oct 30] 02:40
+Glucose (bedside) 249 H
+**DATE[Oct 30] 02:15
+Na (adjusted) 147.7 H
+Anion Gap 6.0 L
+GFR (estimated) eGFR
+Na 146
+K 3.5
+Cl 112 H
+CO2 28
+BUN 7 L
+Cr 0.5
+Glucose 209 H
+Ca 8.1 L
+Mg 1.8
+Phos 2.8
+WBC 9.5
+RBC 4.00
+Hgb 12.6
+Hct 36.5
+MCV 91.4
+RDW 13.3
+Platelets 312
+Neutrophils 71
+Lymphs 17
+Monocytes 9
+Eosinophils 3
+Basophils 0
+Type of Differential Automated Differential
+Phenytoin 7.7 L
+Phenytoin, Bound 6.4
+Phenytoin, % Bound 83
+Phenytoin, Free 1.3
+Phenytoin, % Free 17
+PT 14.3
+INR 1.1
+PTT 26.5
+ASSESSMENT AND PLAN
+- - - - -
+Problem/Diagnosis 1: altered MS status;  Assessment/Plans: secondary to CVA- management per primary team..  Hoping for recovery which will happen over time. Problem/Diagnosis 2: Goals of care;  Assessment/Plans: Plan for PEG and d/c to SNF and then watch pt's status to decide if she can acheive an acceptable QOL as she has previously defined it to family.  Family acting as surrogate decision makers.  Communicating well amongst themselves.
+- - - - -
+RECOMMENDATIONS
+- - - - -
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 45;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 35; The counseling/coordination of care generally consisted of: goals of care, supoort of family in how they are making decisions
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[YYY ZZZ], MD
+at 11:09; **NAME[ZZZ, YYY] ; 11237/8511; **DATE[Nov 1 2009]; 11:09
+- - - - -

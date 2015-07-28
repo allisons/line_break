@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060812HP-42oU/yHHDQWo-848-302193812</checksum>
+<subtype>PALLIATIVE CONSULT</subtype>
+<type>HP</type>
+<chief_complaint/>
+<admit_diagnosis/>
+<discharge_diagnosis/>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+PALLIATIVE CARE
+CONSULTATION
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[XXX M ZZZ YYY], M.D.
+CONSULTING PHYSICIAN:  **NAME[VVV M. WWW], PPP], M.D.
+DATE OF ADMISSION:  **DATE[Aug 07 2006]
+DATE OF CONSULTATION:  **DATE[Aug 12 06]  
+REASON FOR CONSULTATION: Pain.
+The patient is a **AGE[in 30s]-year-old man with a history of lung cancer, diagnosed in **DATE[Feb] of 2006 with T2, T3 mets.  He was admitted on **DATE[Aug 07] with planned neurosurgical treatment on Friday.  We are consulted for pain and symptom management.
+HISTORY OF PRESENT ILLNESS:  The patient was diagnosed on **DATE[Feb 13 2006] with left apical mass.  His oncologist is **NAME[OOO NNN], M.D.  Number is **PHONE.  He has received chemo and XRT.  This is unresectable.  Workup here included MRI of the spine showing left apical mass with second thoracic vertebra mets, second rib mets, severe impingement of T2, 3, 4 and T11 mets.  He has left hilar adenopathy.
+The patient at home was on MS-Contin 200 b.i.d., and he has been placed here on PCU, which has helped his medications. Also of note, the patient says that his home regimen of MS-Contin 200 b.i.d. did not fully control his pain.  
+MEDICATIONS:  Current medications are:
+1.   Dexamethasone four IV q.6.
+2.   MS Contin 200 b.i.d.
+3.   Neurontin 300 t.i.d. 
+4.   Colace 100 b.i.d.
+5.   Protonix 40 q. day.
+6.   Lexapro 10 q. day (Lexapro was started on admission).
+7.   Zofran 4 IV q.4.
+8.   Dulcolax 5 p.o.
+9.   Periactin at bedtime.
+PAST MEDICAL HISTORY:  None.
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+REVIEW OF SYSTEMS:  The patient describes the pain as good now.  He has good left shoulder and rib pain.  He says, however, it does get kind of bad sometimes, and the Dilaudid 1 mg dose is not enough.  Bowels - He had a bowel movement today.  Nausea and vomiting - No nausea or vomiting.  Mood - He says he is not depressed, not anxious.
+SOCIAL HISTORY:  He has a wife and an 11 and **AGE[birth-12]-year-old.  His wife is **NAME[CCC
+ AAA].  Her number is **PHONE.  Address is **STREET-ADDRESS, **PLACE, PA  **ZIP-CODE.
+FAMILY HISTORY:  There is some cancer in the family.
+PHYSICAL EXAMINATION: 
+VITAL SIGNS:  Afebrile.  The vital signs are stable.  
+GENERAL:  He and his wife are in bed.  He looks comfortable.  He is in no acute distress.  He is alert and oriented times three.  Mental status is clear.
+CARDIOVASCULAR:  Regular rate and rhythm, without murmurs, rubs, or gallops.
+ He is clear to auscultation.  Oropharynx has moist mucous membranes without any lesions.  
+ABDOMEN:  His abdomen is benign.  
+EXTREMITIES:  He has got lower extremity edema.  
+DATA:  Radiology as per above.  
+LABORATORY:  White blood cell count 6.3, hematocrit 37.
+IMPRESSION:  A gentleman with apical mass with bone mets.  
+PLAN:
+1.   Given that the patient will be NPO for surgery, we
+     will discontinue his MS Contin.  He is currently taking
+     roughly oral morphine equivalent of 1400 mg a day. We will switch him to Dilaudid roughly 2.5 mg per hour and PCA of 2 mg IV q.8.
+2.   MS Contin, the patient says is expensive.  What we may
+     do is convert him to methadone for discharge.  We will
+     clear that with Dr. **NAME[NNN] before we do that.
+3.   GI.  Stop the Dulcolax.  We will add Senna with the
+     Colace.  
+4.   As far as Psych, the patient says he is not depressed.  
+     We will recommend discontinuing the Lexapro.
+5.   Renal. We will check a creatinine before surgery, and if the creatinine is high we can go up on his Neurontin.
+The above plan has been discussed with the PA on the Neurosurgical Service.
+ 
+___________________________________
+**NAME[VVV M. WWW], M.D.
+Dictator:  **NAME[VVV M. WWW], M.D.
+**INITIALS
+D:  **DATE[Aug 12 2006] 14:38:39
+T:  **DATE[Aug 12 2006] 22:42:14
+R:  **DATE[Sep 24 2006] 21:16:12/rs
+Job ID:  95217/**ID-NUM
+ 
+*** Dictated By: -**NAME[WWW, MMM M]. ***
+Electronically Signed by **NAME[VVV WWW]  **DATE[Oct 18 2006] 03:35:55 PM
+ 
+
+
+
+</report_text>
+</report>

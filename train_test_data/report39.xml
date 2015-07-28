@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060409DS-aEoKw5/PZ23E-488-919671834</checksum>
+<subtype/>
+<type>DS</type>
+<chief_complaint>SEIZURE</chief_complaint>
+<admit_diagnosis>780.39</admit_diagnosis>
+<discharge_diagnosis>780.39,305.60,304.01,342.90,907.2,426.3,V12.09,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+ 
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE, PA **ZIP-CODE
+____________________________________________________________
+ 
+ 
+**NAME[AAA, BBB M]
+**ID-NUM
+**ID-NUM
+A6B/1
+ 
+ 
+SERVICE OF:    **NAME[ZZZ M YYY]
+ 
+DATE OF ADMISSION:      **DATE[Apr 07 2007]  
+DATE OF DISCHARGE:      **DATE[Apr 09 2007]   
+ 
+DISCHARGE DIAGNOSES:
+1. New onset seizure disorder.
+2. Cocaine abuse.
+3. History of C5 injury with residual left-sided weakness.
+4. History of drug abuse currently on methadone program.
+ 
+Summary:  The patient is a **AGE[in 40s]-year-old white man who was admitted to the emergency room after having a witnessed tonic-clonic seizure x2.  This happened at home and the family brought him into the emergency room.  His H and P is as previously dictated. 
+ 
+HOSPITAL COURSE:  The patient was started on Dilantin.  He was in consultation by Dr. **NAME[VVV] and an MRI of the brain was done which was normal.  He also had an EEG, which was nonfocal.  He had no further seizure episodes during the hospitalization.  The lab was positive for cocaine in the drug screen.  The electrolytes were normal.  CBC and diff were normal.  Alkaline phosphatase was 92, ALT was 85, and AST was 59.  Ethanol level was 0.  EKG was normal.  The patient was also seen while he was here by the drug and alcohol counseling unit and did offer him an inpatient position.  However, the patient has no insurance and cannot afford this out of pocket.  He was also counseled as to outpatient followup for drug and alcohol abuse.  Both the neurologist and myself talked to him about his driver's license and stated that he will not be able to drive.  I will send a notification to the DMV about this.  He sees Dr. **NAME[YYY] as an outpatient and I have asked him to call the office in Plum and make an office visit followup for 2 weeks.  He will be on his Dilantin until that visit at least. 
+ 
+DISCHARGE MEDICATIONS:
+1. Dilantin 100 mg t.i.d.
+2. Thiamine 50 mg a day.
+3. To continue his methadone program at 60 mg t.i.d.
+ 
+He was given prescriptions for the Dilantin and the thiamine today.
+ 
+CONDITION AT THE TIME OF DISCHARGE:  Stable.
+ 
+DIET AT DISCHARGE:  As tolerated.
+ 
+ACTIVITY AT DISCHARGE:  Normal with the exception of driving.
+ 
+ 
+ 
+___________________
+**NAME[WWW XXX], M.D.
+ 
+ 
+Dict:   **DATE[Apr 09 2007] 10:12:09
+Tran:   **DATE[Apr 09 2007] 22:48:33
+SI/ah/338477/**ID-NUM/**ID-NUM
+ 
+R:  **DATE[Apr 09 2007] 22:48:33/ah
+ 
+
+**CARBON-COPY
+
+
+</report_text>
+</report>

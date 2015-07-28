@@ -1,0 +1,143 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 03 2009]
+Time: 11:48
+- - - - -
+Chief Complaint: "they took the catheter out"
+- - - - -
+Physical: occasional pain L upper thigh; + bm; + po; no complaints; not thrilled about going to st. **NAME[VVV]'s; interested in hot chocolate
+- - - - -
+Medications:  Oral morphine equivalent: 5
+- - - - -
+REVIEW OF SYSTEMS:  Modified Edmonton System Assessment Scale (ESAS): This control requires a parameter in the Form Designer tool called 'FormName'. For more information, refer tot he Forms Development Guide. 
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 03 2009] 10:53
+VITALS:
+**DATE[Nov 03] 04:13 T: 36.4 BP:150/69 P: 83 RR: 18 SaO2: 97 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 15:30 T: 36.2 BP:147/73 P: 71 RR: 19 SaO2: 95 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 08:46 T:      BP:143/69 P: 72 RR:    SaO2: 94 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 02:32 T: 36.1 BP:143/72 P: 60 RR: 20 SaO2: 97 FiO2:  2 Ht:      Wt:     
+24 Hr Max Temp:36.4
+36 Hr Max Temp:36.4
+- - - - -
+Constitutional: No acute distress;  Other: reclining in bed
+Eyes:  Other: no icterus
+Ears, Nose, Mouth & Throat: Moist mucosa
+Respiratory: Not examined
+Cardiovascular: Not examined
+Gastrointestinal: Not examined
+Extremities: Not examined
+Neurologic:  Other: alert, interactive, hard of hearing, appropriate; able to sip from straw
+Psychiatric:  Other: pleasant, jokes at times
+Integumentary/Skin: Not Examined
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M]
+SERVICE:Geriatric Medicine
+CODE STATUS:Code Status  -  Limited Therap
+ISOLATION STATUS:MRSA & VRE
+Droplet Precautions
+ALLERGIES:NKA
+ROUNDING REPORT TIME:**DATE[Nov 03 2009] 10:53
+VITALS:
+**DATE[Nov 03] 04:13 T: 36.4 BP:150/69 P: 83 RR: 18 SaO2: 97 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 15:30 T: 36.2 BP:147/73 P: 71 RR: 19 SaO2: 95 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 08:46 T:      BP:143/69 P: 72 RR:    SaO2: 94 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 02:32 T: 36.1 BP:143/72 P: 60 RR: 20 SaO2: 97 FiO2:  2 Ht:      Wt:     
+24 Hr Max Temp:36.4
+36 Hr Max Temp:36.4
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:          0      240        0      240        0        0        0
+OUTPUT:          0      350      300      650        0        0        0
+BALANCE:         0     -110     -300     -410        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+bimatoprost ophthalmic 0.03% (Lum...   1Drop(s)  Both Eyes QPM
+calcium carbonate   500mg  By Mouth BID
+carvedilol   6.25mg  By Mouth BID
+escitalopram (Lexapro)   10mg  By Mouth QAM
+ferrous sulfate EC   325mg  By Mouth BID
+heparin   5,000Unit(s)  subQ Q8H
+lactulose   20gm  By Mouth QID
+levothyroxine   75mcg  By Mouth QAM
+lidocaine topical Patch 5% (Lidod...   1Patch  Topically Daily
+multivitamin   1cap(s)  By Mouth Daily
+omeprazole   20mg  By Mouth ACBrkfst
+polyethylene glycol 3350 (MiraLax)   17gm  By Mouth Daily
+pravastatin (Pravachol)   40mg  By Mouth QPM
+REMOVE LIDOCAINE PATCH Patch (Remove topic...   1ea  Misc Q24H
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen (Tylenol)   650mg  By Mouth Q6H
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol Q6H
+haloperidol (Haldol)   0.5mg  By Mouth Q2H
+ondansetron (Zofran)   4mg  IV Q6H
+oxycodone   5mg  By Mouth Q4H
+senna (Senokot)   2tab(s)  By Mouth AtBedtime
+LABS:
+**DATE[Nov 03] 03:15
+Anion Gap 5.0 L
+GFR (estimated) eGFR L
+Na 137
+K 5.0
+Cl 105
+CO2 27
+BUN 40 H
+Cr 1.9 H
+Glucose 87
+Ca 8.7
+WBC 6.0
+RBC 2.73 L
+Hgb 8.5 L
+Hct 25.0 L
+MCV 91.6
+RDW 18.5 H
+Platelets 199
+**DATE[Nov 02] 04:00
+Anion Gap 6.0 L
+GFR (estimated) eGFR L
+Na 136
+K 4.7
+Cl 103
+CO2 27
+BUN 41 H
+Cr 1.9 H
+Glucose 84
+Ca 8.6
+WBC 5.0
+RBC 2.66 L
+Hgb 8.3 L
+Hct 24.4 L
+MCV 91.8
+RDW 18.2 H
+Platelets 196
+DVT Prophylaxis:Heparin
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 80s] yo man with h/o bilateral CVAs s/p L ORIF with resolving
+delirium.
+- - - - -
+Problem/Diagnosis 1: Delirium; Plan: appears to be resolving.  Not on scheduled antipsychotic.  Multifactorial in etiology
+Problem/Diagnosis 2: Pain; Plan: managed on PRN opioids.  No NSAID secondary to renal dysfunction
+Problem/Diagnosis 3: Goals; Plan: Discussed with patient previously.  Appreciate primary team's discussion with pt's POA.  Agree with oncology's non-invasive plan for thoracic mass, as this fits withs pt's goals.
+- - - - -
+Plan/Disposition: If able to skill pt at SNF, would do so.  Pt MAY be appropriate for hospice services.  However would try and maximize skilled benefits and then consider once this has been exhausted.  If pt impoves, then could always discharge from hospice benefit.
+- - - - -
+Family/PCP Discussions1:  Date: **DATE[Nov 02 2009];  Resident: **NAME[UUU]: See consult from **DATE[Nov 1 09].  Pt wishes to remain ourtside of the hospital,  Does "not want to go through allof this again."  "Christ, I am **AGE[in 80s] years old."Wants to be able to eat what I want: bacon. 
+- - - - -
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 25;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 15; The counseling/coordination of care generally consisted of: discussion of care plan with primary team and discharge options with patient.
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD (Epic# 18735) at 11:52; **NAME[XXX, WWW] ; 2177/8511; **DATE[Nov 3 2009]; 11:52
+- - - - -
+VISIT CODE(S): 99232
+- - - - -
+
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=47b80c86-601a-422f-b8ca-40466eb65379^URL^IMAGE

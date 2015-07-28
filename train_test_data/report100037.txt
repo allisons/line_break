@@ -1,0 +1,163 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE CONSULT NOTE
+- - - - -
+DATE: **DATE[Nov 05 2009]
+TIME: 12:21
+- - - - -
+REASON FOR CONSULT:   This consultation is in regard to the following: neck and R arm pain
+- - - - -
+History Obtained From:  Review of previous records: Cerner chart review;  Discussed case with **NAME[VVV]: CRNP
+- - - - -
+HISTORY OF PRESENT ILLNESS: Father **NAME[AAA] is a **AGE[in 60s] y/o male with a past history of cardiac transplant secondary to ischemic cardiomyopathy in **DATE[May 2009], who presented to the ED on **DATE[Oct 29 2009] with complaints of palpitations and five-day hx of intermittent nausea and nonbloody emesis.  Prior to admission he had dc'd his medications; completing day 3/3 IV solumedrol for Grade 2 rejection. In addition to above mentioned complaints, he has also had 2 week hx of severe R neck and arm pain.  He reports longstanding (~20 years) neck pain due to 'arthritis.'  Two weeks ago he began having increased R arm pain concentrated around the shoulder area without radiation. Pain limits the patient from being able to lift his arm.  Pain is most intense on the lateral aspect of his mid upper arm.  
+In addition he has had R hand weakness ongoing x 3 mos?  Non-progressive.  In addition has had tremors R>L (which have been in the past attributed to Prograf) continue.
+Along with his arm/neck pain he is experienceing intermittent hip, thigh and foot pain.  Thigh pain is located on his lateral thigh R > L  from the hip to the knee.  Described as a burnning pain with occasional stabbing pain.  After pt had a cardiac cath ~10 years ago he did have a post cath bleed with resultant R sided leg numbness in his thigh from the hip to the knee.  Now is wihout numbness but does have pain.  
+Foot pain is concentrated on the plantar aspect of his foot; has been dx with plantar fasciitis in the past.  Pain in his feet limits him from being able to stand for long periods of time.  No fall.  No weakness.  No numbness.
+No LOC.  No bowel/bladder sx.  
+- - - - -
+Past Medical History: Condition 1: hx of iscehmic cardiomyopathy s/p OTH transplant **DATE[May 09]; Condition 2: Hyperlipidemia; Condition 3: DM; Condition 4: HTN; Condition 5: CRI
+- - - - -
+ALLERGIES: penicillin, sulfa drugs, Iodine, iodinated radiocontrast dyes
+- - - - -
+Social History: no hx of tobacco use; Home Situation: Live with priest; Family Structure and Relationship: All familiy not close. Was working in **PLACE for mnqay years; Occupation: priest; Religion and Spirituality: Priest with Catholic Diocese; POA / Decision Maker: Did not discuss; Awareness of Illness / Desired role: Not sure of reason for gotten so much worse while in the hospital; Goals of care: Try to deal with his multipel symptoms
+- - - - -
+Family History: non-contributory
+- - - - -
+REVIEW OF SYSTEMS: Constitutional: Positive; Findings: insomnia; using restoril nightly--> awakening at 2 am routinely.  Mood described as 'ok'; Eyes: Negative;  Ears, Nose, Mouth/Throat: Negative;  Cardiovascular: Positive;  Respiratory: Positive;  Findings: SOB at rest;  Musculoskeletal: Positive;  Findings: R hand weakness, R leg weakness * unable to identify when pain started;  Neurological: Positive;  Findings: as per HPI;  Psychiatric: Negative;  Endocrine: Negative;  Hematologic | Lymphatic: Negative;  Skin: Negative;  Allergic | Immunologic: Negative
+- - - - -
+GENERAL EXAM  (Select "not examined" for any organ system note examined because such examination is not medically necessary for this encounter)
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 05 2009] 12:22
+VITALS:
+**DATE[Nov 05] 09:44 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  192
+**DATE[Nov 05] 09:26 T:      BP:       P:    RR:    SaO2: 93 FiO2:    Ht:      Wt:     
+**DATE[Nov 05] 09:24 T:      BP:124/79 P:101 RR: 18 SaO2: 93 FiO2:    Ht:      Wt:     
+**DATE[Nov 05] 05:49 T: 36.5 BP:121/75 P:104 RR: 18 SaO2: 93 FiO2:  2 Ht:      Wt:     
+METRIC: Weight: 192
+- - - - -
+Constitutional: No acute distress;  Other: pleasant and cooperative
+Eyes: EOMI; **NAME[UUU]
+Ears, Nose, Mouth & Throat: No JVD; Moist mucosa; Neck supple
+Respiratory: CTA
+Cardiovascular: RRR; Normal S1, S2; No murmur
+Gastrointestinal: Soft; Nontender; BS Present
+distendgrp: Nondistended
+Extremities: No edema
+Neurologic: Awake, alert, oriented x3;  Other: CN II-XII intact grossly, biceps 5/5 bilaterally, triceps 4/5 R, 5/5 L, decreased R sided grip strenght and thumb opposition R>L, Reflexes 1+ B in LE, 2+ B in UE,  dorsi/plantar flexion 4/5 R LE, 5/5 L LE, abnl proprioception B LE R>L
+Psychiatric: Appropriate
+Integumentary/Skin: No Rash; No Jaundice
+- - - - -
+Labs: Reviewed
+Imaging: CT scan cervical spine; **DATE[Oct 30 2009] MULTILEVEL DEGENERATIVE DISC DISEASE MOST NOTABLY AT C5-6 AND C6-7  WHERE THERE IS MILD BILATERAL NEURAL FORAMINAL NARROWING RELATED TO  UNCOVERTEBRAL SPURRING.
+- - - - -
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 60s] y/o male with a past history of cardiac transplant secondary to ischemic cardiomyopathy in **DATE[May 2009] admitted with evidence of rejection with complaints of 2 wk hx of neck and R arm pain in addition to significant foot pain who on exam is found to have evidence of C7/8 radiculopathy, rotator cuff injury.  In addition pt noted to have numerous somatic sx in context of previously dx depression; concern for ongoing mood DO.
+- - - - -
+Problem/Diagnosis 1: R shoulder pain; Plan: Hx and exam consistent with R sided rotator cuff injury.   Involve PM&R and PT.  Would begin oxycodone 2.5-5 mg PO q 4 prn for pain.
+Problem/Diagnosis 2: R arm weakness; Plan: Distribution of weakness consistent with C7-8 radiculopathy.  Would rec conservative management.  Pt not a good candidate for neurontin given renal insufficiency.  Oxycodone as above.  Again please involve PM&R, PT.
+Problem/Diagnosis 3: Plantar fascitis; Plan: Would suggest PM&R for possible local injection in near future (pt received recent IV steroids for rejection).
+Problem/Diagnosis 4: R hip pain; Plan: Most likely due to lateral cutaneous nerve injury (which is longstanding).  Rec lidoderm patch.
+Problem/Diagnosis 5: Hx of depression; Plan: Pt previously on Elivil but dc'd by PCP in recent past.  Pt has seen Dr. **NAME[TTT SSS] in the past; Palliative Care team will ask her to see the pt on Monday.  May need to consider antidepressant in the future.
+Problem/Diagnosis 6: Insomnia; Plan: Rec restoril 1 tab at bedtime (10 pm) and 1 tab with awakening (pt routinely awakening at ~2am)
+Problem/Diagnosis 7: R sided weakness; Plan: Remote hx of stroke?  No indication to image now.
+Problem/Diagnosis 8: Nausea; Plan: Rec SCHEDULED Zofran and Reglan 10 mg QID x 1 day then continue scheduled Zofran with prn Reglan for nausea
+Problem/Diagnosis 9: Hiccups; Plan: Etiology not clear at this point.  Would rec Reglan for hiccups as well.  
+- - - - -
+Please notify me if you would like me to follow the patient.  My advice regarding the following patient is listed above: **NAME[AAA, BBB M]
+- - - - -
+RESIDENT **NAME[RRR]: Electronically signed by **NAME[QQQ PPP], MD at 16:37; **NAME[PPP, QQQ] ; 4448; **DATE[Nov 5 2009]; 16:37
+- - - - -
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 110;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 60
+TEACHING PHYSICIAN ATTESTATION: GC; With the addition of: see above occupation I saw the patient on: **DATE[Nov 05 2009]
+- - - - -
+ATTENDING **NAME[RRR]: Electronically signed by **NAME[WWW XXX], MD at 18:04; **NAME[XXX, WWW] ; 2322/8511; **DATE[Nov 5 2009]; 18:04
+- - - - -
+VISIT CODE(S): GC
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M] JR
+SERVICE:Cardiology
+CODE STATUS:Code Status - Full Code
+ISOLATION STATUS:VRE
+ALLERGIES:penicillin, sulfa drugs, Iodine, iodinated radiocontrast dyes
+ROUNDING REPORT TIME:**DATE[Nov 05 2009] 12:22
+VITALS:
+**DATE[Nov 05] 09:44 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  192
+**DATE[Nov 05] 09:26 T:      BP:       P:    RR:    SaO2: 93 FiO2:    Ht:      Wt:     
+**DATE[Nov 05] 09:24 T:      BP:124/79 P:101 RR: 18 SaO2: 93 FiO2:    Ht:      Wt:     
+**DATE[Nov 05] 05:49 T: 36.5 BP:121/75 P:104 RR: 18 SaO2: 93 FiO2:  2 Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        590      580      240     1410        0        0        0
+OUTPUT:        **PHONE      450     2150        0        0        0
+BALANCE:      -110     -420     -210     -740        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+amiloride (Midamor)   10mg  By Mouth Daily
+amlodipine (Norvasc)   5mg  By Mouth Daily
+cycloSPORINE (Gengraf)   250mg  By Mouth BID
+dapsone   100mg  By Mouth Daily
+ferrous sulfate EC   325mg  By Mouth Daily
+furosemide (Lasix)   80mg  By Mouth BID
+insulin glargine (Lantus) (Lant...   27Unit(s)  subQ AtBedtime
+insulin lispro (HumaLOG) (HumaLO...   8Unit(s)  subQ WthBrkfst
+insulin lispro (HumaLOG) (HumaLOG...   8Unit(s)  subQ WthLunch
+insulin lispro (HumaLOG) (HumaLO...   9Unit(s)  subQ WthSupper
+insulin lispro (HumaLOG) (Insu...   0-6 Units  subQ MealsandHS
+magnesium oxide   800mg  By Mouth Daily
+magnesium oxide   400mg  By Mouth BID
+mycophenolate mofetil (CellCept)   750mg  By Mouth BID
+pantoprazole EC   40mg  By Mouth Daily
+pravastatin (Pravachol)   10mg  By Mouth QPM
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen (Tylenol)   650mg  By Mouth Q6H
+docusate (Colace)   100mg  By Mouth BID
+lorazepam (Ativan)   1mg  By Mouth Q6H
+ondansetron (Zofran)   4mg  IV Q6H
+temazepam (Restoril)   15mg  By Mouth AtBedtime
+ONE TIME MED ORDERS
+6/04 03:00acetaminophen-hydrocodone (...   2tab(s)  By Mouth ONCE
+LABS:
+**DATE[Nov 05] 06:21
+Glucose (bedside) 296 H
+Glu(Bedside Test) Meter **NAME[OOO]. RN Notified
+**DATE[Nov 05] 04:05
+Na (adjusted) 136.5
+Anion Gap 9.0
+GFR (estimated) 38.00 L
+Na 133 C
+K 4.3
+Cl 96 L
+CO2 28
+BUN 42 H
+Cr 1.8 H
+Glucose 316 H
+Ca 9.0
+Mg 1.5 L
+Cyclosporin (Monoclonal) 345 H
+**DATE[Nov 04] 20:53
+Glucose (bedside) 345 H
+**DATE[Nov 04] 16:43
+Glucose (bedside) 373 H
+**DATE[Nov 04] 12:07
+Glucose (bedside) 358 H
+Glu(Bedside Test) Meter **NAME[OOO]. RN Notified
+**DATE[Nov 04] 06:31
+Glucose (bedside) 380 H
+**DATE[Nov 04] 03:55
+Anion Gap 11.0
+GFR (estimated) 38.00 L
+Cyclosporin (Monoclonal) 414 H
+Na 131 C
+K 4.9
+Cl 96 L
+CO2 24
+BUN 33 H
+Cr 1.8 H
+Mg 1.3 L
+**DATE[Nov 03] 21:18
+Glucose (bedside) 322 H
+Glu(Bedside Test) Meter **NAME[OOO]. RN Notified
+**DATE[Nov 02] 07:04
+Glucose (bedside) 114 H
+GT Prophylaxis:Pantoprazole
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=f2412b52-03f6-4904-a3d8-8f4c8c640a13^URL^IMAGE

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060805HP-51UHwRY89ude-848-482180764</checksum>
+<subtype>PALLIATIVE CONSULT</subtype>
+<type>HP</type>
+<chief_complaint/>
+<admit_diagnosis/>
+<discharge_diagnosis/>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+PALLIATIVE CARE
+CONSULTATION
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[YYY XXX ZZZ]
+CONSULTING PHYSICIAN:  **NAME[YYY XXX ZZZ]
+DATE OF ADMISSION:  **DATE[Jul 25 2006]
+DATE OF CONSULTATION:  **DATE[Aug 05 06]  
+REASON FOR CONSULTATION:
+1. Discussion for goals of care.
+2. Symptom control.
+I have personally done a history and physical on this patient and examined the chart and was present at the family meeting with our fellow, Dr. **NAME[SSS RRR], our medical student, Dr. **NAME[QQQ PPP], and the family members which include the wife and two brothers.  Please consider my note linked to Dr. **NAME[SSS RRR]' note.
+In brief, Mr. **NAME[AAA] is a **AGE[in 50s]-year-old man who was admitted to the hospital on **DATE[Jul 25] after a spontaneous intracranial hemorrhage of the left parietal lobe.
+ He presented with headache and change in mental status.  Since he has been hospitalized, his symptoms have progressed where he has had extension into the ventricles.  He had surgery offered.  The family requested no surgery as the option presented was surgery would not really improve his symptoms.
+Also, the family was presented with the option of PEG and they were debating it, but thinking not to do the PEG.
+PAST MEDICAL HISTORY:
+Significant for alcoholic cancer.
+CURRENT MEDICATIONS:
+1. Oxacillin.
+2. Dilantin for seizure prophylaxis.  
+LABORATORY DATA:
+Significant for normal creatinine.  CBC is unremarkable, ammonia is 21 and significant for Staph aureus bacteremia from pneumonia.  
+Otherwise, family history, social history and other review of systems are as per Dr. **NAME[RRR].
+REVIEW OF SYSTEMS:
+Significant for the patient really not being at all responsive.
+PHYSICAL EXAMINATION:
+He is not responsive.  He is very comfortable appearing.
+Chest - Coarse breath sounds anteriorly.
+Abdomen - Nontender.
+Extremities - Minimal edema.
+Cardiovascular - Regular rate and rhythm.
+ASSESSMENT:
+**AGE[in 50s]-year-old man status post left parietal hemorrhage with no neurologic improvement.  During the family meeting, the wife and brothers were quite clear that the patient was a very vigorous man and loved to hunt and was a farmer.  He would never want to live like this.  Her impression of her husband's wishes were that if he could not regain full function, he would prefer to die.  We discussed with them PEG and at the current time, they are leaning not to do a PEG or continue any other aggressive measures.  He has ready been made CMO.
+At the current time, the family is waiting for the daughter to come so they can discuss this with her before they make a final decision.  At that point, we can decide with them placement; specifically, hospice.  
+SYMPTOMS - The patient's symptoms are well controlled.  He will be maintained on Dilantin for seizure prophylaxis.  If we assume his care or if he gets transferred, we would maybe just use bolus benzo rather than scheduled
+ Dilantin.
+___________________________________
+**NAME[VVV M. WWW], M.D.
+Dictator:  **NAME[VVV M. WWW], M.D.
+**INITIALS
+D:  **DATE[Aug 05 2006] 16:51:32
+T:  **DATE[Aug 07 2006] 15:46:46
+R:  **DATE[Aug 15 2006] 15:30:26/clm
+Job ID:  86031/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[WWW, OOO M]. ***
+Electronically Signed by **NAME[VVV WWW]  **DATE[Aug 19 2006] 06:25:56 AM
+ 
+
+
+
+</report_text>
+</report>

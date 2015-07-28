@@ -1,0 +1,153 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 03 2009]
+Time: 10:33
+- - - - -
+Physical: Patient c/o  abdominal pain and discomfort - about 9/10 this morning. Says that the pain medicine helps but that he cannot get it because his blood pressure drops, would rather have the pain treated than continue to be in pain because his blood pressure is low. Has some nausea as well along with the pain. Had a BM this am.   
+- - - - -
+Medications:  Oral morphine equivalent: 8mg in 24 hours
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 03 2009] 10:33
+VITALS:
+**DATE[Nov 03] 08:00 T: 36.6 BP: 90/40 P: 77 RR: 15 SaO2: 91 FiO2:    Ht:      Wt:     
+**DATE[Nov 03] 05:13 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  130
+**DATE[Nov 03] 04:38 T: 36.5 BP: 78/42 P: 76 RR: 15 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 03] 04:00 T:      BP:       P:    RR:    SaO2:100 FiO2:  2 Ht:      Wt:     
+- - - - -
+Constitutional:  Other: In moderate distress
+Eyes: EOMI;  Other: Scleral icterus present
+Ears, Nose, Mouth & Throat: Moist mucosa; Hearing grossly normal
+Respiratory: CTA;  Other: Anterior auscultation only
+Cardiovascular: RRR
+Gastrointestinal: Soft; Distended; BS Present;  Other: Tenderness in RLQ, where suture is present and a dressing is applied
+Extremities:  Other:  (attending): b/l pitting edema
+Neurologic: Awake, alert, oriented x3
+Psychiatric: Appropriate
+CAM: Negative
+Integumentary/Skin:  Other: Jaundiced
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+Labs: Reviewed; Renal function worsening slightly
+Imaging: Chest x ray showing correction in PICC line placement
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M]
+SERVICE:General Medicine
+CODE STATUS:Code Status  -  Limited Therap
+ISOLATION STATUS:VRE
+ALLERGIES:NKA
+ROUNDING REPORT TIME:**DATE[Nov 03 2009] 10:33
+VITALS:
+**DATE[Nov 03] 08:00 T: 36.6 BP: 90/40 P: 77 RR: 15 SaO2: 91 FiO2:    Ht:      Wt:     
+**DATE[Nov 03] 05:13 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  130
+**DATE[Nov 03] 04:38 T: 36.5 BP: 78/42 P: 76 RR: 15 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 03] 04:00 T:      BP:       P:    RR:    SaO2:100 FiO2:  2 Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:       1150     1200     1550     3900      150        0        0
+OUTPUT:        400       25       50      475        0        0        0
+BALANCE:       **PHONE     1500     3425      150        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+famotidine (Pepcid)   20mg  IV Q12H
+ferrous sulfate EC   325mg  By Mouth Daily
+heparin   5,000Unit(s)  subQ Q12H
+lactulose   20gm  By Mouth QID
+levothyroxine (Synthroid)   100mcg  By Mouth QAM
+metronidazole (Flagyl)   500mg  By Mouth TID
+nadolol (Corgard)   40mg  By Mouth Daily
+nystatin (nystatin 100,000 uni...)   5mL  SwshSwallw QID
+piperacillin-tazobactam (Zosyn)   4.5gm  IV Q8H
+rifaximin (Xifaxan)   400mg  By Mouth TID
+Sodium Chloride 0.9% 1000 mL   1000mL 150mL/hr IV
+sulfamethoxazole-trimethopri...   1tab(s)  By Mouth QMndWedFri
+tacrolimus (Prograf)   0.5mg  By Mouth QOtherDay
+ursodiol (Actigall)   600mg  By Mouth BID
+zinc sulfate (zinc sulfate 220 mg ....   1cap(s)  By Mouth BID
+ACTIVE INPATIENT PRN MED ORDERS
+hydromorphone (Dilaudid)   0.2mg  IV Q4H
+lidocaine 1% (lidocaine 1% injecta.....   3mL  Misc As DirCPOE
+lidocaine 1% (lidocaine 1% injecta.....   3mL  Misc As DirCPOE
+ONE TIME MED ORDERS
+8/03 09:00albumin human 5% (albumin human 5%...   25gm  IV ONCE
+8/01 21:00albumin human 5% (albumin human 5%...   25gm  IV ONCE
+8/03 00:00Sodium Chloride 0.9% (NS (for bolus...   500mL  IV ONCE
+LABS:
+**DATE[Nov 03] 04:05
+Anion Gap 11.0
+GFR (estimated) eGFR
+Na 134 C
+K 3.6
+Cl 106
+CO2 17 L
+BUN 45 H
+Cr 3.8 C
+Glucose 95
+Ca 8.0 L
+**DATE[Nov 02] 19:20
+Urine Na <10
+Urine K 93.4
+Urine Cl 17
+Urine Cr 212.0
+**DATE[Nov 02] 04:05
+Anion Gap 11.0
+GFR (estimated) eGFR
+Ca (adjusted) 9.3
+Tacrolimus 9.2
+Na 133 C
+K 3.7
+Cl 102
+CO2 20 L
+BUN 41 H
+Cr 3.4 C
+Glucose 75
+Ca 8.2 L
+Mg 2.7 H
+Phos 4.6
+Albumin 2.4 C
+Total Protein 5.4 L
+Bili, Total 32.7 C
+ALT/SGPT 88 H
+AST/SGOT 159 H
+Alk Phos 92
+WBC 16.7 H
+RBC 3.21 L
+Hgb 11.4 L
+Hct 31.9 L
+MCV 99.6 H
+RDW 20.7 C
+Platelets 175
+Neutrophils 69
+Lymphs 10 L
+Monocytes 20 H
+Eosinophils 1
+Basophils 0
+Type of Differential Automated Differential
+PT 28.1 H
+INR 2.5 H
+MICROBIOLOGY:
+BLOOD CULTURE 8/01.   Culture: NO GROWTH 2 DAYS  [Prelim]
+BLOOD CULTURE 8/01.   Culture: NO GROWTH 2 DAYS  [Prelim]
+DEEP WOUND CULTURE(Pigtail Catheter or Tip)  7/31.   Gram Stain: Many WBCs present;   No organisms present   Culture: Light DIPHTHEROIDS  [Final]
+BODY FLUID CULTURE(Ascites fluid)  7/31.   Gram Stain: Moderate WBCs present;   No organisms present   Culture: Rare DIPHTHEROIDS  [Final]
+DVT Prophylaxis:Heparin
+GT Prophylaxis:Famotidine
+ASSESSMENT AND PLAN
+Assessment: patient with ESLD, not a transplant candidate, s/p failed OTL, s/p nephrectomy for RCC and right upper lobe lobectomy for Lung cancer
+- - - - -
+Problem/Diagnosis 1: Abdominal pain; Plan: Related to abdominal distension. Usually comes and goes. IV opiates held because of hypotension- would suggest switching to Dilaudid 2mg q4hr PRN pain. Also to undergo paracentesis for relief of symptoms. Consider decreasing Nadolol to 20mg instead of 40mg
+Problem/Diagnosis 2: nausea; Plan: Would add compazine for nausea PRN - have PO
+Problem/Diagnosis 3: Disposition ; **INSTITUTION is not able to take the patient. **NAME[VVV UUU] the palliative care SW is working on getting the patient into other NH based on his preference. Cost of drugs and VRE are prohibitive factors.
+- - - - -
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 35;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 25; The counseling/coordination of care generally consisted of: goals of care and disposition
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD at 11:32; **NAME[XXX, WWW] ; 2098; **DATE[Nov 3 2009]; 11:32
+- - - - -
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=8a6f0ca4-7579-4f29-a2d1-d44342739648^URL^IMAGE

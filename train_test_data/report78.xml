@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060711ER-IrlAZ2n82CUb-848-178278412</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>SHORTNESS OF BREATH</chief_complaint>
+<admit_diagnosis>242.00</admit_diagnosis>
+<discharge_diagnosis>241.1,478.30,250.61,250.51,250.41,403.01,585.6,V45.1,496,285.1,428.32,428.0,518.81,193,414.01,443.9,357.2,536.3,362.01,278.01,285.21,V49.76,733.00,272.4,252.01</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM 
+DATE OF SERVICE:  **DATE[Jul 11 06] 
+PRIMARY CARE PHYSICIAN: K  U
+HISTORY OF PRESENT ILLNESS:  
+Chief complaint:  Shortness of breath.
+Ms. **NAME[AAA] is a **AGE[in 40s]-year-old female with multiple comorbidities who is presenting with a two-month history of shortness of breath.  The patient notes that at the end of **DATE[May] of 2006, she was admitted for cardiac arrest and was subsequently intubated.  Following intubation, the patient suffered injury to the vocal cords and developed significant hoarseness and shortness of breath.  She was then seen by Dr. **NAME[TTT] from ENT at **INSTITUTION for evaluation of her shortness of breath and voice change.  Initial ENT evaluation revealed enlarged thyroid and possible left vocal cord paralysis.  Therefore, the patient underwent a CT of the neck on **DATE[Jul 04 2007] with findings of moderate multinodular thyroid goiter with retrosternal extension and tracheal compression with moderate tracheal narrowing at the level of the thoracic inlet.  Furthermore, there was subglottic airway mucosal surface nodularity.  Because of the patient's clinical presentation and CT findings, she was subsequently referred to see Dr. **NAME[SSS] of ENT at **INSTITUTION Hospital.  She was scheduled for her first appointment at the ENT clinic today.  However, after waking this morning, the patient had continued shortness of breath and was unable to dress herself or bathe herself secondary to severe shortness of breath.  Therefore, she decided to come to the Emergency Department today for evaluation.  On further questioning, the patient notes that her shortness of breath is not significantly increased or worsened today.  She denies any associated chest pain, calf tenderness, or lower extremity pain or swelling. 
+REVIEW OF SYSTEMS:  
+Review of systems is significant for vocal hoarseness and voice change consistent with whispering which has been going on for the past month.  The patient denies any headache, chest pain, dizziness, lightheadedness, or changes in bowel habits.  She does admit to mild nausea and vomiting yesterday evening; however, she notes that this is a chronic issue.  The patient denies any calf tenderness or lower extremity pain or swelling.  
+Furthermore, she denies any palpitations.   
+PAST MEDICAL HISTORY:  
+1. Type 1 diabetes diagnosed at the age of **AGE[birth-12] with complications of retinopathy, peripheral neuropathy, and gastroparesis. 
+2. Status post left AKA secondary to severe peripheral neuropathy.
+3. End-stage renal disease on hemodialysis Monday/Wednesday/Friday.
+4. Hypertension.
+5. Hyperlipidemia.
+6. Anemia of chronic disease.
+7. Status post C-section times two.
+8. Status post cholecystectomy.
+9. Status post cardiac arrest and recent intubation in **DATE[Jun] of 2006.
+10. History of pancreatitis.
+11. Status post trachitis.
+CURRENT MEDICATIONS:
+1. Lantus.
+2. NovoLog t.i.d. meals.
+3. Lisinopril.
+4. Metoprolol.
+5. Oxycodone p.r.n. neuropathy.
+6. Omeprazole.
+7. Mucomyst inhaler.
+8. DuoNeb treatments.
+9. Nephrocaps.
+ALLERGIES:
+NO KNOWN DRUG ALLERGIES.
+SOCIAL HISTORY:
+The patient is married and lives with her husband and two children.  She is currently on disability, but used to work as a nurses aid.  She denies any alcohol or tobacco use or illicit drug use. 
+FAMILY HISTORY:
+The patient's grandfather has CHF.  She also has two cousins with coronary artery disease.  Both her mother and father are now deceased, but had hypertension and diabetes. 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  At the time of this dictation the vital signs are not available; however, the patient was saturating approximately 98% on room air and then maintained her saturations in the range of 98 to 100% on 2 liters of nasal cannula throughout her stay in the Emergency Department. 
+GENERAL APPEARANCE:  The patient is awake, alert, and oriented times three and not in any acute distress; however, she is displaying significant retraction and nasal flaring while speaking to me. 
+HEENT:  Head is normocephalic, atraumatic.  The left eye has corneal opacification, but the right pupil is round and reactive to light and accommodation.  There is no pharyngeal erythema or exudate. 
+NECK:  Neck is obese, nontender, no lymphadenopathy, no JVD, and no carotid bruits. 
+CARDIOVASCULAR:  Normal S1, S2.  Regular rate and rhythm.  No appreciated murmurs, rubs, or gallops. 
+LUNGS:  Lungs are clear to auscultation bilaterally.  No wheezes or crackles. 
+ However, the patient is displaying labored breathing with retractions.  
+There is no audible stridor. 
+ABDOMEN:  Soft, nontender, and nondistended with normoactive bowel sounds and no rebound or guarding. 
+EXTREMITIES:  Left AKA, stump intact; right lower extremity without clubbing or cyanosis, but positive peripheral nonpitting edema and evidence of chronic venous stasis skin changes.  Left arm fistula is intact and functional. 
+NEUROLOGIC:  Cranial nerves II through XII are grossly intact.  No focal neurological deficits. 
+ED COURSE:  
+This is a **AGE[in 40s]-year-old female who is presenting with a long-standing history of shortness of breath.  The patient was not hypoxic and was not complaining of acute shortness of breath, chest pain, or lower extremity swelling.  
+Although the patient was not displaying audible signs of stridor, her presentation was most likely consistent with upper respiratory pathology which is consistent with her ENT evaluation and neck CT findings.  ENT was called to evaluate the patient in the Emergency Department to determine the further plan.   
+In the meantime, basic laboratories were obtained indicating a sodium of 145, potassium 3.9, chloride 96, bicarbonate 36, BUN 15, creatinine 5.2, and glucose of 114.  Calcium was 9.8, magnesium 1.5, and phosphorus 3.5.  White blood cell count was 8.6, hemoglobin 13.2, hematocrit 41.8, platelets 463.  
+PT was 9.2, INR 1.0, PTT 34.9. 
+A PA and lateral chest x-ray was also completed to rule out any acute infiltrate or effusion.  Findings on chest x-ray were significant for mild cardiac enlargement, pulmonary congestion with possible mild edema and small pleural effusions and no focal areas of infiltrate.  There were no prior films that were compared to this study. 
+The patient was evaluated by ENT and it was determined that she would have to undergo surgery.  However, according to ENT, the patient warranted complete medical evaluation and clearance prior to surgery.  Therefore, it was determined that the patient should be admitted to the Medicine Service for further evaluation.  The A Service attending and resident were contacted and the case was discussed.  No further intervention was necessary for the patient while she remained in the Emergency Department.   
+Of note, she is due to hemodialysis tomorrow, Friday, **DATE[Jul 12 2007].  The patient remained clinically stable and maintained her oxygen saturation on 2 liters of nasal cannula. 
+DISPOSITION:
+The patient was admitted to the A Service, monitored bed.  She was clinically stable throughout her stay in the Emergency Department and by the time of her transfer to the floor.  The patient was transferred to 10 South. 
+ADMITTING DIAGNOSIS(ES):  
+SHORTNESS OF BREATH.
+___________________________________
+ED ATTENDING PHYSICIAN
+ 
+Dictator:  **NAME[WWW XXX]
+**INITIALS
+D:  **DATE[Jul 11 2007] 20:35:30
+T:  **DATE[Jul 11 2007] 20:43:16
+R:  **DATE[Jul 11 2007] 20:43:16/bab
+Job ID:  343010/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[RRR] ***
+Electronically Signed by **NAME[QQQ PPP]  **DATE[Jul 25 2007] 10:16:38 AM
+ 
+
+
+
+</report_text>
+</report>

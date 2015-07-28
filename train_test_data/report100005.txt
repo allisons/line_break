@@ -1,0 +1,171 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 01 2009]
+Time: 13:05
+- - - - -
+Chief Complaint: Abdominal pain, LE edema
+- - - - -
+Physical: Patient reports that abdominal pain has improved from yesterday. Character has not changed. States that pain is 6/10 despite saying she feels better and appearing comfortable. No associated nausea and vomiting. Has not been excessively sedated with current dose of oxycodone. Patient states her appetite is improving. She is moving her bowels. 
+- - - - -
+Medications:  Oral morphine equivalent: 40
+- - - - -
+REVIEW OF SYSTEMS:  Modified Edmonton System Assessment Scale (ESAS): This control requires a parameter in the Form Designer tool called 'FormName'. For more information, refer tot he Forms Development Guide. 
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 01 2009] 13:05
+VITALS:
+**DATE[Nov 01] 08:09 T: 35.6 BP:123/64 P:111 RR: 20 SaO2: 96 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 04:05 T: 35.9 BP:144/75 P:114 RR: 14 SaO2: 98 FiO2:    Ht:      Wt:     
+**DATE[Oct 31] 23:36 T: 35.9 BP:122/70 P:104 RR: 14 SaO2: 97 FiO2:    Ht:      Wt:     
+**DATE[Oct 31] 19:36 T: 35.3 BP:124/75 P:110 RR: 18 SaO2: 96 FiO2:    Ht:      Wt:     
+- - - - -
+Constitutional: No acute distress
+Eyes: EOMI; **NAME[VVV];  Other: Scleral icterus
+Ears, Nose, Mouth & Throat: No JVD; Moist mucosa; Hearing grossly normal
+Respiratory:  Other: diminished breath sounds R base, L base with crackles
+Cardiovascular: Normal S1, S2; No murmur; No rubs; No gallops;  Other: tachycardic
+Gastrointestinal: Soft; Nontender; Distended; BS Present; No rebound guarding
+Extremities:  Other:  (attending): 2+ pittine edema from thighs to ankles, mild tenderness in thighs bilaterally
+Neurologic: Awake, alert, oriented x3; Non-focal exam;  Other: no asterixis
+Psychiatric: Appropriate;  Other: mild delirium w/ some difficulty following commands and formulating responses to questioning
+Integumentary/Skin:  Other: jaundiced
+Musculoskeletal: Normal
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: No lymphadenopathy
+- - - - -
+Labs: Reviewed
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M]
+SERVICE:Transplant
+ALLERGIES:Lipitor(Hives)
+ROUNDING REPORT TIME:**DATE[Nov 01 2009] 13:05
+VITALS:
+**DATE[Nov 01] 08:09 T: 35.6 BP:123/64 P:111 RR: 20 SaO2: 96 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 04:05 T: 35.9 BP:144/75 P:114 RR: 14 SaO2: 98 FiO2:    Ht:      Wt:     
+**DATE[Oct 31] 23:36 T: 35.9 BP:122/70 P:104 RR: 14 SaO2: 97 FiO2:    Ht:      Wt:     
+**DATE[Oct 31] 19:36 T: 35.3 BP:124/75 P:110 RR: 18 SaO2: 96 FiO2:    Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        240      300        0      540        0        0        0
+OUTPUT:        610      **PHONE      300        0        0
+BALANCE:      -370     -**PHONE     -300        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+furosemide (Lasix)   40mg  IV Daily
+heparin   5,000Unit(s)  subQ Q12H
+insulin regular (HumuLIN R, NovoLIN R...   0-6 Units  subQ Q6H
+lactulose   20gm  By Mouth TID
+spironolactone (Aldactone)   50mg  By Mouth BID
+ACTIVE INPATIENT PRN MED ORDERS
+ondansetron (Zofran)   4mg  IV Q6H
+oxycodone   5mg  By Mouth Q3H
+oxycodone   10mg  By Mouth Q3H
+ONE TIME MED ORDERS
+8/31 13:57furosemide (Lasix)   20mg  IV ONCE
+8/31 11:00magnesium sulfate   4gm  IV ONCE
+LABS:
+**DATE[Nov 01] 11:14
+Glucose (bedside) 220 H
+**DATE[Nov 01] 05:59
+Glucose (bedside) 184 H
+**DATE[Nov 01] 04:05
+Anion Gap 12.0
+GFR (estimated) eGFR>60
+Na 130 C
+K 3.9
+Cl 99
+CO2 19 L
+BUN 20
+Cr 0.7
+Glucose 158 H
+Ca 8.8
+Mg 2.1
+Phos 3.9
+Albumin 2.6 C
+Total Protein 5.2 L
+Bili, Total 15.3 C
+ALT/SGPT 45
+AST/SGOT 139 H
+Alk Phos 954 C
+WBC 12.9 H
+RBC 3.35 L
+Hgb 10.9 L
+Hct 31.0 L
+MCV 92.7
+RDW 20.8 C
+Platelets 127 L
+**DATE[Oct 31] 23:38
+Glucose (bedside) 215 H
+**DATE[Oct 31] 21:28
+Glucose (bedside) 209 H
+**DATE[Oct 31] 16:19
+Glucose (bedside) 165 H
+**DATE[Oct 31] 11:50
+Glucose (bedside) 152 H
+**DATE[Oct 31] 06:21
+Glucose (bedside) 144 H
+**DATE[Oct 31] 04:05
+Anion Gap 10.0
+GFR (estimated) eGFR>60
+Na 132 C
+K 4.5
+Cl 103
+CO2 19 L
+BUN 23
+Cr 0.7
+Glucose 123 H
+Ca 8.6
+Mg 1.7
+Phos 3.8
+Albumin 2.6 C
+Total Protein 5.0 L
+Bili, Total 12.6 C
+ALT/SGPT 43
+AST/SGOT 147 H
+Alk Phos 942 C
+WBC 11.8 H
+RBC 3.21 L
+Hgb 10.3 L
+Hct 29.6 L
+MCV 92.2
+RDW 20.9 C
+Platelets 158
+**DATE[Oct 29] 13:00
+Diff Comments, CSF MANY ERYTHROPHAGOCYTES AND LEUKOPHAGOCYTES SEEN ON SCANNING A SMALL CLUMP OF WBCS FOR PATHOLOGIST REVIEW PATH
+MICROBIOLOGY:
+BODY FLUID CULTURE(Pleural Fluid)  8/29.   Gram Stain: Moderate WBCs present;   No organisms present   Culture: NO GROWTH 2 DAYS  [Final]
+DVT Prophylaxis:Heparin
+ASSESSMENT AND PLAN
+Assessment: Patient with progression of metastatic colon cancer with mets to liver, spine and new pulmonary nodules, w/ R pleural effusion s/p placement of chest tube. 
+1.  Pain Management: Pain control reportedly improved on 5-10mg Q3H of oxycodone. Patient appears comfortable, abdomen is nontender, states pain is well controlled but when asked to quantify it states that it is 6/10. Uncertain if the pain is from inflammation and capsular stretch secondary to progression of liver mets or irritation from ascites.   
+-cont. oxycodone to 5-10mg Q3H PRN, monitor closely for sedation
+-consider long acting agents in the future if patient continues to require frequent prn doses 
+-steroids are a viable option for further pain control in patient's with metastatic liver disease, but does not appear necessary at this time. 
+2. Delirium: very mild. Patient with some difficulty repeating complex phrases
+and following more complex commands. 
+-consider Haldol .5mg TID
+3.  Code Status:  Code status changed to DNR/DNI during hospitalization. 
+4.  Palliative care:  The husband feels the wife retains hope of significant improvement despite the odds, and would lose hope and just give up entirely if given a pessimisstic view of her disease.  He states that he his friend and mother both lost hope which expedited their deaths after they were made aware of prognosis. We discussed this with the patient's husband yesterday. Husband feels that home hospice is the best option at this point and would like to take her to Ohio for this, when patient able to be discharged. He still wishes to keep the details of her disease and prognosis from her. This issu may have to be readdressed in the near future.  
+-continue plans for home hospice in the coming days
+- - - - -
+Problem/Diagnosis 1: V66.7: VISIT FOR: PALLIATIVE CARE; Primary Dx
+Problem/Diagnosis 2: 780.96: GENERALIZED PAIN; abd pain; Plan: as above
+- - - - -
+Family/PCP Discussions1:  Date: **DATE[Oct 29 2009];  Resident: **NAME[UUU] all of above summarized conversations with patient's husband at bedside.  She remained somnolent due to medication with oxycodone just prior to my visit.
+- - - - -
+HOUSE STAFF PHYSICIAN/OTHER SIGNATURE: Electronically signed by **NAME[TTT SSS], MD at 15:59; **NAME[SSS, TTT] ; 5724; **DATE[Nov 1 2009]; 15:59
+- - - - -
+TEACHING PHYSICIAN ATTESTATION: GC; I saw and evaluated the patient. I agree with the findings and the plan of care as documented in the resident's note; I saw the patient on: **DATE[Nov 01 2009]; With the addition of: pt states that she is comfortable and then states that she wants medication for pain; cannot describe it and indicates lower to mid abdomen.   She has not questions about her health, as such we did not discuss.  It does not appear that her pain is currently from hepatic capsular distension, so would not give steroids.  Unclear if all of her opiate use is for physical pain or may also be clouded by delirium
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD (Epic# 18735) at 16:43; **NAME[XXX, WWW] ; 2177/8511; **DATE[Nov 1 2009]; 16:43
+- - - - -
+VISIT CODE(S): 99233; GC
+- - - - -
+
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=942379aa-d5d0-4764-a5d8-e6a6aa80846e^URL^IMAGE

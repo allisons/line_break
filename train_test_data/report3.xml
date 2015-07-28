@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060203DS-Mzt5EuIcMGwh-488-1350123944</checksum>
+<subtype/>
+<type>DS</type>
+<chief_complaint>ALTERED MENTAL STATUS</chief_complaint>
+<admit_diagnosis>780.79</admit_diagnosis>
+<discharge_diagnosis>599.0,276.51,401.9,276.8,427.89,569.1,294.8,V10.3,414.01,437.3,252.00,733.00,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+ 
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE, PA **ZIP-CODE
+____________________________________________________________
+ 
+ 
+**NAME[AAA, BBB M]
+**ID-NUM
+**ID-NUM
+A5A/1
+ 
+ 
+SERVICE OF:    **NAME[ZZZ M YYY]
+ 
+DATE OF ADMISSION:      **DATE[Feb 01 2007]  
+DATE OF DISCHARGE:      **DATE[Feb 03 2007]   
+ 
+DISCHARGE DIAGNOSES: Include,1. Urinary tract infection being currently under treatment with antibiotics.
+2. Hypertension, stable.
+3. Hypokalemia, resolved.
+4. Rectal prolapse, easily reducible.
+5. History of supraventricular tachycardia currently stable.
+ 
+DISCHARGE MEDICATIONS:  Include the following,1. Aspirin 81 mg q. day.
+2. Celexa 20 mg q. day.
+3. Lisinopril 15 mg a day.
+4. Potassium 20 mEq twice a day for 2 days and then to be stopped.
+5. Actonel 35 mg q. Friday.
+6. Senna 2 tablets daily at bedtime.
+7. Verapamil 90 mg daily.
+8. Cipro 500 mg twice a day for 7 days.
+9. Digoxin.  Her dose was changed at the hospital at the time of discharge to 0.125 mg q. every other day. 
+ 
+DISCHARGE INSTRUCTIONS:  The patient is on a heart healthy diet.  She will require a BMP with magnesium level on **DATE[Feb 8 2007] and a followup on the digoxin level on **DATE[Feb 22 2007].  She will be discharged with home care followup. 
+ 
+HOSPITAL COURSE:  Ms. **NAME[AAA] is a very pleasant **AGE[in 80s]-year-old resident of **INSTITUTION who was admitted to the hospital with altered mental status changes.  Her workup at the hospital revealed an underlying urinary tract infection, which may have likely contributed to her mental status changes along with dehydration.  She was initially treated with intravenous Cipro and that was switched to oral Cipro at the time of discharge.  She was also hydrated with fluids with significant clinical improvement.  An incidental note was made of a rectal prolapse during the course of her evaluation at the hospital.  Surgical input was obtained.  The prolapse was easily reducible.  No surgical intervention was recommended.  
+Recommendations were, however, made to prevent constipation in this patient to prevent occurring of recurrent rectal prolapse. 
+ 
+The patient was also placed on a flex monitor to monitor her cardiac rhythm.  
+She did show some PVCs and heart rate in the 50s.  An EKG was obtained which showed sinus bradycardia with voltage criteria for left ventricular hypertrophy with some associated repolarization changes with no significant change compared to the previous EKGs.  The patient's digoxin dose was noted to be slightly elevated at 1.3.  Her digoxin dose was changed to 0.125 mg q.o.d. from the previous 0.125 mg q.d.  The patient was also noted to be hypokalemic and was supplemented.  With being on digoxin, her electrolyte status is monitored closely.  The patient was on home Lasix which was discontinued during this hospitalization.  We will need to monitor for any leg edema or any other evidence of congestive heart failure now that she is off the Lasix. 
+ 
+Her hypertension remained under good control.
+ 
+Overall, the patient remained stable during the course of this hospitalization.  She was transferred back to **PLACE place in a stable condition with home care following.  She will be followed at WPO by the classic care team of doctors Dr. **NAME[YYY] and [_____________]***.  Her daughter was kept updated during the course of this hospitalization. 
+ 
+ 
+___________________
+**NAME[WWW XXX], M.D.
+ 
+ 
+Dict:   **DATE[Feb 03 2007] 10:04:48
+Tran:   **DATE[Feb 04 2007] 01:49:53
+**INITIALS
+ 
+R:  **DATE[Feb 04 2007] 01:49:53/ah
+ 
+
+**CARBON-COPY
+
+
+</report_text>
+</report>

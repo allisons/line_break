@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060403HP-xA10sJD9yqM9-489-1880085033</checksum>
+<subtype>CONSULT</subtype>
+<type>HP</type>
+<chief_complaint>PLEURAL EFFUSION</chief_complaint>
+<admit_diagnosis>786.05</admit_diagnosis>
+<discharge_diagnosis>428.0,427.31,242.90,V10.3,250.00,401.9,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+**INSTITUTION
+Consultation
+Name: **NAME[AAA, BBB]
+Acct #: **ID-NUM
+MRN: **ID-NUM
+Admitted: 
+Date: **DATE[Apr 03 2006]
+Dict: **NAME[XXX, WWW]
+Attend: **NAME[ZZZ, YYY]
+REASON FOR CONSULTATION:  Bilateral pleural effusions.
+We are asked to see this very pleasant **AGE[in 80s]-year-old woman with a history of atrial fibrillation and coronary artery disease.  The patient was recently admitted to **INSTITUTION for GI bleeding.  The patient was noted at that time to have an elevated INR.  As part of the patient's assessment, she was also noted on chest x-ray to have pneumonia for which she was treated since the patient was discharged after approximately 1 week.  Initially, she did well.  However, subsequently, she developed increasing shortness of breath and was evaluated by Dr. **NAME[VVV] and sent to the emergency department for further evaluation and treatment.  Mrs. **NAME[AAA] reports that she has had no significant fevers or chills.  She does have a cough which is productive of clear to yellow sputum which is her baseline.  She has a remote smoking history, having stopped greater than 40 years ago.  The patient does admit to some dietary indiscretion since discharge.  She reports that she loves salt and uses it freely.  She has had lower extremity edema greater on the right than on the left. According to the patient report, a lower extremity Doppler was performed recently which was negative for deep vein thrombosis.  The patient denies any change in bowel or bladder function.  She denies any skin lesions, rashes, change in visual or hearing acuity.  She denies any constitutional symptoms, chest pain, or palpitations.
+REVIEW OF SYSTEMS:  Otherwise negative.
+PAST MEDICAL HISTORY:  Her past medical history is positive for breast carcinoma in situ status post segmental mastectomy in 2001, history of cataract implants in 2004, atrial fibrillation, coronary artery disease status post myocardial infarction, non-insulin-dependent diabetes, and hypertension.
+MEDICATIONS:  Her outpatient medications include
+1.  Coumadin.
+2.  Diltiazem.
+3.  Glyburide.
+4.  Hydrochlorothiazide.
+5.  Atenolol.
+6.  Calcium.
+7.  Avandia.
+SOCIAL HISTORY:  The patient is married, lives with her husband, has one son. No alcohol, remote tobacco as above.
+FAMILY HISTORY:  Positive for coronary artery disease and diabetes.
+REVIEW OF SYSTEMS:  As outlined.
+PHYSICAL EXAMINATION :  A pleasant elderly Caucasian female with supplemental oxygen, in no distress.  Vital Signs:  Pulse 68, blood pressure 160/62, respiratory rate 18, saturation 94% at 2 L per minute.  Oropharynx is clear without exudate or erythema.  Jugular venous distention is noted.  Chest reveals some diminished breath sounds at the right base with some inspiratory crackles. Cardiac Exam:  Irregular.  No S3 gallop is heard.  Abdomen is soft. There is tenderness in the right upper quadrant with liver fullness.  Liver edge is smooth.  No masses are palpable.  Lower Extremities:  Trace lower extremity edema.  No clubbing of the fingernail beds.  Neurologically, pleasant, mild tremor, otherwise intact.
+Chest x-ray:  Cardiomegaly and bilateral pleural effusions, right greater than left.  Additional laboratories notable for sodium of 145, potassium 3.2, serum CO2 of 30, BUN and creatinine 16 and 1.0 respectively.  White count 4500, hemoglobin 10.1, platelets 120.  INR on admission 2.9, B-natriuretic peptide 518.  CT scan of the chest was reviewed, cardiomegaly; bilateral effusions, right greater than left; interstitial edema; findings consistent with mild congestive heart failure.
+IMPRESSION:  An **AGE[in 80s]-year-old admitted with increasing shortness of breath. The patient has pleural effusions on chest x-ray.  These are apparently related to the patient's congestive heart failure as noted by cardiology and radiographically.  I will defer to cardiology management.  No need for pulmonary intervention at this time.  We will follow peripherally, call if questions.
+Thank you for allowing us to participate in this patient's care.
+______________________________
+**NAME[WWW M XXX], MD
+HS Job # 469106 / 38373 / 34422
+SHY # **ID-NUM
+D: **DATE[Apr 03 2007] 13:59
+T: **DATE[Apr 03 2007] 15:46
+
+**CARBON-COPY
+
+
+</report_text>
+</report>

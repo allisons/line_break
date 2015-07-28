@@ -1,0 +1,116 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 06 2009]
+Time: 11:39
+- - - - -
+Physical: shakes head no to pain
+- - - - -
+Medications:  Oral morphine equivalent: Dilaudid 0.5mg/hr over last 15 hours
+- - - - -
+REVIEW OF SYSTEMS:  Modified Edmonton System Assessment Scale (ESAS): This control requires a parameter in the Form Designer tool called 'FormName'. For more information, refer tot he Forms Development Guide. 
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 06 2009] 11:39
+VITALS:
+**DATE[Nov 06] 09:56 T:      BP:       P: 80 RR: 12 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 05] 12:00 T:      BP:125/67 P: 85 RR: 16 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 05] 09:47 T:      BP:119/65 P: 81 RR: 16 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 05] 05:50 T:      BP:159/46 P: 85 RR: 16 SaO2:    FiO2:  2 Ht:      Wt:     
+- - - - -
+Constitutional: No acute distress;  Other: somnolent but arrousable
+Eyes: **NAME[VVV]
+Ears, Nose, Mouth & Throat: Moist mucosa
+Respiratory: CTA
+Cardiovascular: RRR
+Gastrointestinal: Soft; Nontender
+Extremities:  Other:  (attending): edema
+Neurologic: Awake, alert, oriented x3
+Psychiatric:  Other: somnolent
+CAM: somnolent
+Integumentary/Skin: Normal
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+Labs: Reviewed
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY]
+SERVICE:Internal Medicine
+CODE STATUS:Code Status - Comfort Measures
+ISOLATION STATUS:VRE
+ALLERGIES:erythromycin, captopril, ACE Inhibitors, penicillin
+ROUNDING REPORT TIME:**DATE[Nov 06 2009] 11:39
+VITALS:
+**DATE[Nov 06] 09:56 T:      BP:       P: 80 RR: 12 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 05] 12:00 T:      BP:125/67 P: 85 RR: 16 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 05] 09:47 T:      BP:119/65 P: 81 RR: 16 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 05] 05:50 T:      BP:159/46 P: 85 RR: 16 SaO2:    FiO2:  2 Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        240        0      120      360        0        0        0
+OUTPUT:          0        0        0        0        0        0        0
+BALANCE:       240        0      120      360        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+amitriptyline   10mg  By Mouth QOtherDay
+D/C SHORT-ACTING OPIOIDS (exce...   1SeeNotes  Misc As DirCPOE
+fentanyl Patch (Duragesic)   100mcg  TransDerm Q72H
+haloperidol (Haldol)   0.5mg  IV BID
+hydromorphone 30 mL   30mL as directed IV
+PCA CHECK   1SeeNotes  Misc Q8HRShift
+PCA TOTAL WITH BOLUSES (HYDROMO...   1SeeNotes  Misc Q8HRTotal
+Sodium Chloride 0.9% 1000 mL   1000mL 10mL/hr IV
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen (Tylenol)   650mg  By Mouth Q4H
+acetaminophen (Tylenol)   650mg  By Mouth Q6H
+Al hydroxide/Mg hydroxide/simethicone...   30mL  By Mouth Q4H
+albuterol (albuterol HFA 90 mcg....   2Puff(s)  Inhalation Q6H
+glycopyrrolate (Robinul)   0.2mg  IV Q4H
+hydrALAZINE (Apresoline)   10mg  IV Q10Min
+naloxone (Narcan)   0.04mg  IV As DirCPOE
+nitroglycerin   0.4mg  Sublingual Q5Min
+ocular lubricant (Lacri-Lube...   1Application  Both Eyes BID
+ocular lubricant (Tears Naturale...   1Drop(s)  Both Eyes QID
+ocular lubricant (Tears Naturale...   1Drop(s)  Both Eyes QID
+ondansetron (Zofran)   4mg  IV Q6H
+PCA BOLUS IF ORDERED (HYDROMOR...   1SeeNotes  Misc As DirCPOE
+ONE TIME MED ORDERS
+9/06 04:01hydromorphone   2mg  IV ONCE
+9/05 08:42phytonadione (phytonadione IV)   5mg  IV ONCE
+LABS:
+**DATE[Nov 05] 12:17
+ABO & Rh O Rh Positive
+Antibody Screen@ Negative
+DAT, Polyspecific Negative
+**DATE[Nov 05] 08:43
+RBC 1.47 C
+Hgb 4.9 C
+Hct 13.8 C
+MCV 94.4
+PT 57.9 H
+INR 6.2 C
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 70s] yo female w/ a h/o ESRD s/p failed kidney transplant, CAD s/p CABG/AVR on coumadin, admitted with bleeding AV fistula with hospital course c/b SAH, small bowel volvulus, GI bleed, and STEMI, now w/ continuing abdominal pain and decreased PO intake.
+- - - - -
+Problem/Diagnosis 1: Acute abdominal pain; Primary Dx; Plan: Well controlled.  Needed 0.56mg/hr by pca over last 15 hours.
+-increase dilaudid CI to 0.5mg/hr
+-continue other meds
+Problem/Diagnosis 2: Delirium; Plan: Progressive somnolence from meds and renal failure.  Dialysis stopped.  Prioritizing comfort over alertness.
+Problem/Diagnosis 3: Secretions; Plan: No current.  Cont current meds.
+Problem/Diagnosis 4: Fever; Plan: No current.  Cont current meds.
+Problem/Diagnosis 5: Dry eyes; Plan: eye gtts available.
+Problem/Diagnosis 6: Goals; Plan: Will convert to inpatient hospice today.  I will be the attending.  Family realizes we may need to transfer if patient stabilizes but I suspect she will die within 3 days given her continuing GI bleed and having stopped dialysis and all her meds.
+Problem/Diagnosis 7: Support provided to family
+- - - - -
+Family/PCP Discussions1:  Date: **DATE[Nov 04 2009];  Resident: **NAME[UUU] with pt, two daughters, PNCC, attending physician and palliative care SW.  Discussed pt's continued lack of PO intake, persistent delirium and anemia. Given these findings and poor functional status, prognosis likely days-weeks.  Pt's priorities are being home and symptom control.  Suggested DC home with palliative home care for sx mgmt and continuation of IV nafcillin.  Suggested that at some point, dialysis may become a burden to patient.  Daughter, Robin, notes she is not ready for her mom to stop dialysis.  We discussed the posibility of transitioning to hospice should the pt and her family decide to stop dialysis.  Family agreed that goal is comfort and do not plan on re-admitting pt to the hospital.  We will plan on DC to home Sunday afternoon with Family Hospice and Palliative care providing home palliative care.  
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD at 11:45; **NAME[XXX, WWW] ; 8511/14917; **DATE[Nov 6 2009]; 11:45
+- - - - -
+
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=26f7f842-c865-4049-87b3-cb535262936a^URL^IMAGE

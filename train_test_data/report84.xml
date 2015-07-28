@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060801ER-58zKaYJWk0WH-848-1079956656</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>RIGHT EYE PAIN</chief_complaint>
+<admit_diagnosis>930.9</admit_diagnosis>
+<discharge_diagnosis>998.32,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Aug 01 06]
+PRIMARY CARE PHYSICIAN: **NAME[VVV]  **NAME[UUU
+M] saw the patient  with the ophthalmology Resident.  Please see the Ophthalmology record for further details of history and exam, as well as plan.   
+HISTORY OF PRESENT ILLNESS:  
+She is a **AGE[in 30s]-year-old female who recently had retinal detachment repair.  This morning she developed some photophobia and questionable change in vision and pain in this right eye. She states there is a foreign body sensation.  She denies any fever, any chills.  Her retinal detachment repair was two weeks ago.  No recent trauma. 
+REVIEW OF SYSTEMS:    
+Otherwise, review of systems at this time are negative except for HPI.
+PAST MEDICAL HISTORY:   
+None.
+MEDICATIONS:
+1. Pred Forte eye drops.  Ocular history is retinal detachment repair two weeks ago. 
+ALLERGIES:
+SULFA AND NAPROSYN.
+PHYSICAL EXAM:  
+Temperature 36.9, pulse 116, respirations 20, blood pressure 132/80.
+In general, the patient is alert, oriented, sitting in a chair.  She is covering her right eye.  She is in no distress. 
+Head:  Atraumatic.  The eyes, lids, and lashes are normal.  The conjunctiva has a ciliary injection and is erythematous.  According to the Ophthalmology record, there is a small suture sticking out on the lateral aspect of the conjunctiva.  The cornea is unremarkable.  There is a negative Seidel's sign upon staining.  The funduscopic examination is unremarkable. 
+ED COURSE/MEDICAL DECISION MAKING:
+The patient was seen by myself and the ophthalmology resident.  The only finding on exam was a small suture poking out on the lateral aspect of the right eye and the conjunctivae which I believe is causing the foreign body and the irritation.  This was removed by the ophthalmology resident.  There is no evidence of other negative Seidel's sign.  The funduscopic and posterior chamber exam was unremarkable.  Anterior chamber was quiet.  We will start the patient on Vigamox because of the manipulation of the suture, as well as continue her Pred Forte which she has been on.  She is going to follow up tomorrow morning with the **INSTITUTION for further evaluation.  At this time, I feel she is safe for discharge. 
+Please note her vision in this eye was 20/200 but previously had only been fingers. 
+PROCEDURE(S):  
+PLAN/FOLLOW-UP: 
+ATTENDING PHYSICIAN ADDENDUM:  
+DISCHARGE DIAGNOSIS(ES):  
+1. FOREIGN BODY, RIGHT EYE SECONDARY TO SUTURE IRRITATION.
+DISCHARGE MEDICATIONS:
+1. Vigamox.
+2. Pred Forte.
+ 
+___________________________________
+**NAME[YYY M ZZZ], M.D.
+ 
+Dictator:  **NAME[WWW XXX], M.D.
+**INITIALS
+D:  **DATE[Aug 01 2007] 23:41:39
+T:  **DATE[Aug 02 2007] 07:39:08
+R:  **DATE[Aug 02 2007] 07:39:08/hmj
+Job ID:  328090/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[XXX, TTT] ***
+Electronically Signed by **NAME[WWW XXX]  **DATE[Aug 04 2007] 11:06:05 AM
+ 
+
+
+
+</report_text>
+</report>

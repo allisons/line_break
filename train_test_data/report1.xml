@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060201ER-Fs2xiJYPXwVE-848-1341620775</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>DENTAL PAIN</chief_complaint>
+<admit_diagnosis>521.00</admit_diagnosis>
+<discharge_diagnosis>525.9,E917.9,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Feb 01 06]
+PRIMARY CARE PHYSICIAN: MEDICAL  **NAME[TTT]
+CHIEF COMPLAINT:
+Tooth pain.
+HISTORY OF PRESENT ILLNESS:  
+This is a **AGE[in 20s]-year-old gentleman with a history of facial reconstructive surgery following an MVA back in 2003, who presents to the emergency department complaining of right upper tooth pain.  The patient states that, yesterday, he was at work and got hit in the jaw with a hoist.  The patient states that his tooth broke off.  Throughout the day, he began having more and more severe pain in the right upper jaw.  He was unable to eat anything today secondary to the pain.  He denies any pain in the remainder of the jaw, ear, or sinus area.  He denies any fevers or chills.  He denies any recent illnesses.  He denies any chest pain or shortness of breath.   
+PAST MEDICAL HISTORY:   
+Facial reconstructive surgery following a motor vehicle accident in 2003.
+MEDICATIONS:
+None.
+ALLERGIES:
+NO KNOWN DRUG ALLERGIES.
+SOCIAL HISTORY:
+The patient smokes about one-half pack per day.  He denies any other drug or alcohol use. 
+REVIEW OF SYSTEMS:
+Review of systems is negative except for those in the HPI.
+PHYSICAL EXAM:  
+His vital signs are stable.  His temperature is 36.7.  The rest of his vitals were stable. 
+General:  He is awake, alert, and oriented times three, in no acute distress. 
+HEENT examination revealed a broken first molar on the right upper jaw.  This is tender to palpation.  He also had some tenderness over the outer gum line as well as the inner gum line.  There is no obvious bleeding or drainage from the area.  He denied any tenderness along the remainder of the jaw.  There is also a small superficial abrasion on the outer corner of the bottom lip.   
+Cardiac:  Regular rate and rhythm.  S1, S2.  No murmurs, rubs, or gallops.
+Lungs:  Clear to auscultation bilaterally.
+ED COURSE:  
+This is a **AGE[in 20s]-year-old gentleman, who comes in with right tooth pain after being hit in the face by a hoist yesterday.  OMFS came down to evaluate the patient and felt that he could be discharged and would need to be followed up with a regular dentist to perhaps have that tooth pulled.  The patient was given Percocet for pain.  He was also given a prescription for Pen VK 500 mg q.i.d. times ten days since there were some roots that were exposed.   
+PLAN/FOLLOW-UP: 
+The patient was discharged home in stable condition.  He is to follow up with the **INSTITUTION within the next one to four days to have the tooth evaluated.   
+The case was discussed with Dr. **NAME[WWW], who is in agreement with the plan.
+ 
+___________________________________
+**NAME[CCC WWW], M.D.
+ 
+Dictator:  **NAME[WWW XXX], M.D.
+**INITIALS
+D:  **DATE[Feb 01 2007] 22:08:18
+T:  **DATE[Feb 02 2007] 07:01:00
+R:  **DATE[Feb 02 2007] 07:01:00/jlw
+Job ID:  328064/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[XXX, SSS] ***
+Electronically Signed by **NAME[CCC WWW]  **DATE[Feb 04 2007] 11:03:47 AM
+ 
+
+
+
+</report_text>
+</report>

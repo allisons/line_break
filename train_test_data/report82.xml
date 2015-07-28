@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060720HP-5eMqVYJXKH+N-848-1912859717</checksum>
+<subtype>PALLIATIVE HP</subtype>
+<type>HP</type>
+<chief_complaint/>
+<admit_diagnosis/>
+<discharge_diagnosis/>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION
+PALLIATIVE CARE
+HISTORY AND PHYSICAL EXAMINATION
+ 
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[ZZZ M YYY]
+ADMISSION DATE:  **DATE[Jul 20 2006]  
+ 
+ 
+HISTORY OF PRESENT ILLNESS:
+ 
+The patient is an **AGE[in 80s]-year-old woman with hypertension and diabetes mellitus who was found down in her house on **DATE[Jun 23 2006].  She had an intracerebral hemorrhage which was drained.  She had a very complicated hospital course with multiple infections over the next month and was, therefore, made comfort measures only, transferred to floor and on hospice on **DATE[Jul 20 2006].
+ 
+PAST MEDICAL HISTORY:
+ 
+1. Hypertension.
+2. Hypothyroidism.
+3. Diabetes.
+4. Spinal stenosis.
+ 
+SOCIAL HISTORY: 
+ 
+Next of kin is her niece, who I met today.  She lives alone. No tobacco, alcohol or IVDA.  
+ 
+MEDICATIONS:
+ 
+Her medications are as noted in the chart.
+ 
+REVIEW OF SYSTEMS:
+ 
+Review of systems and other history is obtainable from her, and she is not talking.  
+ 
+PHYSICAL EXAMINATION:
+ 
+The patient's eyes are slightly opened.  Her tongue is protruded.  She has a trach.  She has some rhonchi.  She does not respond to verbal or tactile stimulation.  
+ 
+HEENT is otherwise, unremarkable.  
+ 
+Mouth:  No lesions.
+ 
+Lungs:  Rhonchi.  No other abnormalities. 
+ 
+ 
+ 
+Cardiac:  Regular rate and rhythm without murmurs, rubs, gallops.  
+ 
+Abdomen:  Soft, nontender.
+ 
+Skin:  Intact.
+ 
+LABORATORY DATA:
+ 
+Laboratory data was reviewed.
+ 
+ASSESSMENT AND PLAN:
+ 
+The patient is now on hospice, will focus on comfort.  I spend 25 minutes talking to the niece about what to expect and what was going to happen next.
+ 
+ 
+___________________________________
+**NAME[WWW M. XXX] M.D.
+ 
+ 
+ 
+Dictator:  **NAME[WWW M XXX]
+ 
+RA/lbw
+ 
+D:  **DATE[Jul 21 2006] 11:01:47
+T:  **DATE[Jul 26 2006] 13:29:13
+R:  **DATE[Jul 26 2006] 13:29:13/lbw
+ 
+Job ID:  23249/**ID-NUM
+ 
+Cc:
+ 
+
+
+
+</report_text>
+</report>

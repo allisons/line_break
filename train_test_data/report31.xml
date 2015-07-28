@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060330DS-pYo5zSO7WY4a-489-290909681</checksum>
+<subtype>TRANSFER</subtype>
+<type>DS</type>
+<chief_complaint>PNEUMONIA PLEURAL EFFUSION</chief_complaint>
+<admit_diagnosis>486</admit_diagnosis>
+<discharge_diagnosis>486,276.51,564.00,V12.59,733.00,715.31,562.10,401.9,414.01,285.29,443.9,433.10,714.0,366.9,715.90,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+**INSTITUTION
+Transfer Summary
+Name: **NAME[AAA, BBB]
+Acct #: **ID-NUM
+MRN: **ID-NUM
+Admitted: 
+Discharged: **DATE[Mar 30 2006]
+Dict: **NAME[XXX, WWW]
+Attend: **NAME[ZZZ, YYY]
+PRIMARY DIAGNOSIS:  Community-acquired pneumonia.
+SECONDARY DIAGNOSES:  
+1.  Hypertension.
+2.  Osteoporosis.
+3.  History of transient ischemic attack/cerebrovascular accident.
+4.  Coronary artery disease status post stenting.
+5.  Degenerative osteoarthritis.
+6.  Rheumatoid arthritis.
+7.  Cataract.
+STUDIES DONE DURING THIS HOSPITALIZATION:  
+1.  Chest x-ray done on **DATE[Mar 25 2007], that showed moderate-sized left pleural effusions.  Otherwise no acute cardiopulmonary changes.
+2.  Chest x-ray done on **DATE[Mar 28 2007], that showed no change compared to the previous exam.
+3.  CT scan of the chest without contrast done on **DATE[Mar 26 2007], that showed left lower lobe pneumonia with trace left parapneumonic effusion, moderate cardiomegaly, and large hiatal hernia.
+4.  EKG done on **DATE[Mar 24 2007], that showed sinus bradycardia with sinus arrhythmia.  Possible left atrial deformity and no other changes as compared to the previous one done in **DATE[Aug] of 2006.
+5.  Blood cultures drawn on **DATE[Mar 24 2007], that showed no growth after 6 days of culture. 
+6.  Sputum cultures done on **DATE[Mar 29 2007], that showed light Gram-positive cocci in pairs, rare (_______________), very rare yeast.
+7.  Throat culture that showed no B-hemolytic streptococci isolated.
+8.  The patient also had thoracentesis.  The results from this exam are as follows:  WBCs in the fluid was 300, RBCs in the fluid were within normal limits, neutrophils in the fluid were 5%, and lymphocytes in the fluid were 81%.  Fluid glucose was 98.  Specific gravity was 1.023.  Albumin was 1.5.  
+Total protein in the fluid was 3.1, and amylase was less than 30, and LDH was 289.  The culture of the pleural fluid showed no growth after 4 days of culture.  A sample was also sent to pathology laboratory to look for any malignant cells.  The cytology showed samples satisfactory for interpretation.  It was negative for malignant cells, mild chronic inflammation.
+HOSPITAL COURSE:  This is a **AGE[90+]-year-old Caucasian female that only speaks Greek who was admitted on **DATE[Mar 24 2007], after approximately 1 to 2 weeks of chest discomfort described as a pressure/bulging sensation on the left chest.  At that time, she denied any significant dyspnea or chest pain or coughing or sputum.  She also denies any tiredness or fever or malaise.  She was admitted from a skilled nursing home facility where she was started on moxifloxacin empirically for a possible pneumonia aAs per the chest x-ray and the very unspecific symptoms.  This patient had a chest x-ray during the hospitalization that showed unilateral pleural effusion.  For that reasons, we performed thoracentesis that showed an exudate without signs of malignancy on the cytological examination.  It is of note that this fluid had a high content of lymphocytes up to 81% and a low neutrophil count with 5% of the total WBCs.  This is an unusual finding for a parapneumonic effusion.  We also checked another chest x-ray to insure that the effusion was not progressing or infiltrates at the same time.  At the same time, we insured adequate oxygenation on the patient and we continued with the therapy with moxifloxacin IV.  The patient did not have any worsening of her condition.  As a matter of fact, she improved consistently during this hospitalization.  She was afebrile at all times and she did not have any significant dyspnea during this hospitalization.  At this time, she is afebrile, hemodynamically stable with a WBC count within normal limits and she is being discharged to the same skilled nursing home facility where she came from.  She had evaluation of PT/OT that I recommended the patient having 1 to 2 hours of physical therapy in order to regain autotomy.  This patient is going to be followed by Dr. **NAME[ZZZ] at the skilled nursing home facility and after this intensive therapy, she might be able to go home. 
+TRANSFER MEDICATIONS:  
+1.  Percocet 5/325 mg p.o. q.6h. p.r.n. for severe pain.
+2.  Amlodipine 5 mg p.o. daily.
+3.  Benazepril 20 mg p.o. daily.
+4.  Os-Cal with vitamin D 500 mg p.o. t.i.d. 
+5.  Clopidogrel 75 mg p.o. daily.
+6.  Darbepoetin alfa 100 mcg subcu weekly.
+7.  Colace 100 mg p.o. b.i.d. 
+8.  Heparin 5000 units subcu q.8h. 
+9.  Milk of magnesia by mouth daily suspension p.r.n. for constipation.
+10.  Moxifloxacin 400 mg by mouth daily for 5 more days.
+11.  Protonix 40 mg p.o. daily.
+12.  Actonel 35 mg p.o. weekly a.c. 
+**INSTITUTION and Rehab. 
+CONDITION:  Good.
+ACTIVITY:  As tolerated.  The patient needs to have PT/OT during her stay at the nursing home. 
+DIET:  As tolerated, regular diet.
+FOLLOWUP:  Dr. **NAME[ZZZ] is going to follow her up at the facility.  The patient needs to have another chest x-ray within 1 to 2 days after her discharge to evaluate the progression of the pleural effusion and the worsening of the infiltrate.
+______________________________
+**NAME[WWW XXX]
+HS Job # 152958 / 38997 / 
+SHY # **ID-NUM
+D: **DATE[Mar 30 2007] 11:21
+T: **DATE[Mar 30 2007] 11:43
+
+**CARBON-COPY
+
+
+</report_text>
+</report>

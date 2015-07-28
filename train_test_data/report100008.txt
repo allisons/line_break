@@ -1,0 +1,252 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE CONSULT NOTE
+- - - - -
+DATE: **DATE[Nov 02 2009]
+REFERRING PHYSICIAN: **NAME[VVV, UUU M] (29586)
+- - - - -
+Reason for Consult:   I am being asked by the following referring physician to see this patient in consultation: **NAME[VVV, UUU M] (29586)
+Reason for consult:   This consultation is in regard to the following Chief Complaint: symptom management, goals of care and family support
+- - - - -
+HISTORY OF PRESENT ILLNESS: **AGE[in 60s] yo M with laryngeal cancer s/p xrt and recurrent head and neck SCC admit from osh 3/19 with hemoptysis.  He originally presented to the outside hospital 3/15 with the same complaint.  Course c/b multiple bleeds requiring emobolization, emergent trach with preop arrest with quick recovery, and klebsiella pna.  Pt reports chronic pain in mouth managed with home methadone regimen.  It is mild, "hurt", no radiation, constant, nothing makes it better or worse.  He doesn't use any breakthrough at home and doesn't feel like he needs anything here.  He is without further complaints.
+- - - - -
+Past Medical History: Condition 1: Laryngeal xa s/p xrt; Condition 2: SCC of oral cavity; Condition 3: osteonecrosis of mandble s/p multiple debridements; Condition 4: Partial glossectomy ; Condition 5: L lung partial lobectomy; Other past medical history: PEG x 18 yrs
+- - - - -
+ALLERGIES: NKDA; NKA
+- - - - -
+MEDICATIONS:  Rounding Report Medications: ACTIVE INPATIENT MEDICATION ORDERS
+albuterol-ipratropium (Combivent...   2Puff(s)  Inhalation TID
+chlorhexidine topical 0.12% (chlorhex...   15mL  SwishSpit BID
+D5 1/2 NS + KCL 20 mEq premix 1000mL   1000mL 80mL/hr IV
+Dextrose 10%...   1,000mL infuse at rate of enteral feeding IV
+docusate   100mg  PEG Tube BID
+famotidine (Pepcid)   20mg  PEG Tube BID
+insulin regular (HumuLIN R, NovoLIN...   0-12 Units  subQ Q6H
+methadone   40mg  GastricTub Q8H
+nystatin   5mL  SwshSwallw QID
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+fentanyl   50mcg  IV Q1H
+sodium chloride nasal (Ocean...   2Spray(s)  Nasal As DirCPOE
+- - - - -
+**INSTITUTION Situation: lives with wife.  House recently burned down so wife and grandchildren are living in a rental property; Family Structure and Relationship: Large family with brothers, sisters, children and grandchildren; Religion and Spirituality: nondenominational christian, faith very important, wife is a minister; POA / Decision Maker: wife is trying to get forms filled out for POA for financial affairs; Goals of care: see a/p; Habits (smoking / EtOH): no tobacco, prior etoh, no drugs
+- - - - -
+Family History: Family history non-contributory
+- - - - -
+REVIEW OF SYSTEMS: All other systems have been reviewed and are negative;  Ears, Nose, Mouth/Throat: Positive;  Findings: oral cavity pain;  Hematologic | Lymphatic: Positive;  Findings: hemoptysis episodic
+- - - - -
+Rounding Report Vitals: VITALS:
+**DATE[Nov 02] 12:30 T: 35.7 BP:156/72 P: 84 RR: 22 SaO2:    FiO2: 97 Ht:      Wt:     
+**DATE[Nov 02] 10:47 T:      BP:       P:    RR:    SaO2: 98 FiO2: 40 Ht:      Wt:     
+**DATE[Nov 02] 08:00 T:      BP:       P:    RR:    SaO2: 99 FiO2: 40 Ht:      Wt:     
+**DATE[Nov 02] 05:00 T: 36.6 BP:146/75 P: 75 RR: 20 SaO2:100 FiO2:    Ht:      Wt:     
+VITALS TIME:**DATE[Nov 02 2009] 17:02
+General Appearance: No acute distress
+Skin: Other: no rash
+HEENT: Moist mucosa; Other: oral cavity mass, trach, pupils reactive
+Lymph: Not examined
+Pulmonary: CTA
+Cadiac: Other: RRR
+Abdomen: Soft; Nontender
+Extremeties: No edema
+Neuro: Awake, alert, oriented x3
+Mood: Appropriate
+CAM: Negative
+Musculoskeletal: Not examined
+Genitalia: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+- - - - -
+Labs: Reviewed
+Imaging: Neck CT
+IMPRESSION:   
+1. LARGE SOFT TISSUE MASS WITHIN THE LATERAL LEFT Tongue BASE EXTENDING  THROUGH THE BUCCAL SURFACE AND PARTIALLYERODING THE MANDIBLE  LATERALLY.
+2. EQUIVOCAL LEFT LEVEL II LYMPHADENOPATHY.
+Chest ct:
+IMPRESSION:   
+NEW PATCHY LOWER LOBE AIRSPACE OPACITIES AND NEW SMALL PLEURAL  EFFUSIONS, WHICH PARTIALLY OBSCURE THE CONTOURS OF THE PREVIOUSLY  DESCRIBED LUNG NODULES IN THE RIGHT LOWER LOBE. THE OVERALL  MORPHOLOGY OF THE NEW AIRSPACE OPACITIES IS MOST CONSISTENT WITH  ASPIRATION-RELATED DISEASE. CHRONIC COLLAPSE OF THE RIGHT MIDDLE  LOBE, WHICH IS UNCHANGED IN APPEARANCE COMPARED TO THE PRIOR. THE  OVERALL APPEARANCE DOES NOT NECESSARILY CONNOTATE PROGRESSIVE TUMOR  GROWTH, IT SEEMS MORE CONSISTENT WITH SUPERIMPOSED ASPIRATION  PNEUMONIA IN A PATIENT WITH PREVIOUSLY DIAGNOSED MANIFESTATIONS OF  PROBABLE MALIGNANT CHEST DISEASE.
+Carotid angio
+IMPRESSION: 
+**NAME[BBB AAA] UNDERWENT CAROTID ARTERIOGRAPHY EMBOLIZATION OF LEFT  LINGUAL ARTERY (FROM PREVIOUS EMBOLIZATION PROCEDURE), LEFT FACIAL  ARTERY AND AN ANASTOMOTIC BRANCH OF THE LEFT SUPERFICIAL TEMPORAL  ARTERY SUPPLYING THE BASE OF THE MOUTH ON THE LEFT.  AT THE END OF  THE PROCEDURE, THESE VESSELS ARE COMPLETELY OCCLUDED.  THE PATIENT  HAS SEIZED TO BLEED.
+CXR
+FINDINGS:   
+The patient today is on a tracheostomy tube. Unchanged small  left-sided pleural effusion. Unchanged mild degree of interstitial  edema. Unchanged central line position. Negative for any pneumothorax.
+- - - - -
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 60s] yo M with laryngeal ca and recurrent head and neck scc a/w hemoptysis
+- - - - -
+Problem/Diagnosis 1: Goals;  Assessment/Plans: Met with patient and wife.  Case discussed with heme/onc and ENT.  Patient's priorities are his faith and his family and prolonging his life.  Oncology believes that he may be a chemotherapy candidate if cyberknife next week helps with bleeding and patient can undergo some rehab.
+-we can follow along at your request to help define a plan of care c/w his goals  
+Problem/Diagnosis 2: Pain;  Assessment/Plans: Chronic OP pain from CA controlled on home methadone.  Pt uses no breakthrough at home and doesn't feel the need for it here.  
+-continue methadone 40mg PO TID
+-check all new medications for drug-drug interactions with methadone before prescribing
+-if breakthough needed, would start with morphine 2mg IV and titrate up as needed because this will likely be too low a dose.  Please page us if help needed although I don't anticipate he will need any breakthrough meds.
+Problem/Diagnosis 3: Spirituality;  Assessment/Plans: As above, this is very important to them.  They are non-denominational christian and wife is a minister.  They do not want to see the hospital chaplain
+Problem/Diagnosis 4: Support;  Assessment/Plans: Provided support to pt and wife.  Our SW met with wife independently and will help her fill out financial POA forms and any other needs they identify.
+Problem/Diagnosis 5: Constipation;  Assessment/Plans: No current.
+-monitor with opioids
+-continue colace
+- - - - -
+Please notify me if you would like me to follow the patient.  My advice regarding the following patient is listed above: **NAME[AAA, BBB]
+- - - - -
+ATTENDING SIGNATURE: Electronically signed by **NAME[YYY ZZZ], MD at 17:25; **NAME[ZZZ, YYY] ; 8511/14917; **DATE[Nov 2 2009]; 17:25
+- - - - -
+Rounding Report: ATTENDING:**NAME[XXX, WWW]
+SERVICE:Otorhinolaryngology
+ALLERGIES:NKA
+ROUNDING REPORT TIME:**DATE[Nov 02 2009] 17:02
+VITALS:
+**DATE[Nov 02] 12:30 T: 35.7 BP:156/72 P: 84 RR: 22 SaO2:    FiO2: 97 Ht:      Wt:     
+**DATE[Nov 02] 10:47 T:      BP:       P:    RR:    SaO2: 98 FiO2: 40 Ht:      Wt:     
+**DATE[Nov 02] 08:00 T:      BP:       P:    RR:    SaO2: 99 FiO2: 40 Ht:      Wt:     
+**DATE[Nov 02] 05:00 T: 36.6 BP:146/75 P: 75 RR: 20 SaO2:100 FiO2:    Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        727      624      200     1551        0        0        0
+OUTPUT:        450      **PHONE      450        0        0
+BALANCE:       277     -276     -575     -574     -450        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+albuterol-ipratropium (Combivent...   2Puff(s)  Inhalation TID
+chlorhexidine topical 0.12% (chlorhex...   15mL  SwishSpit BID
+D5 1/2 NS + KCL 20 mEq premix 1000mL   1000mL 80mL/hr IV
+Dextrose 10%...   1,000mL infuse at rate of enteral feeding IV
+docusate   100mg  PEG Tube BID
+famotidine (Pepcid)   20mg  PEG Tube BID
+insulin regular (HumuLIN R, NovoLIN...   0-12 Units  subQ Q6H
+methadone   40mg  GastricTub Q8H
+nystatin   5mL  SwshSwallw QID
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+fentanyl   50mcg  IV Q1H
+sodium chloride nasal (Ocean...   2Spray(s)  Nasal As DirCPOE
+LABS:
+**DATE[Nov 02] 10:54
+Glucose (bedside) 94
+**DATE[Nov 02] 10:10
+PT 16.6 H
+INR 1.3 H
+**DATE[Nov 02] 06:51
+Glucose (bedside) 95
+**DATE[Nov 02] 04:05
+Anion Gap 6.0 L
+GFR (estimated) eGFR>60
+Na 141
+K 4.1
+Cl 106
+CO2 29
+BUN 3 L
+Cr 0.6
+Glucose 69 L
+Ca 8.2 L
+Mg 2.2
+Phos 2.9
+WBC 7.2
+RBC 2.71 L
+Hgb 7.7 L
+Hct 22.7 L
+MCV 83.7
+RDW 15.7 H
+Platelets 130 L
+Platelet Comments 2+  Platelets Enlarged
+Neutrophils 60
+Bands 15 H
+Lymphs 12 L
+Monocytes 8
+Eosinophils 2
+Basophils 0
+Myelocytes 3
+Nucleated RBC 1
+Type of Differential Manual Differential
+RBC Morphology 1+  Polychromasia
+WBC Morphology 2+  Toxic Granulation Present
+**DATE[Nov 01] 21:39
+WBC 6.4
+RBC 2.98 L
+Hgb 8.3 L
+Hct 24.9 L
+MCV 83.6
+RDW 15.2
+Platelets 164
+Platelet Comments Platelets Enlarged
+Neutrophils 60
+Bands 10 H
+Lymphs 17
+Monocytes 10
+Eosinophils 2
+Basophils 0
+Metamyelocytes 1
+Nucleated RBC 2
+Type of Differential Manual Differential
+RBC Morphology 1+  Hypochromia 1+  Polychromasia 1+  Ovalocytes 1+  Target
+Cells
+PT 16.3 H
+INR 1.3 H
+PTT 31.5
+Glucose (bedside) 104 H
+**DATE[Nov 01] 17:34
+Albumin 1.7 C
+Total Protein 5.9 L
+Bili, Total 1.0
+Bili, Direct 0.3
+ALT/SGPT 24
+AST/SGOT 39
+Alk Phos 114
+**DATE[Nov 01] 17:28
+PT 16.8 H
+INR 1.3 H
+**DATE[Nov 01] 15:57
+Alpha TEG 80 H
+MA TEG 81 H
+R-value TEG 5
+K Value TEG 0.8
+Glucose (bedside) 86
+**DATE[Nov 01] 15:37
+RBC 3.18 L
+Hgb 8.7 L
+Hct 26.7 L
+MCV 84.0
+**DATE[Nov 01] 12:46
+PT 17.2 H
+INR 1.4 H
+PTT 37.1 H
+**DATE[Nov 01] 10:21
+Glucose (bedside) 106 H
+**DATE[Nov 01] 08:32
+RBC 3.20 L
+Hgb 8.9 L
+Hct 27.0 L
+MCV 84.3
+**DATE[Nov 01] 06:22
+Glucose (bedside) 119 H
+**DATE[Nov 01] 03:26
+Anion Gap 4.0 L
+GFR (estimated) eGFR>60
+Na 141
+K 4.2
+Cl 109 H
+CO2 28
+BUN 8
+Cr 0.8
+Glucose 97
+Ca 7.5 L
+Mg 2.3
+Phos 3.5
+WBC 5.1
+Platelets 118 L
+Platelet Comments Platelets Decreased Platelets Enlarged
+Neutrophils 59
+Bands 19 H
+Lymphs 10 L
+Monocytes 8
+Eosinophils 0
+Basophils 0
+Atypical Lymphs 1
+Metamyelocytes 3
+Nucleated RBC 3
+Type of Differential Manual Differential
+RBC Morphology 1+  Hypochromia 1+  Polychromasia 1+  RBC Fragments
+MICROBIOLOGY:
+VRE SCREEN(Rectal Swab)  3/31.   Culture: No Vancomycin Resistant Enterococcus
+isolated  [Final]
+GT Prophylaxis:Famotidine

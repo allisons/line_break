@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060516OP-43fQxueJNlbr-848-417173809</checksum>
+<subtype>ORTHO OP</subtype>
+<type>OP</type>
+<chief_complaint>724.02/L-SPINE STENOSIS</chief_complaint>
+<admit_diagnosis>724.02</admit_diagnosis>
+<discharge_diagnosis>724.02,788.29,272.0,435.1,272.4,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+ORTHOPEDIC SURGERY
+OPERATIVE REPORT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+SURGEON:  **NAME[YYY M. ZZZ], M.D.
+ASSISTANT(S):  Dr. **NAME[XXX WWW] and Dr. **NAME[VVV UUU]
+ATTENDING PHYSICIAN:  **NAME[YYY M ZZZ]
+SURGERY DATE:  **DATE[May 16 06]
+ADMISSION DATE:  **DATE[May 16 2007]
+DISCHARGE DATE:  
+PREOPERATIVE DIAGNOSIS:  LUMBAR SPINAL STENOSIS AT L4-L5.
+POSTOPERATIVE DIAGNOSIS:  LUMBAR SPINAL STENOSIS AT L4-L5.
+PROCEDURES PERFORMED:  LUMBAR LAMINECTOMY OF L4 AND L5 AND BILATERAL 
+FORAMINOTOMIES. 
+ANESTHESIA:  General.
+COMPLICATIONS:  None.
+INDICATIONS FOR SURGERY:  This is a **AGE[in 60s]-year-old white female who developed progressive neurogenic claudication and leg pain due to spinal stenosis.  She had failed previous conservative treatments, and due to her continued symptoms, she finally elected to undergo lumbar decompression surgery.  She understood the risks, which include infection, persistent back pain, leg pain, paralysis, paraplegia, spinal fluid leaks, bowel or bladder dysfunction, possibility of future junctional instability, requiring further fusion surgery, and other unforeseen medical and anesthetic complications.  She understood these risks and wished to proceed. 
+DESCRIPTION OF OPERATION:  The patient was brought into the operating room; and after induction of endotracheal general anesthesia, she was flipped over into a prone position on the Jackson table.  Head, elbows, and knees were padded well to prevent injuries.  Her lower lumbar region was then prepped and draped in the usual manner.  A midline incision was over the L4-L5 region.  The incision was taken down through the lumbodorsal fascia.  The spinous processes of L4 and L5 were subperiosteally dissected.  
+Intraoperative lateral x-rays confirmed my levels of dissection.  I began the laminectomy by resecting the spinous processes of L4 and L5.  I undermined the inferior border of the L5 lamina identifying the epidural space.  I then did careful central laminectomies of L5 and L4 decompressing the tight central canal.  I went into the spinal canal on the right side to look at the L4, L5, and S1 nerve roots.  Each nerve root was systemically decompressed underneath the lateral recesses and then followed around the pedicle into the foramen with angle Kerrison and curettes.  The most significant amount of stenosis was occurring underneath the subarticular region of the L4-L5 area where the traversing L5 root was being severely impinged.  This was all well decompressed.  A similar procedure was also done on the contralateral left side, again looking at the L4, L5, and S1 nerve roots.  Epidural veins were cauterized with a bipolar.  I left healthy margins at the pars interarticularis and the facet joints to maintain the inherent stability of the spine.  A medium Hemovac drain was placed.  Fascia was tightly closed with #1 Vicryl, subcutaneous tissue with 2-0 Vicryl, and the skin was closed with a running 3-0 subcuticular suture.  Sterile compressive dressings were applied.  The patient was then flipped over to her regular bed, sent to the recovery room in stable condition. 
+ATTESTATION STATEMENT:  I, the operating surgeon, performed all of the key elements of this procedure, which included the lumbar decompression laminectomy.  The opening, the exposure, and the closure were performed by Dr. **NAME[WWW] and Dr. **NAME[UUU]. 
+ 
+___________________________________
+**NAME[YYY M. ZZZ], M.D.
+ 
+Dictator:  **NAME[YYY M. ZZZ], M.D.
+**INITIALS
+D:  **DATE[May 16 2007] 09:14:16
+T:  **DATE[May 17 2007] 17:51:40
+R:  **DATE[May 17 2007] 17:51:40/lj
+Job ID:  347962/**ID-NUM
+Cc:
+&lt;start header&gt;
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+ADMISSION DATE:  **DATE[May 16 2007]
+SURGERY DATE:  **DATE[May 16 06]
+Page 2 of 3
+&lt;end header&gt;
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+ 
+*** Dictated By: -**NAME[ZZZ, TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[May 28 2007] 11:07:15 AM
+ 
+
+
+
+</report_text>
+</report>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060217ER-WTVj6sWVD+xL-848-521281874</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>L FOOT PAIN</chief_complaint>
+<admit_diagnosis>729.5</admit_diagnosis>
+<discharge_diagnosis>729.5,V45.89,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Feb 17 06]
+PRIMARY CARE PHYSICIAN: K  U
+CHIEF COMPLAINT: 
+Left foot pain.
+HISTORY OF PRESENT ILLNESS:   
+The patient is a **AGE[in 50s]-year-old female with a history of chronic pain in her foot for about a year following surgery under which she went fusion and pin placement.   
+The patient has been seen by both the orthopedic surgeons in follow-up as well as the chronic pain clinic.  She has undergone numerous trials of medications as well as nerve blocks with limited success in controlling her pain.  She is currently taking Percocet at home for the pain.  She denies any new trauma to the foot.  She does not have any rashes.   
+REVIEW OF SYSTEMS:    
+Review of systems as per HPI; all other systems negative.
+PAST MEDICAL HISTORY:   
+Chronic foot pain, anemia, gastric ulcers, pancreatitis, multiple sclerosis.
+Medications:
+1.   Albuterol.
+2.   Percocet.
+ALLERGIES:  MORPHINE.
+Social history:  The patient does not smoke.  She denies the use of alcohol or drugs.   
+Family history:  Diabetes, coronary artery disease.
+PHYSICAL EXAM:  
+Vital signs:  Temperature is 36.9.  Heart rate:  87.  Blood pressure:  
+118/72.  Respiratory rate:  16.  O2 saturation:  98% on room air.   
+General:  The patient is alert and oriented times three, cooperative in no apparent distress.   
+HEENT:  Normocephalic, atraumatic.  Pupils are equally round and reactive to light.  She has moist mucous membranes.  No oropharyngeal erythema or exudates.   
+Chest:  The lungs are clear to auscultation bilaterally.  
+Heart:  The heart has a regular rate and rhythm.  Normal S1 and S2.  No appreciable murmurs.   
+Abdomen:  The abdomen is soft, nontender, nondistended with positive bowel sounds throughout.   
+Extremities:  The left foot has old incisions.  There is no new edema.  She is tender to palpation over the lateral aspect of the foot on the dorsum and also on the medial aspect near the base of the fifth metatarsal.  There is no evidence of any trauma.  No erythema.  No warmness.  No ecchymotic areas.  
+Dorsal pedal pulses 2+.  Posterior tibial 1+.  Normal sensation to light touch.   
+ED COURSE:  
+I explained to the patient that in the emergency department we could offer her only medications to help her in this acute setting and that she would need to follow up with the orthopedic surgeons and the chronic brain clinic for further management of this chronic issue.  There was no evidence of acute trauma at this time.  There was no evidence of cellulitis.   
+The patient was given two Percocet to help with her acute pain.  We offered to give her a prescription as an outpatient; however, she stated that she still had a few at home and that she would not be able to fill the prescription again until the twenty-third.   
+The patient was instructed to follow up with the orthopedic surgeon and was given that number as well as the chronic pain clinic.   
+FINAL DIAGNOSIS:   
+1.   CHRONIC LEFT FOOT PAIN.
+2.   STATUS POST SURGICAL FUSION AND PIN PLACEMENT.
+___________________________________
+**NAME[YYY CCC ZZZ], M.D.  
+Dictator:  **NAME[WWW M. XXX], M.D.
+**INITIALS
+D:  **DATE[Feb 17 2007] 22:51:32
+T:  **DATE[Feb 17 2007] 23:00:53
+R:  **DATE[Feb 17 2007] 23:00:53/plb
+Job ID:  350755/**ID-NUM
+ 
+*** Dictated By: -**NAME[XXX, TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Feb 22 2007] 09:10:22 AM
+ 
+
+
+
+</report_text>
+</report>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060815DS-QcSEntG+Q2G8-848-902226832</checksum>
+<subtype>PALLIATIVE DS</subtype>
+<type>DS</type>
+<chief_complaint/>
+<admit_diagnosis/>
+<discharge_diagnosis/>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+PALLIATIVE CARE
+DISCHARGE SUMMARY
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[YYY]  **NAME[ZZZ]
+ADMISSION DATE:  **DATE[Aug 01 2006]
+DISCHARGE DATE:  **DATE[Aug 15 2006]  
+The patient is a **AGE[in 50s]-year-old man with hepatocellular carcinoma, cirrhosis, ascites, acute-on-chronic renal failure, and diabetes mellitus who we saw in the hospital (please see my earlier note).  The patient's pain has been controlled by methadone 60 mg p.o. t.i.d. and oxycodone 1-2 tabs p.o. q.4 h. relatively well.  He is supposed to get chemotherapy.  Unfortunately given his renal insufficiency and his general debility, it is unclear how well that is going to work.  He has been DNR/DNI and does not want his life prolonged on machines.  He is to follow up with Dr. **NAME[UUU] or (_______________)*** in palliative care.
+DISCHARGE DIAGNOSIS(ES):
+REASON FOR ADMISSION:  
+LABORATORY, RADIOGRAPHIC, AND OTHER DIAGNOSTIC STUDY FINDINGS:  
+HOSPITAL COURSE:  
+DISCHARGE INSTRUCTIONS:  
+CONDITION ON DISCHARGE:  
+___________________________________
+**NAME[WWW M. XXX], M.D.
+Dictator:  **NAME[WWW M. XXX], M.D.
+RMA/
+D:  **DATE[Aug 15 2006] 09:49:52
+T:  **DATE[Sep 06 2006] 09:59:02
+R:  **DATE[Sep 06 2006] 09:59:02/
+Job ID:  58173/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[XXX, TTT M]. ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Sep 10 2006] 07:37:09 PM
+ 
+
+
+
+</report_text>
+</report>

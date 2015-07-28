@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060808PGN-waJPZXLQF85P-848-1726826102</checksum>
+<subtype>GIM ATTEND</subtype>
+<type>PGN</type>
+<chief_complaint>COPD</chief_complaint>
+<admit_diagnosis>496</admit_diagnosis>
+<discharge_diagnosis>571.2,155.0,493.22,070.54,572.2,492.8,515,287.5,250.00,786.50,276.8,244.9,285.9,293.0,729.5,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[WWW M XXX]
+ADMISSION DATE:  **DATE[Jul 30 2007]
+EVALUATION DATE:  **DATE[Aug 08 06]
+The patient is sitting comfortably in a chair.  She did complain of some right upper quadrant abdominal pain and feels that her breathing is improved.  She denies any nausea and vomiting and she has been having bowel movements.  Her temperature was 36.4, pulse 96, respirations 20, and blood pressure 122/72.  I checked her pulse myself.  In general, she is awake and she is interactive.  She is alert to person and she knows that she is in a hospital, although she does think she is in Oklahoma.  Her EOMs are intact.  Her tongue is midline.  Her neck is supple with no evidence of JVD.  Her heart is regular rate and rhythm.  Lungs have some mild diffuse rhonchi with some end expiratory wheezing that is improved from yesterday.  Her abdomen is mildly distended with some pain in her left upper quadrant but no rebound or guarding.  She has positive bowel sounds.  Extremities are warm and well perfused.  Her mood is stable and she has no visible rashes on the skin exam. 
+  
+Her lab work revealed sodium is 142, potassium 3.9, chloride 109, bicarbonate 22, BUN and creatinine 22/1.0, ammonia level 45, white count 5.7, H&amp;H 10.4/31, and platelets 46. 
+ASSESSMENT AND PLAN:
+1.   GI:  History of hepatocellular carcinoma which she has refused treatment for in the past.  She does have some pain and we will continue to treat her pain as needed. 
+2.   COPD:  She was admitted for COPD exacerbation and is improving clinically.  She is on amoxicillin which we will continue to wean and will continue to wean her steroids.   
+3.   MENTAL STATUS CHANGE:  She is unchanged from yesterday.  She is not oriented to place but otherwise is alert and very interactive.  I think that her mental status likely has been a long-standing undiagnosed dementia as well as some hepatic encephalopathy which we are treating with lactulose.  She is improving both clinically and through her ammonia level.   
+4.   DIABETES:  She did have some elevated blood glucoses which were difficult to manage.  We did consult the Endocrine Service yesterday which made some recommendations which included Lantus as well as insulin with each meal and we appreciate their input.  We will continue to follow her blood sugars.   
+7.   DISPOSITION:  I did talk to her extensively about having her go somewhere to a skilled facility to get some more rehab to get her stronger and she is okay with this.  I anticipate discharge to a SNF in the next one to two days. 
+ 
+___________________________________
+**NAME[WWW M. XXX], M.D.
+ 
+Dictator:  **NAME[WWW M. XXX], M.D.
+CRM/caa
+D:  **DATE[Aug 08 2007] 10:16:23
+T:  **DATE[Aug 08 2007] 20:23:46
+R:  **DATE[Aug 08 2007] 20:23:46/caa
+Job ID:  380197/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[XXX, VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]  **DATE[Aug 28 2007] 04:07:37 PM
+ 
+
+
+
+</report_text>
+</report>

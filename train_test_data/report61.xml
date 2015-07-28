@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060607DS-TAzHBe9QxJV5-848-57060106</checksum>
+<subtype>GIM DISCHARGE</subtype>
+<type>DS</type>
+<chief_complaint>SOB</chief_complaint>
+<admit_diagnosis>496</admit_diagnosis>
+<discharge_diagnosis>486,491.20,428.0,250.00,414.8,414.01,272.4,401.9,311,275.49,712.30,412,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+ 
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING **NAME[UUU:  YYY M ZZZ]
+ADMISSION DATE:  **DATE[Jun 06 2007]
+DISCHARGE DATE:  **DATE[Jun 07 2006]
+DISCHARGE DIAGNOSES:  
+1.  BRONCHOSPASM.  
+2.  WHEEZING.  
+3.  HISTORY OF CONGESTIVE HEART FAILURE.  
+4.  HISTORY OF DIABETES MELLITUS TYPE 2.  
+5.  HISTORY OF CHRONIC OBSTRUCTIVE PULMONARY DISEASE.  
+This is a pleasant female.  She is admitted on **DATE[Jun 05 2007].  She came in with wheezing.  Please see dictated history and physical for reason for admission. 
+  
+She had chest x-rays done and was admitted for nebulizer treatment.  She was started on Solu-Medrol.  She had chest x-ray showing cardiac enlargement and some vascular congestion.  Her BNP was measured and found to be 1542.  Her baseline BNP is 1500.  She did well clinically.  She had no more shortness of breath.  She had no chest pains.  Her EKG was unchanged.  She was sent home on **DATE[Jun 07 2007].  I spoke with **NAME[SSS], her son.  Will plan to finish out just a brief course of  azithromycin for a possible bacterial bronchitis.  I have placed her on Combivent inhalers just for her wheezing, as she does have some baseline wheezing as well.  She was clinically well prior to discharge.   Will plan to go back to her medications that were at home at that time.  She will follow up with Dr. **NAME[ZZZ] or someone in the office this coming week just to check in her.   
+___________________________________
+**NAME[YYY M ZZZ]
+ 
+Dictator:  **NAME[WWW M. XXX], M.D.
+DFS/mg
+D:  **DATE[Jun 07 2007] 10:09:16
+T:  **DATE[Jun 07 2007] 13:51:24
+R:  **DATE[Jun 07 2007] 13:51:24/mg
+Job ID:  335736/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+ 
+*** Dictated By: -**NAME[XXX, RRR M]. ***
+Electronically Signed by **NAME[QQQ PPP]  for **NAME[WWW XXX] **DATE[Jun 16 2007] 11:37:14 AM
+ 
+
+
+
+</report_text>
+</report>

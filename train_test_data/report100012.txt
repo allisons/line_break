@@ -1,0 +1,136 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 02 2009]
+Time: 13:49
+- - - - -
+Chief Complaint: Hip Pain, Drowsiness
+- - - - -
+Physical: Back and Hip pain persists but is in much better control. Pain intensity is 5-6/10 and there is time when patient is pain free as well. She had pain at night that caused problems with sleeping, for whe she asked for pain medications. Abdominal pain, as per patient, is in great control. Patient continues to be drowsy. She does talk appropraitely but sleeps in between. Reported improved appetite but as per family memebers she is not eating even 10% of her meals. She still feels tired, however did spend some time out of bed, in chair, yesterday. She is having regular bowel movements. Denied any nausea of vomiting. She says that she feels sad that she can not go home. 
+- - - - -
+REVIEW OF SYSTEMS:  Modified Edmonton System Assessment Scale (ESAS): This control requires a parameter in the Form Designer tool called 'FormName'. For more information, refer tot he Forms Development Guide. 
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 02 2009] 13:50
+VITALS:
+**DATE[Nov 02] 12:57 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  145
+**DATE[Nov 02] 12:17 T:      BP:135/44 P: 70 RR: 14 SaO2: 99 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 08:44 T:      BP:136/59 P: 66 RR: 12 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 05:22 T: 37.0 BP:142/62 P: 74 RR: 16 SaO2: 99 FiO2:  2 Ht:      Wt:     
+24 Hr Max Temp:37.0
+36 Hr Max Temp:37.0
+METRIC: Weight: 145
+- - - - -
+Constitutional:  Other: Lying in bed, leaning on one side. Is drowsy.
+Eyes: EOMI;  Other: Assymetric pupils.
+Ears, Nose, Mouth & Throat: Moist mucosa; Hearing grossly normal
+Respiratory: CTA;  Other: Reduced inspiratory effort. No wheezes or crackles.
+Cardiovascular: RRR;  Other: Has ejection systolic murmer.
+Gastrointestinal: Soft; Nontender; Distended; BS Present;  Other: Abdominal was completely nontender today.
+Extremities:  Other:  (attending): Mild lower extremity edema.
+Neurologic:  Other: Drowsy, but arousable and oriented x 3.
+Was able to move all four extremities.
+Psychiatric:  Other: Very slow responses. Sleeps inbeteween answering questions. But the ones that she answers, she answers them appropraitely. Has flat affect. No evidence of flight of ideas or disorganised thinking. Was unable to effectively evaluate for depression.
+CAM: Negative
+Integumentary/Skin: Not Examined
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+Labs: Reviewed
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY]
+SERVICE:Internal Medicine
+CODE STATUS:Code Status  -  Limited Therap
+ISOLATION STATUS:VRE
+ALLERGIES:erythromycin, captopril, ACE Inhibitors, penicillin
+ROUNDING REPORT TIME:**DATE[Nov 02 2009] 13:50
+VITALS:
+**DATE[Nov 02] 12:57 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  145
+**DATE[Nov 02] 12:17 T:      BP:135/44 P: 70 RR: 14 SaO2: 99 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 08:44 T:      BP:136/59 P: 66 RR: 12 SaO2:100 FiO2:  2 Ht:      Wt:     
+**DATE[Nov 02] 05:22 T: 37.0 BP:142/62 P: 74 RR: 16 SaO2: 99 FiO2:  2 Ht:      Wt:     
+24 Hr Max Temp:37.0
+36 Hr Max Temp:37.0
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        200      210      120      530        0        0        0
+OUTPUT:          0        0        0        0        0        0        0
+BALANCE:       200      210      120      530        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+amitriptyline   10mg  By Mouth QOtherDay
+aspirin (Ecotrin)   81mg  By Mouth Daily
+clonidine   0.3mg  By Mouth TID
+clopidogrel (Plavix)   75mg  By Mouth Daily
+diclofenac ophthalmic 0.1% (Volta...   1Drop(s)  Both Eyes QID
+docusate (Colace)   100mg  By Mouth BID
+fentanyl Patch (Duragesic)   100mcg  TransDerm Q72H
+haloperidol (Haldol)   0.5mg  IV BID
+hydrALAZINE (Apresoline)   75mg  By Mouth TID
+isosorbide mononitrate ER (Imdur)   30mg  By Mouth QAM
+megestrol (Megace)   400mg  By Mouth Daily
+metoprolol   75mg  By Mouth BID
+multivitamin (Nephrocaps)   1cap(s)  By Mouth Daily
+nafcillin   2gm  IV Q4H
+omeprazole   20mg  By Mouth Daily
+pravastatin (Pravachol)   10mg  By Mouth QPM
+warfarin (Coumadin)   3mg  By Mouth QPM
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen (Tylenol)   650mg  By Mouth Q4H
+Al hydroxide/Mg hydroxide/simethicone...   30mL  By Mouth Q4H
+albuterol (albuterol HFA 90 mcg....   2Puff(s)  Inhalation Q6H
+hydrALAZINE (Apresoline)   10mg  IV Q10Min
+hydromorphone (Dilaudid)   8mg  By Mouth Q4H
+hydromorphone (Dilaudid)   4mg  By Mouth Q4H
+nitroglycerin   0.4mg  Sublingual Q5Min
+ocular lubricant (Lacri-Lube...   1Application  Both Eyes BID
+ocular lubricant (Tears Naturale...   1Drop(s)  Both Eyes QID
+ondansetron (Zofran)   4mg  IV Q6H
+LABS:
+**DATE[Nov 01] 11:50
+RBC 3.26 L
+Hgb 10.2 L
+Hct 29.1 L
+MCV 89.5
+**DATE[Nov 01] 04:05
+PT 27.5 H
+INR 2.4 H
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 70s] yo female w/ a h/o ESRD s/p failed kidney transplant, CAD s/p CABG/AVR on coumadin, admitted with bleeding AV fistula with hospital course c/b SAH, small bowel volvulus, GI bleed, and STEMI, now w/ continuing abdominal pain and decreased PO intake.
+1. Pain:
+a) Abdominal Pain: Unclear etiology for pain - possibly secondary to recent surgery or mesenteric ischemia, as it appears to be exacerbated signficantly by PO intake. Abdominal pain is in good control with current opiate dosage.
+b) Hip Pain: Recently had hip replacement. Has pain since then. Says that pain has aggravated though. Given history of bacteremia, there is chance of seeding, however, cultures have been negative for some time so it not very likely.
+c) Back Pain: Chronic. Similar in intesity as she experiences at home.
+--Patient was initially started on Fentanyl and Hydromorphone PCA, but was not using PCA appropraitely. Therefore was switched to short acting oral hydromorphone for breakthtrough. pain, to which she seems to have responded. Pain is in much better control. Continue the same regimen of fentanyl patch for long acting opiate and dilaudid orally for breakthrough pain.
+-- Continue amitriptyline.
+2. She also appears to have a mild hypoactive delirium, possibly secondary to her acute illness/hospitalization/pain.
+-- Was given 0.5mg Haldol Q8hrs. Reduced **DATE[Oct 31 2009]  to 0.5mg Q12hrs.
+-- Mental status has significantly improved. As per daughters this has been the best in weeks..
+3. Goals of Care: Met again with patient's two daughters today , including **NAME[VVV] who has been the primary spokesperson. Goals of care were discussed.
+-- Patient wants to focus on two things: Pain control and staying at home.
+-- Does not want artificial support, and wants to be DNR/DNI. Does not want feeding tube.
+-- Prefers symptomatic relief and staying with family over life prolongation.
+-- Both patient and family does not want the patient to go to a nursing home. 
+-- It was decided that it will be appropraite to transfer patient to TCU for continuation of her IV antibiotics. Patient has a prognosis of weeks to months and it was communicated to the daughters. We will continue to follow the patient at TCU as well where we will help the patient and family in making decision regarding future goals of healthcare, including possible home hospice.
+- In case patient can not be transferred to TCU, as a back up plan, she will be discharged to home with home care nursing. Daughters will be given training regarding administeration of Q4H IV antibiotics. Social worker from the palliative care team, along with family memebers identified the needs of medical equipement, required education and support that family might need in case patient is discharged to home. We will make sure that these needs be met before the patient is discharged to home. Findings and plan was discussed with Dr. **NAME[XXX].
+- - - - -
+Problem/Diagnosis 1: Acute abdominal pain; Primary Dx
+Problem/Diagnosis 2: Delerium
+- - - - -
+HOUSE STAFF PHYSICIAN/OTHER SIGNATURE: Electronically signed by Mansoor Tanwir, MD at 14:14; Tanwir, Mansoor ; 5840; **DATE[Nov 02 2009]; 14:14
+- - - - -
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 60;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 45; The counseling/coordination of care generally consisted of: discussing patient's prognosis, treatment plan, goals of care and disposition options with patient's 2 daughters.  Discussed dispo options with PNCC, home care liason and palliative care SW. 
+TEACHING PHYSICIAN ATTESTATION: GC; I saw and evaluated the patient. Discussed with resident and agree with resident's findings and plan as documented in the resident's note.; I saw the patient on: **DATE[Nov 02 2009]
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD at 18:53; **NAME[XXX, WWW] ; 10454; **DATE[Nov 02 2009]; 18:53
+- - - - -
+VISIT CODE(S): 99233; GC
+- - - - -
+
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=**PHONEb-4670-4fa0-9a83-86443fa51f03^URL^IMAGE

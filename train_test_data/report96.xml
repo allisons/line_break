@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060814ER-DURVcCsC8U6G-848-50419795</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>ABD/BACK PAIN</chief_complaint>
+<admit_diagnosis>592.0</admit_diagnosis>
+<discharge_diagnosis>788.0,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Aug 14 06]
+PRIMARY CARE PHYSICIAN: A  N
+CHIEF COMPLAINT: 
+Flank pain.
+HISTORY OF PRESENT ILLNESS:   
+This is a **AGE[in 40s]-year-old female with a three-day history of left-sided flank pain that radiates down to her groin.  She also has had some accompanied urgency and frequency.   
+REVIEW OF SYSTEMS:    
+No light-headedness, no headache, no chest pain, no shortness of breath, no abdominal pain, no joint aches. 
+Her past medical history is significant for a right UPJ stone that she passed on **DATE[Jul 18 2007].  She is followed by Dr. **NAME[VVV] in Urology and has a follow-up appointment scheduled on **DATE[Aug 24 2007].   
+The patient has reported some chills and nausea but no emesis.  She recently has had flu and stomach flu as well.  The patient has not had any gross hematuria and does not describe any dysuria.   
+PAST MEDICAL HISTORY:  
+Past medical history just significant for previous renal stone and two C-sections. 
+Social history:  No tobacco, moderate alcohol intake, no drug use.  
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.  
+Medications:  None.
+Family history:  Noncontributory.  
+PHYSICAL EXAM:  
+Vital signs:  Temperature is 37.5.  Pulse:  101.  Respirations:  20.  Blood pressure:  118/70.  Saturation:  100% on room air.   
+General:  No apparent distress, alert and oriented times three.  
+HEENT:  Normocephalic, atraumatic.  Extraocular movements intact.  Oropharynx is pink and moist.   
+Neck:  The neck is supple.  
+Chest:  The lungs are clear to auscultation bilaterally.
+Heart:  Regular rate and rhythm.  No murmurs, rubs, clicks, or gallops.  
+Abdomen:  Benign.  There is some mild tenderness to palpation at her left CVA.  No suprapubic tenderness.   
+Skin:  No rash or lesion.
+Extremities:  Full range of motion in all extremities, 2+ dorsalis pedis pulses.   
+ED COURSE:  
+CT scan negative for stone or hydroureter.  
+CBC:  White count:  70.5.  Hemoglobin:  12.9.  Hematocrit:  36.7.  Platelets:  258.  BMP:  BUN:  11.  Creatinine:  0.7.  UA:  Trace blood.  Urine culture pending.   
+The patient was given 1 mg of Dilaudid and 30 mg of Toradol with immediately resolution of pain.  Based on the negative findings on the CT scan, it was thought that she may have passed the stone on the way to the CT scanner.  The patient  was discharged to home in good condition, was given a prescription for ibuprofen 600 mg p.o. q. four hours p.r.n. for pain and Vicodin 5/500 one tab p.o. q. four hours p.r.n. for pain.  She was given a total of 18 tablets of Vicodin.   The patient will follow up with Dr. **NAME[VVV] on the twenty-fourth as previously scheduled.   
+She was given discharge instructions.
+DISCHARGE DIAGNOSIS(ES):     
+RENAL COLIC.
+___________________________________
+**NAME[YYY M. CCC], M.D.  
+Dictator:  **NAME[WWW XXX], M.D.
+**INITIALS
+D:  **DATE[Aug 14 2007] 19:59:09
+T:  **DATE[Aug 14 2007] 20:06:53
+R:  **DATE[Aug 14 2007] 20:06:53/plb
+Job ID:  346532/**ID-NUM
+ 
+*** Dictated By: -**NAME[XXX, UUU] ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Aug 15 2007] 04:50:55 PM
+ 
+
+
+
+</report_text>
+</report>

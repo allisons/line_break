@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060305HP-6aYJMJx/tPtd-848-2112680013</checksum>
+<subtype>GIM CONSULT</subtype>
+<type>HP</type>
+<chief_complaint>PINS STICKING THROUGH FEMUR</chief_complaint>
+<admit_diagnosis>733.82</admit_diagnosis>
+<discharge_diagnosis>733.82,996.49,V45.4,305.1,305.20,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+ 
+**INSTITUTION
+GENERAL MEDICINE
+CONSULTATION
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[YYY M ZZZ]
+CONSULTING PHYSICIAN:  **NAME[WWW M XXX]
+DATE OF ADMISSION:  **DATE[Mar 03 2007]
+DATE OF CONSULTATION:  **DATE[Mar 05 06]
+We were asked to see Mrs. **NAME[AAA] in consultation for her bradycardia.  
+HISTORY OF PRESENT ILLNESS:
+She is a **AGE[in 30s]-year-old white female who has had multiple orthopedic surgeries due to trauma to the left leg incurred in a motor vehicle accident from a motorcycle in **DATE[Jul] of 2006 complicated by infection of the patella at her bone.  Currently, she underwent a procedure again yesterday for nonunion and is doing well postoperatively, except for the fact that she is having quite a bit of pain.  We were asked to see her in regards to her bradycardia. She has a history, she says, of having always had a slow heart rate.  She never has syncope or dizziness.  In the hospital here, she had an EKG yesterday which showed a sinus bradycardia with a rate of 49 and it was sinus rhythm.  She has a history of valvular heart disease, MI or angina.  She denies syncope, dizziness, or weakness.  She denies tachy arrhythmias.  She has been on no medications prior to admission, except for p.r.n. Percocet or Vicodin which is only twice a day. 
+PAST MEDICAL HISTORY:
+Her past medical history is otherwise completely negative for any serious illnesses. 
+ALLERGIES:
+NONE.
+MEDICATIONS:
+Medications are only the Percocet prior to admission.  At this time, she is on Dilaudid PCA and she is experiencing nausea and quite a bit of pain.  In the past, she has been intolerant to morphine because of nausea and, although she has nausea with Dilaudid, it is not as bad as with the morphine.   
+REVIEW OF SYSTEMS:
+She denies any abdominal pains or chest pains.  The review of systems is entirely negative otherwise. 
+PHYSICAL EXAMINATION:
+She is a thin white female who is in moderate amount of discomfort.  The pulse is 60 and regular by me.  The patient is awake, alert, and oriented.  There was no JVD.  There was no thyromegaly.  The chest was clear without wheezes, rales and rhonchi.  Heart revealed a regular rhythm with no murmurs or gallops.  Abdomen is soft and nontender.  Extremities with no edema on the right. 
+IMPRESSION:
+1. Bradycardia.  This is a sinus bradycardia by EKG.  I suspect that she runs slow most of the time.  I think that the additional factor here is she may have increased vagal tone due to her nausea and/or pain.  I would not recommend any further workup or treatment of this at this time. 
+2. She has nausea from her Dilaudid.
+3. She should be maintained on DVT prophylaxis as you have been doing since her motor vehicle accident in **DATE[Jul]. 
+Thank you for this consultation.  We will follow her with you.
+___________________________________
+**NAME[WWW M XXX]
+ 
+Dictator:  **NAME[WWW M. XXX], M.D.
+**INITIALS
+D:  **DATE[Mar 05 2007] 10:30:00
+T:  **DATE[Mar 05 2007] 12:53:19
+R:  **DATE[Mar 05 2007] 12:53:19/bab
+Job ID:  333422/**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+ 
+*** Dictated By: -**NAME[XXX, VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]  **DATE[Mar 10 2007] 05:11:16 PM
+ 
+
+
+
+</report_text>
+</report>

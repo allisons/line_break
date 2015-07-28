@@ -1,0 +1,137 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE CONSULT NOTE
+- - - - -
+DATE: **DATE[Nov 05 2009]
+TIME: 14:36
+REFERRING PHYSICIAN: **NAME[ZZZ, YYY]
+- - - - -
+REASON FOR CONSULT:   I am being asked by the following referring physician to see this patient in consultation: **NAME[ZZZ, YYY];   This consultation is in regard to the following: Pain Control
+- - - - -
+History Obtained From:  Family: Pt and Mother
+- - - - -
+HISTORY OF PRESENT ILLNESS: This is a **AGE[in 50s] y/o male with PMHx of hepC, cirrhosis, DMII, GERD, CAD, and COPD who presented with left sided HA and left facial pain for 2-3 weeks, to ED at Beaver medical center. A CT scan was recommended at this time, however, due to issues with insurance, the pt never had the scan. The pt again presented to Beaver with intractable pain.  A CT scan was preformed at this time and it found a large left sided sinus mass, eroding into bone. The patient was prescribed pain medication and was set up with outpatient ENT follow up.. However the pain became too severe and the presented to **INSTITUTION night or **DATE[Nov 2 09], and was admitted to for intratable pain. The pain starts on the left sided of his head and radiates to his upper jaw. The patient has associated symptoms of photophobia, double vision in the left eye and blurred vision in the right eye, and loss of hearing in the left ear. At upmc a repeat CT was done, with a biopsy of a nasal polyp showing squamous cell carcinoma. ENT  was consulted and is following the patient. Likely will talk pt to surgery for debluking, and pt will have PET scan this friday. On admission pt was taking oxycodone 120mg Daily. IV dilaudid was added on **DATE[Nov 3 09], and pt was changed to PCA **DATE[Nov 4 09]. Pt denies nausea, and states had BM 24hrs ago. The pt had just found out about his cancer diagnosis, and is extremely overwhelmed by the entire situation. Pt was on Buspar, Diazepam, and Gabapentin as outpt. Although pt denies hx of anxiety or depression.
+- - - - -
+Past Medical History: Condition 1: DMII; Condition 2: COPD; Condition 3: Cirrhosis, Hx Hep C; Condition 4: CAD; Condition 5: GERD; Other past medical
+history: Hx of Esophageal varicies, s/p splenectomy, Hx of R leg fracture x3, hx of pacemaker now removed, and leg ulcers multiple
+- - - - -
+ALLERGIES: codeine
+- - - - -
+**INSTITUTION Situation: Pt Currently lives with Mother; Occupation: Disability since leg fractures; Habits (smoking / EtOH): Pt quit Etoh 5 years ago. Smoking 30yr 1ppd hx stopped ~3years ago, still has occasional cigarette;
+Social drug use: yes; None
+- - - - -
+Family History: non-contributory
+- - - - -
+REVIEW OF SYSTEMS: Eyes: Positive; Findings: Double vision in L eye, Blurry in R eye;  Ears, Nose, Mouth/Throat: Positive;  Findings: Decreased hearing in L ear;  Cardiovascular: Negative;  Findings: CP;  Respiratory: Negative;  Findings: SOB;  Gastrointestinal: Negative;  Findings: N/V;  Psychiatric: Positive;  Findings: Pt is tearful, crying in room;  Skin: Positive;  Findings: Ulcers on legs
+- - - - -
+GENERAL EXAM  (Select "not examined" for any organ system note examined because such examination is not medically necessary for this encounter)
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 05 2009] 14:37
+VITALS:
+**DATE[Nov 05] 04:17 T: 37.0 BP:124/56 P: 63 RR: 16 SaO2: 93 FiO2:    Ht:      Wt:     
+**DATE[Nov 04] 20:00 T:      BP:       P:    RR:    SaO2:    FiO2:  4 Ht:      Wt:     
+**DATE[Nov 04] 16:08 T: 36.7 BP:111/48 P: 49 RR: 15 SaO2: 92 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 04] 12:38 T: 36.7 BP:107/58 P: 64 RR: 16 SaO2: 95 FiO2:  4 Ht:      Wt:     
+24 Hr Max Temp:37.0
+36 Hr Max Temp:37.0
+CURRENT VITALS: Vital signs are stable
+- - - - -
+Constitutional:  Other: Pt is lying in bed, intially alseep, when awoken pt is in severe pain, tearful, and crying, in obvious pain
+Eyes:  Other: Pt has photophobia, difficult to exam pupils,
+Ears, Nose, Mouth & Throat:  Other: Dry mucous membranes, ? thrush, decreased hearing L side, tenderness to palpation over left cheek and neck
+Respiratory: CTA;  Other: no w/r/r
+Cardiovascular: RRR; Normal S1, S2; No murmur; No rubs; No gallops
+Gastrointestinal: Soft; Nontender; BS Present
+distendgrp: Nondistended
+Extremities:  Other:  (attending): b/l edema and ulcers on legs bilaterally, largest R ankle currently bleeding, severe clubbing
+Neurologic: Awake, alert, oriented x3
+Psychiatric:  Other: Pt extremely tearful, crying in bed, completely overwhelmed by pain and new diagnosis of Cancer
+Integumentary/Skin: No Jaundice;  Other: b/l chronic venous stasis ulcers
+Musculoskeletal: Other: thin, temporal wasting
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+Labs: Reviewed
+Imaging: CT:
+1. LARGE SOFT TISSUE MASS CENTERED WITHIN THE LEFT POSTERIOR  MAXILLARY SINUS WITH RESULTANT BONY DESTRUCTION AND EXTENSION INTO  THE RIGHT POSTERIOR NASAL CAVITY AND PTERYGOPALATINE FOSSA. THESE  FINDINGS ARE SUSPICIOUS FOR NEOPLASM, HOWEVER, NO COMPARATIVE STUDIES  ARE AVAILABLE AT THIS TIME.  CLINICAL CORRELATION IS STRONGLY  RECOMMENDED.
+2. PROMINENT SUPERIOR OPHTHALMIC VEINS BILATERALLY WITHOUT EVIDENCE  OF CAROTID CAVERNOUS FISTULA.
+3. NO ACUTE INTRACRANIAL ABNORMALITY.  
+4. THESE FINDINGS WERE RELAYED TO THE EMERGENCY DEPARTMENT VIA THE  STENTOR PRELIMINARY REPORT SYSTEM.
+- - - - -
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 50s] y/o gentleman with PMHx of COPD, DM, CAD, and Cirrhosis, who presents with intractable left sided HA and left facial pain. Found to have squamous cell carcinoma of left sinus.
+- - - - -
+Problem/Diagnosis 1: Left sided facial pain; Plan: Pain is result of squamous cell CA, and bony erosion. ENT debulking surgery should help with the pain. Also, the steriods will help a great deal, and decrease his opioid pain requirement. Several recs:
+-Change Dilaudid PCA to 0.6 continous, with 0.4mg bolus every 15min, and **NAME[VVV] RN bolus to 1mg Q30min, no 1 hr limit.
+-Start Deacdron 4mg BID, at 8am and noon, with one dose tonight.
+-keep Neurontin at 300mg TID
+Problem/Diagnosis 2: Anxiety/Depression; Plan: Uncertain if patient has a hx of Anixety or Depression. Pt denies any such history, but pt was on Buspar, Diazepam, and gabapentin on admission. Pt also in severe pain, and difficult to obtain full history. Would recommend:
+-Changing buspar to 10mg TID
+-**NAME[VVV] benzo to Ativan 1mg Q4hrs PO PRN 
+- - - - -
+Please notify me if you would like me to follow the patient.  My advice regarding the following patient is listed above: **NAME[AAA, BBB]
+- - - - -
+RESIDENT **NAME[UUU]: Electronically signed by **NAME[TTT SSS], MD at 19:05; **NAME[SSS, TTT] ; 4861; **DATE[Nov 05 2009]; 19:05
+- - - - -
+TEACHING PHYSICIAN ATTESTATION: GC; I saw and evaluated the patient. I agree with the findings and the plan of care as documented in the resident's note; With the addition of: I reviewed the CT scans with the resident. The patient is a difficult historian given his pain and underlying psychiatric issues that I was unable to probe on this first visit. I do think that aggressive pain management would increase our ability to get a better understanding of this patient's psychiatric illness and improve coping with this devastating illness and what is going to be a very difficult road in the future. I saw the patient on: **DATE[Nov 05 2009]
+- - - - -
+ATTENDING **NAME[UUU]: Electronically signed by **NAME[WWW XXX], MD at 09:44; **NAME[XXX, WWW] ; 2098; **DATE[Nov 6 2009]; 09:44
+- - - - -
+VISIT CODE(S): GC
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY]
+SERVICE:Internal Medicine
+ALLERGIES:codeine
+ROUNDING REPORT TIME:**DATE[Nov 05 2009] 14:37
+VITALS:
+**DATE[Nov 05] 04:17 T: 37.0 BP:124/56 P: 63 RR: 16 SaO2: 93 FiO2:    Ht:      Wt:     
+**DATE[Nov 04] 20:00 T:      BP:       P:    RR:    SaO2:    FiO2:  4 Ht:      Wt:     
+**DATE[Nov 04] 16:08 T: 36.7 BP:111/48 P: 49 RR: 15 SaO2: 92 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 04] 12:38 T: 36.7 BP:107/58 P: 64 RR: 16 SaO2: 95 FiO2:  4 Ht:      Wt:     
+24 Hr Max Temp:37.0
+36 Hr Max Temp:37.0
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:          0        0        0        0        0        0        0
+OUTPUT:        900        0        0      900        0        0        0
+BALANCE:      -900        0        0     -900        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+busPIRone (BuSpar)   10mg  By Mouth BID
+D/C SHORT-ACTING OPIOIDS (exce...   1SeeNotes  Misc As DirCPOE
+docusate (Colace)   100mg  By Mouth BID
+famotidine (Pepcid)   20mg  By Mouth BID
+fluticasone-salmeterol (Advair D...   1Puff(s)  Inhalation BID
+gabapentin (Neurontin)   300mg  By Mouth TID
+heparin   5,000Unit(s)  subQ Q8H
+hydromorphone 30 mL   30mL as directed IV
+insulin regular (HumuLIN R, Novo...   0-12 Units  subQ ACandHS
+omeprazole   20mg  By Mouth ACBrkfst
+PCA CHECK   1SeeNotes  Misc Q8HRShift
+PCA TOTAL WITH BOLUSES (HYDROMO...   1SeeNotes  Misc Q8HRTotal
+Sodium Chloride 0.9% 1000 mL   1,000mL 125mL/hr IV
+ACTIVE INPATIENT PRN MED ORDERS
+albuterol-ipratropium (Combivent...   2Puff(s)  Inhalation Q4H
+diazepam   2.5mg  IV TID
+naloxone (Narcan)   0.04mg  IV As DirCPOE
+ondansetron (Zofran)   4mg  IV Q8H
+PCA BOLUS IF ORDERED (HYDROMOR...   1SeeNotes  Misc As DirCPOE
+senna (Senokot)   2tab(s)  By Mouth AtBedtime
+ONE TIME MED ORDERS
+8/04 04:49hydromorphone   1mg  IV ONCE
+LABS:
+**DATE[Nov 05] 06:11
+Glucose (bedside) 144 H
+**DATE[Nov 04] 21:02
+Glucose (bedside) 113 H
+**DATE[Nov 04] 16:54
+Glucose (bedside) 143 H
+**DATE[Nov 04] 10:37
+Glucose (bedside) 126 H
+**DATE[Nov 04] 06:11
+Glucose (bedside) 116 H
+DVT Prophylaxis:Heparin
+GT Prophylaxis:Famotidine
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=37de9d5c-3fad-4940-b930-ed5e95e395e2^URL^IMAGE

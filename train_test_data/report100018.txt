@@ -1,0 +1,171 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 02 2009]
+Time: 10:05
+- - - - -
+Chief Complaint: Abdominal pain, LE swelling
+- - - - -
+Physical: Pain control improved. Patient states that pain currently 1/10 in abdomen. Moving bowels. Denies fevers, chills. No chest pain or SOB.   ;  (attending): + po; looking forward to leaving today; sister at bedise and concerned about Husband's wishes not to have home hospice involved
+- - - - -
+Medications:  Oral morphine equivalent: 50
+- - - - -
+REVIEW OF SYSTEMS:  Modified Edmonton System Assessment Scale (ESAS): This control requires a parameter in the Form Designer tool called 'FormName'. For more information, refer tot he Forms Development Guide. 
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 02 2009] 10:05
+VITALS:
+**DATE[Nov 02] 03:53 T: 35.0 BP:124/79 P:105 RR: 16 SaO2: 95 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 15:41 T: 37.2 BP:120/69 P:119 RR: 20 SaO2: 98 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 08:09 T: 35.6 BP:123/64 P:111 RR: 20 SaO2: 96 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 04:05 T: 35.9 BP:144/75 P:114 RR: 14 SaO2: 98 FiO2:    Ht:      Wt:     
+24 Hr Max Temp:37.2
+36 Hr Max Temp:37.2
+- - - - -
+Constitutional: No acute distress
+Eyes: EOMI; **NAME[VVV];  Other: scleral icterus
+Ears, Nose, Mouth & Throat: No JVD; Hearing grossly normal
+Respiratory:  Other: diminished breath sounds in R base, crackles in L base
+Cardiovascular: Normal S1, S2; No murmur; No rubs; No gallops;  Other:
+tachycardia
+Gastrointestinal: Soft; Nontender; Distended; BS Present
+Extremities: No erythema;  Other:  (attending): TED hose in place, edema 1-2+, slighly improved 
+Neurologic: Non-focal exam;  Other: no asterixis, patient intially stated that it was 2007 then corrected herself, thought she was in **PLACE initially
+Psychiatric: Appropriate
+Integumentary/Skin: No Rash;  Other: jaundiced
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: No lymphadenopathy
+- - - - -
+Labs: Reviewed
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M]
+SERVICE:Transplant
+ALLERGIES:Lipitor(Hives)
+ROUNDING REPORT TIME:**DATE[Nov 02 2009] 10:05
+VITALS:
+**DATE[Nov 02] 03:53 T: 35.0 BP:124/79 P:105 RR: 16 SaO2: 95 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 15:41 T: 37.2 BP:120/69 P:119 RR: 20 SaO2: 98 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 08:09 T: 35.6 BP:123/64 P:111 RR: 20 SaO2: 96 FiO2:    Ht:      Wt:     
+**DATE[Nov 01] 04:05 T: 35.9 BP:144/75 P:114 RR: 14 SaO2: 98 FiO2:    Ht:      Wt:     
+24 Hr Max Temp:37.2
+36 Hr Max Temp:37.2
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:          0      480        0      480        0        0        0
+OUTPUT:        425      285       25      735      500        0        0
+BALANCE:      -425      195      -25     -255     -500        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+furosemide (Lasix)   40mg  IV Daily
+heparin   5,000Unit(s)  subQ Q12H
+insulin regular (HumuLIN R, NovoLIN R...   0-6 Units  subQ Q6H
+lactulose   20gm  By Mouth TID
+spironolactone (Aldactone)   50mg  By Mouth BID
+ACTIVE INPATIENT PRN MED ORDERS
+ondansetron (Zofran)   4mg  IV Q6H
+oxycodone   5mg  By Mouth Q3H
+oxycodone   10mg  By Mouth Q3H
+LABS:
+**DATE[Nov 02] 06:14
+Glucose (bedside) 139 H
+**DATE[Nov 02] 04:05
+Anion Gap 14.0 H
+GFR (estimated) eGFR>60
+Ca (adjusted) 10.3
+Na 133 C
+K 4.2
+Cl 97 L
+CO2 22
+BUN 20
+Cr 0.7
+Glucose 111 H
+Ca 9.1
+Mg 1.8
+Phos 4.2
+Albumin 2.4 C
+Total Protein 5.2 L
+Bili, Total 15.5 C
+ALT/SGPT 41
+AST/SGOT 146 H
+Alk Phos 905 C
+WBC 13.6 H
+RBC 3.32 L
+Hgb 10.8 L
+Hct 31.1 L
+MCV 93.8
+RDW 21.3 C
+Platelets 117 L
+**DATE[Nov 01] 20:20
+Glucose (bedside) 187 H
+**DATE[Nov 01] 16:53
+Glucose (bedside) 189 H
+**DATE[Nov 01] 11:14
+Glucose (bedside) 220 H
+**DATE[Nov 01] 05:59
+Glucose (bedside) 184 H
+**DATE[Nov 01] 04:05
+Anion Gap 12.0
+GFR (estimated) eGFR>60
+Na 130 C
+K 3.9
+Cl 99
+CO2 19 L
+BUN 20
+Cr 0.7
+Glucose 158 H
+Ca 8.8
+Mg 2.1
+Phos 3.9
+Albumin 2.6 C
+Total Protein 5.2 L
+Bili, Total 15.3 C
+ALT/SGPT 45
+AST/SGOT 139 H
+Alk Phos 954 C
+WBC 12.9 H
+RBC 3.35 L
+Hgb 10.9 L
+Hct 31.0 L
+MCV 92.7
+RDW 20.8 C
+Platelets 127 L
+**DATE[Oct 31] 23:38
+Glucose (bedside) 215 H
+**DATE[Oct 29] 13:00
+Diff Comments, CSF MANY ERYTHROPHAGOCYTES AND LEUKOPHAGOCYTES SEEN ON SCANNING A SMALL CLUMP OF WBCS FOR PATHOLOGIST REVIEW PATH
+DVT Prophylaxis:Heparin
+ASSESSMENT AND PLAN
+Assessment: Patient with progression of metastatic colon cancer with mets to liver, spine and new pulmonary nodules, w/ R pleural effusion s/p placement of chest tube, admitted w/ volume overload, acute renal failure, abdominal pain and rising bilirubin. 
+1.  Pain Management: Pain control well controlled. Currently she reports that it is 1/10, but her numerical pain assessments are difficult to interpret. She appears comfortable. She has used 5 10mg doses of oxycodone over the past 24hrs. 
+-cont. oxycodone 10mg Q3H prn, can consider changing to long acting agent w/ oxycontin 15mg Q12H and keeping the oxycodone 10mg Q3H for breakthrough pain
+-steroids are a viable option for further pain control in patient's with metastatic liver disease, but does not appear necessary at this time. 
+2. Delirium: Mild. Patient with some difficulty repeating complex phrases and number series and following more complex commands. This may be multifactorial with hepatic encephalopathy, heds, and hospital induced delirium all playing a part. Uncertain of current ammonia level. 
+-consider Haldol .5mg TID
+-continuing lactulose could help prevent/treat hepatic encephalopathy and prevent constipation from narcotics 
+3. Code Status:  DNR/DNI, status changed during current hospitalization 
+4.  Palliative care:  Plan is to discharge home with hospice to **PLACE, OH where her sister lives. Patient states that she is anticipating leaving. Husband does not wish for us to reveal the specifics of her illness or prognosis to her. We have asked the patient if she has any questions regarding her current health problems and our present plans and she says no.
+-continue w/ hospice arrangements    
+- - - - -
+Problem/Diagnosis 1: V66.7: VISIT FOR: PALLIATIVE CARE; Primary Dx
+Problem/Diagnosis 2: 780.96: GENERALIZED PAIN; abd pain
+- - - - -
+Family/PCP Discussions1:  Date: **DATE[Oct 29 2009];  Resident: **NAME[UUU] all of above summarized conversations with patient's husband at bedside.  She remained somnolent due to medication with oxycodone just prior to my visit.
+- - - - -
+HOUSE STAFF PHYSICIAN/OTHER SIGNATURE: Electronically signed by **NAME[TTT SSS], MD at 14:27; **NAME[SSS, TTT] ; 5724; **DATE[Nov 2 2009]; 14:27
+- - - - -
+Attending Notes: Discussed with primary team
+- - - - -
+TEACHING PHYSICIAN ATTESTATION: GC; I saw and evaluated the patient. I agree with the findings and the plan of care as documented in the resident's note; I saw the patient on: **DATE[Nov 02 2009]; With the addition of: Discussed with sister: if pt continues to use frequent PRNS, would add long acting medication.  CAse mANagement/home care/SW to discuss discharge services with husband.  What is most important is that regardless of name, pt and sister get  the care and support they need.
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD (Epic# 18735) at 15:37; **NAME[XXX, WWW] ; 2177/8511; **DATE[Nov 2 2009]; 15:37
+- - - - -
+VISIT CODE(S): 99232; GC
+- - - - -
+
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=168b15f1-8968-4aee-be40-92e11062c615^URL^IMAGE

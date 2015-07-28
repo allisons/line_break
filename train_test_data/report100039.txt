@@ -1,0 +1,41 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+ 
+**INSTITUTION
+PALLIATIVE CARE
+CONSULTATION
+ 
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[XXX M WWW]
+CONSULTING PHYSICIAN:  **NAME[YYY ZZZ] M.D.
+DATE OF ADMISSION:  **DATE[Sep 26 2009]
+DATE OF CONSULTATION:  **DATE[Nov 05 09]
+ 
+ 
+REASON FOR CONSULTATION: We were asked by Dr. **NAME[WWW] to see Mr. **NAME[AAA] for  goals of care. For full details of this consult, please see the electronic  medical record and the inpatient progress note from **DATE[Nov 05 2009],  completed by Dr. **NAME[VVV UUU]. She is the Palliative Care fellow. I saw and  examined the patient with her. I agree with her documentation as it is in the  electronic medical record, please link this note to hers.  
+ 
+IMPRESSION: 
+ 
+1. The patient has multisystem organ failure with irreversible underlying  causes. We will plan to meet with his family tomorrow who has been told about  these issues today and see if we can help with their questions, goals and  disposition planning.  
+ 
+2. Altered mental status. This is multifactorial from multiple metabolic  etiologies. Management is per the primary team.  
+ 
+Thank you very much for allowing us to participate in Mr. **NAME[AAA]'s care. We  will continue to see him at your request.  
+ 
+ 
+___________________________________
+**NAME[YYY ZZZ] M.D.
+ 
+ 
+ 
+Dictator:  **NAME[YYY ZZZ], M.D.
+**INITIALS
+D:  **DATE[Nov 05 2009] 18:08:14
+T:  **DATE[Nov 05 2009] 19:51:02
+R:  **DATE[Nov 05 2009] 19:51:02/eab
+Job ID:  **ID-NUM/**ID-NUM
+Cc:
+Authenticated and Edited by **NAME[YYY ZZZ] On **DATE[Nov 08 09] 9:43:03 PM

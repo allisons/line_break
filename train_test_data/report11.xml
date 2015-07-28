@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060217ER-72X++wJbm2Ih-848-1962582799</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>N/V</chief_complaint>
+<admit_diagnosis>536.2</admit_diagnosis>
+<discharge_diagnosis>996.81,599.0,276.51,V42.84,593.9,041.4,111.9,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM 
+DATE OF SERVICE:  **DATE[Feb 17 06] 
+PRIMARY CARE PHYSICIAN: A  N
+Chief Complaint:
+Fever.
+HISTORY OF PRESENT ILLNESS:  
+This patient is a **AGE[in 50s]-year-old male with a past medical history of multiple transplants including small bowel, liver, and pancreas in 1998 and status post kidney transplant in 2006, presents with fever.  The patient states he woke this morning and thought to have fevers and chills.  He also has had some vomiting and diarrhea.  Denies any belly pain.  He states he feels a little short of breath.  He denies any chest pain.  No sore throat.  No neck stiffness.  No rashes.  He presents here for evaluation.   
+REVIEW OF SYSTEMS:  
+In general, the patient does endorse fevers or chills.  No weakness or fatigue.  HEENT - No head trauma or headache.  Eyes - No blurry vision or diplopia.  Ears - No earache or decrease in hearing.  Nose - No nasal discharge or pain.  Throat - No throat pain or dysphagia.  Cardiovascular - 
+No chest pain or palpitations.  Respiratory - Does endorse shortness of breath.  No cough or wheeze.  GI - No abdominal pain.  There is vomiting and diarrhea.  GU - No dysuria or hematuria.  Musculoskeletal - No arthralgias or myalgias noted.  No numbness, weakness, paresthesias, or presyncope.   
+PAST MEDICAL HISTORY:  
+Status post kidney transplant in 2006, status post liver, small bowel, and pancreas transplant in 1998, and also hiatal hernia.   
+Medications:
+1.  Prograf. 
+2.  Cortef. 
+3.  Actigall. 
+4.  Levothyroxine. 
+5.  Bactrim.  
+6.  Cytovene.
+7.  Colace. 
+8.  Sodium bicarb. 
+9.  Zoloft. 
+10. Magnesium gluconate. 
+11. Glyburide. 
+12. Norvasc. 
+13. Protonix. 
+14. Vitamin B6. 
+15. Tylenol. 
+16. Benadryl. 
+17. __________. 
+18. Itraconazole.
+Allergies:
+NONE.  
+Social History:  
+No smoking.  Occasional alcohol.  No illicit drug use.  
+Family History:  
+Noncontributory.   
+PHYSICAL EXAMINATION:  
+Temp 37.8 which on recheck was 102, pulse 108, respirations 18, BP 96/palp.  
+In general, the patient is awake and alert, no sign of stress.  HEENT - Head is atraumatic, normocephalic.  Eyes - Pupils equal and reactive to light.  
+Extraocular movements are intact.  Throat - Slightly dry mucous membranes.  
+Normal __________.  No erythema or exudate.  The neck is supple.  
+Cardiovascular - Regular rate and rhythm.  No murmurs, rubs, or gallops.  
+Respiratory - Good breath sounds throughout.  No crackles or wheezes.  
+Abdomen - Positive bowel sounds.  Soft, nondistended.  There is some slight tenderness to palpation diffusely.  No percussion tenderness present.  
+Musculoskeletal - Pulses 2+ bilaterally.  No clubbing, cyanosis, or edema.  
+Neuro - Cranial nerves II through XII grossly intact.  Motor strength 5/5 in all four extremities.  Sensation is normal bilaterally.   
+Labs include a chem-7 which is remarkable for a creatinine of 2.0.  LFTs show an ALT of 80, AST 91, alkaline phosphatase 202, GGTP 191.  Lipase is 114.  
+CBC has an elevated white count of 11.6.  Platelets within normal limits.  
+There is a left shift with 86 neutrophils.  Coags within normal limits.  
+Portable chest x-ray shows no active disease.   
+ED COURSE:  
+The patient presents and is immunosuppressed after multiple transplants.  He presents with fevers and chills.  We initiated a septic workup.  Blood and urine cultures were obtained.  Chest x-ray shows no pneumonia.  The patient was seen and evaluated by the small bowel transplant fellow.  Plan at this time is to hydrate the patient and to admit to their service.  They will withhold on antibiotics for now and withhold on CT scan for now.  The patient is hemodynamically stable and is given Tylenol for his fever.   
+Disposition:
+Admitted to 12 South, transplant floor.  
+DIAGNOSIS(ES):  
+FEVER, RULE OUT SEPSIS.  
+ATTENDING PHYSICIAN ADDENDUM:
+I interviewed and examined the patient, as well as reviewed the resident's history, physical and decision-making processes and concur with them.  I have also reviewed the nursing notes and electronic health records. 
+Mr. **NAME[AAA] is a **AGE[in 50s]-year-old gentleman status post multiple abdominal organ transplant as noted above.  The patient lives in **PLACE but is back in town for a routine visit.  He was scheduled to have a renal biopsy today to check for rejection.  The patient was fine up until this morning when he awoke and has had multiple bouts of vomiting and diarrhea and also chills.  He denies any blood in the emesis or in the stool.  He is on antifungal medication but denies any antibiotics other than his usual Bactrim.  He denies any chest pain or abdominal pain.  The patient reports that he has chronic abdominal pain which is no worse than usual.  He denies any UTI-type symptoms.  He denies headache, vision changes, weakness, or paresthesias.   
+Past medical history, medications, and allergies are as noted above.  
+Social History:
+No tobacco or illicit drug use.  Does report occasional alcohol use.  
+Physical Examination:  
+Physical examination shows an uncomfortable appearing middle-aged Caucasian male.  Initially, his temperature was 37.8.  This was repeated and it was 39.2.  Heart rate was 108, respiratory rate 18, blood pressure 96/palp.  His blood pressure came up to 130/62.  The lungs are clearly to auscultation throughout.  Heart has a regular rate and rhythm with intact cardiac murmurs noted.  Abdomen shows normoactive bowel sounds, soft with some bilateral lower quadrant tenderness which the patient states is chronic.  Extremities show left-sided PICC line.   
+Assessment/ED Course:
+This is a middle-aged gentlemen with the above history  who presents with persistent vomiting and diarrhea.  Possibilities include viral gastroenteritis.  Also of concern would be that of C. difficile colitis.  I did speak with Dr. **NAME[XXX] who was expecting the patient for the renal biopsy. 
+ Plan is to admit to Dr. **NAME[XXX]'s service.  Here in the Emergency Department laboratory studies were obtained and are documented above.  The patient is currently being seen by the transplant fellow.  He will be admitted to the Transplant Service.   
+Admitting Diagnoses:
+1.  VOMITING. 
+2.  DIARRHEA. 
+3.  RENAL INSUFFICIENCY.  
+Condition is fair.  
+ 
+___________________________________
+**NAME[UUU TTT], M.D. 
+ 
+Dictator:  **NAME[VVV M. WWW], M.D./**NAME[UUU TTT], M.D. 
+CDC/**INITIALS
+D:  **DATE[Feb 17 2007] 09:08:15
+T:  **DATE[Feb 17 2007] 09:22:46
+R:  **DATE[Feb 17 2007] 09:22:46/ksc
+Job ID:  349475/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[WWW, SSS M]. ***
+Electronically Signed by **NAME[UUU CCC]  **DATE[Feb 20 2007] 12:26:00 PM
+ 
+
+
+
+</report_text>
+</report>

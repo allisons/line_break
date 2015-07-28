@@ -1,0 +1,227 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE CONSULT NOTE
+- - - - -
+DATE: **DATE[Nov 02 2009]
+REFERRING PHYSICIAN: **NAME[XXX, WWW M] (4050)
+- - - - -
+Reason for Consult:   I am being asked by the following referring physician to see this patient in consultation: **NAME[XXX, WWW M] (4050)
+Reason for consult:   This consultation is in regard to the following Chief Complaint: chronic pain management, history of addiction
+- - - - -
+HISTORY OF PRESENT ILLNESS: **AGE[in 50s] yo woman with h/o CMV pneumonia last year.  This is her 6th admission since **DATE[Jul].  Readmitted for shortness of breath.  She is most troubled by cough.  States she has had pain in her chest for 4 months.  Describes the pain R Upper chest and feels like "black and blue."  HAs pain constantly in her chest, abdomen, up to her neck.  Feels like pins and needles. When she coughs--she gets sharp stabbing pain.  Currently 7.5/10.  On a good day it is 6/10.  At home she took oxycodone 5 mg q3 ATC.  Does not feel her pain here is any better controlled than at home.  She does not know why she was changed from po oxycodone to IV dilaudid here.  She notices no change in her pain from the past several days.  States that her cough was improved with IV codeine.  But also asks if her hycodin dose can be increased as it is "subtherapeutic dosing." Except for the codeine, it appears nothing has made her feel better.  On IV codeine, hycodin and dilaudid/oxycodone   
+- - - - -
+Past Medical History: Condition 1: restrictive lung disease; Condition 2: GERD; Condition 3: CMV pneumonia; Comments: s/p VATS and partial lung resection; acute and fibrinous organizing pneumonia; Condition 4: alcohol abuse; Condition 5: candida esophagitis; Other past medical history: CMV oral ulcers; DM--steroid induced; anemia of chronic disease, urinary incontinence; hypogammaglobulinemia; PE
+- - - - -
+ALLERGIES: Talwin NX(Compazine), Darvon, Compazine, Darvocet A500
+- - - - -
+MEDICATIONS:  Oral morphine equivalent: 80 (4 mg IV dialudid);  Rounding Report
+Medications: ACTIVE INPATIENT MEDICATION ORDERS
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol QID
+amlodipine (Norvasc)   5mg  By Mouth Daily
+aspirin   81mg  By Mouth Daily
+azithromycin (Zithromax)   500mg  By Mouth Q24H
+codeine   30mg  IV Q4H
+docusate (Colace)   100mg  By Mouth BID
+fluticasone-salmeterol (Advair D...   1Puff(s)  Inhalation BID
+gabapentin (Neurontin)   600mg  By Mouth TID
+glipiZIDE (Glucotrol)   5mg  By Mouth WthBrkfst
+hydromorphone   0.5mg  IV Q2H
+insulin regular (HumuLIN R, Novo...   0-12 Units  subQ ACandHS
+lidocaine topical Patch 5% (Lidod...   1Patch  Topically Daily
+metoprolol (Lopressor)   25mg  By Mouth BID
+nystatin   5mL  SwshSwallw QID
+pantoprazole EC   40mg  By Mouth ACBrkfst
+predniSONE   20mg  By Mouth Daily
+REMOVE LIDOCAINE PATCH Patch   1ea  Misc AtBedtime
+risperidone (Risperdal)   0.25mg  By Mouth BID
+sertraline (Zoloft)   200mg  By Mouth QAM
+simvastatin (Zocor)   40mg  By Mouth QPM
+sucralfate (Carafate)   1gm  By Mouth ACandHS
+sulfamethoxazole-trimethopri...   1tab(s)  By Mouth QMndWedFri
+valganciclovir (Valcyte)   450mg  By Mouth Daily
+warfarin (Coumadin)   7.5mg  By Mouth QPM
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol Q2H
+bisacodyl (Dulcolax Laxative)   10mg  Per Rectum As DirCPOE
+clonazepam (Klonopin)   1.5mg  By Mouth BID
+clonazepam (Klonopin)   0.5mg  By Mouth Q8H
+homatropine-hydrocodone (Hycodan 1.5mg-...   5mL  By Mouth Q2H
+senna (Senokot)   2tab(s)  By Mouth BID
+- - - - -
+**INSTITUTION Situation: lives with husband; Occupation: worked previously as a secretary; Goals of care: wants her cough and pain better; Tobacco: yes; quit **DATE[Apr 2009]; EtOH: yes; per chart
+- - - - -
+Family History: no reported family history
+- - - - -
+REVIEW OF SYSTEMS: Constitutional: Positive; Findings: uses walker to ambulate; ;  Respiratory: Positive;  Findings: cough;  Gastrointestinal: Positive;  Findings: chronic constipation;  Musculoskeletal: Positive;  Findings: as above
+- - - - -
+Rounding Report Vitals: VITALS:
+T: 36.7 BP:       P: 78 RR: 20 SaO2: 97 FiO2:    Ht:      Wt:     
+T: 37.4 BP:121/57 P:104 RR: 19 SaO2: 94 FiO2:  6 Ht:      Wt:     
+T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  181
+T: 37.1 BP: 98/52 P: 81 RR: 21 SaO2: 96 FiO2:  6 Ht:      Wt:     
+24 Hr Max Temp:37.4
+36 Hr Max Temp:37.4
+VITALS TIME:**DATE[Nov 02 2009] 15:39
+General Appearance: No acute distress
+HEENT: Moist mucosa; Hearing grossly normal; EOMI; **NAME[VVV]
+Lymph: Not examined
+Chest: Other: end expir wheezes; scattered crackles
+Cardiac: No murmur; No rubs
+Cadiac: No gallops
+Abdomen: Soft; Nontender; BS Present; Other: distended
+Extremeties: No edema
+Neuro: Other: alert, interactive, appropriate
+Mood: Other: blunted; ficused on dosing of medications
+Musculoskeletal: Other: rib resection area palpated--tender.  abdomen and rest of chest not tender
+Genitalia: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+- - - - -
+Rounding Report: ATTENDING:**NAME[XXX, WWW M]
+SERVICE:Pulmonary Medicine
+ISOLATION STATUS:VRE
+ALLERGIES:Talwin NX(Compazine), Darvon, Compazine, Darvocet A500
+ROUNDING REPORT TIME:**DATE[Nov 02 2009] 15:39
+VITALS:
+T: 36.7 BP:       P: 78 RR: 20 SaO2: 97 FiO2:    Ht:      Wt:     
+T: 37.4 BP:121/57 P:104 RR: 19 SaO2: 94 FiO2:  6 Ht:      Wt:     
+T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  181
+T: 37.1 BP: 98/52 P: 81 RR: 21 SaO2: 96 FiO2:  6 Ht:      Wt:     
+24 Hr Max Temp:37.4
+36 Hr Max Temp:37.4
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        237      820        0     1057        0        0        0
+OUTPUT:          0     3750      300     4050        0        0        0
+BALANCE:       **PHONE     -300    -2993        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol QID
+amlodipine (Norvasc)   5mg  By Mouth Daily
+aspirin   81mg  By Mouth Daily
+azithromycin (Zithromax)   500mg  By Mouth Q24H
+codeine   30mg  IV Q4H
+docusate (Colace)   100mg  By Mouth BID
+fluticasone-salmeterol (Advair D...   1Puff(s)  Inhalation BID
+gabapentin (Neurontin)   600mg  By Mouth TID
+glipiZIDE (Glucotrol)   5mg  By Mouth WthBrkfst
+hydromorphone   0.5mg  IV Q2H
+insulin regular (HumuLIN R, Novo...   0-12 Units  subQ ACandHS
+lidocaine topical Patch 5% (Lidod...   1Patch  Topically Daily
+metoprolol (Lopressor)   25mg  By Mouth BID
+nystatin   5mL  SwshSwallw QID
+pantoprazole EC   40mg  By Mouth ACBrkfst
+predniSONE   20mg  By Mouth Daily
+REMOVE LIDOCAINE PATCH Patch   1ea  Misc AtBedtime
+risperidone (Risperdal)   0.25mg  By Mouth BID
+sertraline (Zoloft)   200mg  By Mouth QAM
+simvastatin (Zocor)   40mg  By Mouth QPM
+sucralfate (Carafate)   1gm  By Mouth ACandHS
+sulfamethoxazole-trimethopri...   1tab(s)  By Mouth QMndWedFri
+valganciclovir (Valcyte)   450mg  By Mouth Daily
+warfarin (Coumadin)   7.5mg  By Mouth QPM
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol Q2H
+bisacodyl (Dulcolax Laxative)   10mg  Per Rectum As DirCPOE
+clonazepam (Klonopin)   1.5mg  By Mouth BID
+clonazepam (Klonopin)   0.5mg  By Mouth Q8H
+homatropine-hydrocodone (Hycodan 1.5mg-...   5mL  By Mouth Q2H
+senna (Senokot)   2tab(s)  By Mouth BID
+LABS:
+**DATE[Nov 02] 12:02
+Glucose (bedside) 79
+**DATE[Nov 02] 07:43
+Glucose (bedside) 124 H
+**DATE[Nov 02] 02:02
+Anion Gap 7.0 L
+GFR (estimated) eGFR>60
+Na 134 L
+K 3.4 L
+Cl 96
+CO2 31
+BUN 8
+Cr 0.5
+Glucose 89
+Ca 8.1 L
+WBC 13.3 H
+RBC 3.48 L
+Hgb 7.9 L
+Hct 25.1 L
+MCV 72.1 L
+RDW 21.5 C
+Platelets 285
+Neutrophils 88 H
+Lymphs 8 L
+Monocytes 3 L
+Eosinophils 1
+Basophils 0
+Type of Differential Automated Differential
+PT 21.3 H
+INR 1.8 H
+**DATE[Nov 01] 21:19
+Glucose (bedside) 108 H
+**DATE[Nov 01] 15:56
+Glucose (bedside) 148 H
+**DATE[Nov 01] 11:40
+Glucose (bedside) 90
+**DATE[Nov 01] 07:36
+Glucose (bedside) 117 H
+**DATE[Nov 01] 04:00
+Anion Gap 8.0
+GFR (estimated) eGFR>60
+Na 137
+K 3.5
+Cl 100
+CO2 29
+BUN 8
+Cr 0.5
+Glucose 83
+Ca 8.2 L
+Mg 1.8
+Phos 4.0
+WBC 10.2
+RBC 3.48 L
+Hgb 8.2 L
+Hct 24.8 L
+MCV 71.3 L
+RDW 21.8 C
+Platelets 282
+Neutrophils 80 H
+Lymphs 14
+Monocytes 6
+Eosinophils 0
+Basophils 0
+Type of Differential Automated Differential
+PT 21.2 H
+INR 1.8 H
+**DATE[Oct 28] 21:53
+Glucose (bedside) 131 H
+MICROBIOLOGY:
+BLOOD CULTURE 2/24.   Culture: NO GROWTH 5 DAYS  [Final]
+BLOOD CULTURE 2/24.   Culture: NO GROWTH 5 DAYS  [Final]
+GT Prophylaxis:Pantoprazole
+Labs: Reviewed
+- - - - -
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 50s] yo woman with history of CMV pneumonia.  Intractable cough
+- - - - -
+Problem/Diagnosis1: 786.2: COUGH; restrictive lung disease, bronchiectasis; 
+Assessment/Plans: Currently on codeine, hycodin and opioids.  Discussed with her that generally 3 of these medicines are not needed.She is willing to just be on whatever works.  Codeine appears to have worked the best for her.  MAy use uyp to 1.5 mg/kg day.  Could try and use codeine for both its anti-tussive and analgesic (not great med) effects.  Would stop hycodin.  
+Problem/Diagnosis2: pain--chest, abdomen--description is not clearly musculoskeletal;  Assessment/Plans: scheduled tylenol may be helpful. Pt is on coumadin--making NSAIDs more difficult. On neurontin.  would change oxycodone to 5 q4 for 3 days and then stop--if goal is to use codeine for pain.  If wish to see if opioids are really helping her pain, could dose with 1 mg IV dialuddi and see response.  For chronic pain, opioids should opnly be increased or continued iof they provide a subjectiove improvement in pain or function improves.
+Problem/Diagnosis3: depression/behavior;  Assessment/Plans: Psychiatry to see patient to better help.  I am concerned about her behaviours.  Her husband reportedly guards her medications. 
+Problem/Diagnosis4: 564.00: Constipation NOS; in part secondary to opioids; 
+Assessment/Plans: would continue to escalate regimen--start colace 200 bid and seena 2 bid (takes pericolace 1 bid at home)
+- - - - -
+Other: discussed **NAME[UUU] CRNP and psychiatry
+- - - - -
+Please notify me if you would like me to follow the patient.  My advice regarding the following patient is listed above: **NAME[AAA, BBB M]
+- - - - -
+ATTENDING NOTE AND ATTESTATION
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 90;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 50; The counseling/coordination of care generally consisted of: discussion of management with primary team, psychiatry and discussion of symptoms and plan with patient.
+- - - - -
+ATTENDING SIGNATURE: Electronically signed by **NAME[YYY ZZZ], MD (Epic# 18735) at
+16:22; **NAME[ZZZ, YYY] ?; 2177/8511; **DATE[Nov 2 2009]; 16:22
+- - - - -
+VISIT CODE(S): 99254

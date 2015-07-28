@@ -1,0 +1,109 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 03 2009]
+Time: 10:26
+- - - - -
+Physical: Denies any symptoms of shortness of breath or discomfort. Is constipated- passing only gas. Wants to eat scrambled eggs and a sloppy joe.
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 03 2009] 10:27
+VITALS:
+**DATE[Nov 03] 08:12 T:      BP: 84/68 P:110 RR: 18 SaO2: 95 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 03] 04:50 T:      BP: 82/55 P:105 RR: 18 SaO2: 95 FiO2:    Ht:      Wt:     
+**DATE[Nov 02] 21:54 T: 36.5 BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:     
+**DATE[Nov 02] 20:15 T:      BP: 88/60 P:110 RR: 18 SaO2: 93 FiO2:  4 Ht:      Wt:     
+24 Hr Max Temp:36.5
+36 Hr Max Temp:36.5
+- - - - -
+Constitutional: No acute distress
+Eyes: EOMI
+Ears, Nose, Mouth & Throat: Neck supple; Hearing grossly normal
+Respiratory:  Other: Bibasilar crackles.
+Cardiovascular: RRR;  Other: Tachycardic
+Gastrointestinal: Soft;  Other: BS diminished
+Extremities: No edema;  Other:  (attending): No presacral
+Neurologic: Not examined
+Psychiatric: Not examined
+Integumentary/Skin: Not Examined
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+Labs: Reviewed
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M]
+SERVICE:Cardiology
+CODE STATUS:Code Status  -  Limited Therap
+ISOLATION STATUS:MRSA
+ALLERGIES:NKA
+ROUNDING REPORT TIME:**DATE[Nov 03 2009] 10:27
+VITALS:
+**DATE[Nov 03] 08:12 T:      BP: 84/68 P:110 RR: 18 SaO2: 95 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 03] 04:50 T:      BP: 82/55 P:105 RR: 18 SaO2: 95 FiO2:    Ht:      Wt:     
+**DATE[Nov 02] 21:54 T: 36.5 BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:     
+**DATE[Nov 02] 20:15 T:      BP: 88/60 P:110 RR: 18 SaO2: 93 FiO2:  4 Ht:      Wt:     
+24 Hr Max Temp:36.5
+36 Hr Max Temp:36.5
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        360      240      240      840        0        0        0
+OUTPUT:        250      200      300      750        0        0        0
+BALANCE:       110       40      -60       90        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol BID
+aspirin   81mg  By Mouth Daily
+buPROPion   50mg  By Mouth TID
+DOBUTamine 1 gm [5mcg/kg/min] + Base s...   250mL 5.55mL/hr IV
+DOPamine 400mg [5mcg/kg/min] + Base s...   250mL 13.88mL/hr IV
+famotidine   20mg  By Mouth BID
+ferrous sulfate EC   325mg  By Mouth TID
+heparin   5,000Unit(s)  subQ Q8H
+insulin regular (HumuLIN R, NovoLIN...   0-12 Units  subQ Q6H
+levothyroxine   50mcg  By Mouth Daily
+milrinone 20mg [0.6mcg/kg/min] + Base...   100mL 13.32mL/hr IV
+quetiapine (Seroquel)   200mg  By Mouth AtBedtime
+ursodiol   1,000mg  By Mouth BIDmeals
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol Q2H
+alteplase   2mg  ClottCath As DirCPOE
+ondansetron (Zofran)   4mg  IV Q8H
+prochlorperazine (Compazine)   10mg  IV Q6H
+LABS:
+**DATE[Nov 03] 01:33
+Glucose (bedside) 97
+**DATE[Nov 02] 21:08
+Glucose (bedside) 109 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+**DATE[Nov 02] 16:53
+Glucose (bedside) 118 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+**DATE[Nov 02] 12:03
+Glucose (bedside) 127 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+**DATE[Nov 02] 06:24
+Glucose (bedside) 108 H
+**DATE[Nov 01] 21:00
+Glucose (bedside) 121 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+DVT Prophylaxis:Heparin
+GT Prophylaxis:Famotidine
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 40s] yo M with schizophrenia and CHF and sarcoidosis
+- - - - -
+Problem/Diagnosis 1: Goals; Plan: Maintain comfort while we wean off pressors. Family knows that patient is unlikely to leave the hospital alive. I also spoke with **NAME[UUU], CRNP who will try to arrange scrambled eggs and sloppy joe for the patient.
+Problem/Diagnosis 2: SOB; Plan: Asymptomatic, have PRN Dilaudid available at 0.2mg q1h PRN in anticipation of worsenign of symptoms as we attempt to wean
+Problem/Diagnosis 3: Code status; Plan: Clarified to be DNR/DNI with no escalation of care.
+Problem/Diagnosis 4: Constipation; Plan: Add Colace 100mg BID, Senna 2 tabs BID with first dose now. 
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD at
+10:41; **NAME[XXX, WWW] ; 2098; **DATE[Nov 3 2009]; 10:41
+- - - - -
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=f58
+**ID-NUMab0-a17b-519b03fc6b19^URL^IMAGE

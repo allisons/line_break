@@ -1,0 +1,168 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 06 2009]
+Time: 17:14
+- - - - -
+Physical: Patient unresponsive
+- - - - -
+REVIEW OF SYSTEMS:  Modified Edmonton System Assessment Scale (ESAS): This control requires a parameter in the Form Designer tool called 'FormName'. For more information, refer tot he Forms Development Guide. 
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter)
+
+Rounding Report Vitals: VITALS TIME:**DATE[Nov 06 2009] 17:15
+VITALS:
+**DATE[Nov 06] 12:47 T:      BP:126/78 P: 84 RR: 36 SaO2: 97 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 06] 08:26 T:      BP:147/91 P: 91 RR: 40 SaO2: 96 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 06] 05:26 T:      BP:133/65 P: 87 RR: 44 SaO2: 96 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 06] 00:53 T:      BP:118/56 P: 76 RR: 40 SaO2: 98 FiO2:  4 Ht:      Wt:     
+- - - - -
+Constitutional:  Other: In mild to moderate distress
+Eyes: **NAME[VVV];  Other: Eyes closed
+Ears, Nose, Mouth & Throat: Moist mucosa;  Other: Bridled NG tube in situ, new repetitive tongue movements present
+Respiratory:  Other: diffuse rhonchi anteriorly, tachypneic at bedside
+Cardiovascular: RRR
+Gastrointestinal: Soft;  Other: diminished bowel sounds
+Extremities: No edema
+Neurologic:  Other: Mental status obtunded, no withdrawal to painful stimuli
+Psychiatric: Not examined
+Integumentary/Skin: Not Examined
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+Labs: Reviewed; UTI sensitive to Bactrim, Ciprofloxacin, recent c.diff not available, unclear if patient has had a recent bowel movement. Last chest x ray 5 days ago.
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M]
+SERVICE:General Medicine
+CODE STATUS:Code Status  -  Limited Therap
+ISOLATION STATUS:C Diff & VRE
+ALLERGIES:Fosamax
+ROUNDING REPORT TIME:**DATE[Nov 06 2009] 17:15
+VITALS:
+**DATE[Nov 06] 12:47 T:      BP:126/78 P: 84 RR: 36 SaO2: 97 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 06] 08:26 T:      BP:147/91 P: 91 RR: 40 SaO2: 96 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 06] 05:26 T:      BP:133/65 P: 87 RR: 44 SaO2: 96 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 06] 00:53 T:      BP:118/56 P: 76 RR: 40 SaO2: 98 FiO2:  4 Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:       1500     1450     2680     5630        0     1050        0
+OUTPUT:       1200      **PHONE      700        0        0
+BALANCE:       **PHONE     2480     3880     -700     1050        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+aspirin   81mg  Duotube Daily
+cholecalciferol   400IU  By Mouth Daily
+D5 1/2NS 1000 mL 5%   1000mL 100mL/hr IV
+docusate (Colace)   100mg  By Mouth BID
+famotidine (Pepcid)   20mg  IV Q24H
+furosemide   20mg  IV Daily
+heparin   5,000Unit(s)  subQ Q8H
+isosorbide dinitrate   5mg  By Mouth BID
+levetiracetam (Keppra)   500mg  By Mouth BID
+levothyroxine (Synthroid)   75mcg  By Mouth QAM
+lisinopril   2.5mg  By Mouth Daily
+metoprolol   100mg  By Mouth BID
+metronidazole (Flagyl)   500mg  IV Q6H
+multivitamin   5mL  Duotube Daily
+niacin   250mg  By Mouth BIDmeals
+phenytoin (Dilantin injection)   100mg  IV Q8H
+senna   10mL  By Mouth AtBedtime
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q4H
+acetaminophen   650mg  Per Rectum Q4H
+albuterol 0.083% (albuterol 0.083% inh...   2.5mg  Aerosol Q4H
+calcium carbonate (Tums)   500mg  By Mouth QID
+glycopyrrolate (Robinul)   0.2mg  IV Q4H
+hydrALAZINE (Apresoline)   10mg  IV Q10Min
+labetalol   10mg  IV Q10Min
+nitroglycerin   0.4mg  Sublingual Q5Min
+ondansetron (Zofran)   4mg  IV Q6H
+LABS:
+**DATE[Nov 06] 04:45
+Anion Gap 9.0
+GFR (estimated) eGFR>60
+Phenytoin (adjusted) 15.48
+Na 142
+K 3.3 L
+Cl 104
+CO2 29
+BUN 19
+Cr 0.9
+Glucose 155 H
+Ca 7.5 L
+Mg 2.1
+Phos 3.1
+WBC 10.8 H
+RBC 3.44 L
+Hgb 10.5 L
+Hct 30.8 L
+MCV 89.3
+RDW 16.9 H
+Platelets 114 L
+Neutrophils 90 H
+Lymphs 4 L
+Monocytes 6
+Eosinophils 0
+Basophils 0
+Type of Differential Automated Differential
+PT 18.6 H
+INR 1.5 H
+PTT 38.6 H
+Phenytoin 9.6 L
+Phenytoin, Bound 8.5
+Phenytoin, % Bound 89
+Phenytoin, Free 1.1
+Phenytoin, % Free 11
+**DATE[Nov 05] 05:00
+Anion Gap 8.0
+GFR (estimated) eGFR>60
+Na 143
+K 3.7
+Cl 104
+CO2 31
+BUN 19
+Cr 1.1
+Glucose 169 H
+Ca 7.6 L
+Mg 2.3
+Phos 2.3 L
+WBC 8.8
+RBC 3.62 L
+Hgb 11.1 L
+Hct 32.5 L
+MCV 89.7
+RDW 16.3 H
+Platelets 124 L
+Neutrophils 85 H
+Lymphs 6 L
+Monocytes 8
+Eosinophils 1
+Basophils 0
+Type of Differential Automated Differential
+PT 18.2 H
+INR 1.5 H
+PTT 36.4 H
+**DATE[Nov 02] 03:40
+25-Hydroxyvitamin D 19
+MICROBIOLOGY:
+URINE CULTURE **DATE[Nov 03].   Culture: > 100,000 col/mL ENTEROCOCCUS FAECIUM; 50000 Col/ mL ESCHERICHIA COLI Not an ESBL producer. Treat according to reported susceptibility.; (Sensi's Available in PowerChart)  [Final]
+DVT Prophylaxis:Heparin
+GT Prophylaxis:Famotidine
+ASSESSMENT AND PLAN
+Assessment: patient with new mental obtundation after a SAH and respiratory arrest. Family do not want to rush to stop aggressive therapy and end up shortening his life and not give him any quality of life.
+- - - - -
+Problem/Diagnosis 1: Upper airway secretions; Plan: continues to be on PRN robinul, currently not an issue
+Problem/Diagnosis 2: Mental Status change; Plan: Mental status has so far not recovered from respiratory arrest last week, seizure activity detected and controlled but antiseizure medications. Discussed case with Neurology who feel that patient is in an interictal state and would benefit from  address of metabolic issues that would impact his mental status including UTI, ?ongoing aspiration, also shows increase in WBC count today.
+Problem/Diagnosis 3: Goals of care; Plan: Family wanting to get a PEG tube if the NG tube is likely to be needed. They would also like Neurology to address the issue about CEA for the Carotid artery stenosis- I discussed with Neurology who feel that it would be a decision to be made in 4-5 weeks from now.  
+- - - - -
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 35;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 25; The counseling/coordination of care generally consisted of: goals of care, coordination about family concerns
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD at 17:39; **NAME[XXX, WWW] ; 2098/8511; **DATE[Nov 6 2009]; 17:39
+- - - - -
+
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=cdea5f3d-f210-420f-be7f-ccb81507cbb2^URL^IMAGE

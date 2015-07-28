@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060717HP-ke4ffuH0Q293-489-447788629</checksum>
+<subtype>CONSULT</subtype>
+<type>HP</type>
+<chief_complaint>INFECTION</chief_complaint>
+<admit_diagnosis>719.46</admit_diagnosis>
+<discharge_diagnosis>996.66,711.06,496,585.9,998.12,730.25,041.11,V09.0,996.41,327.23,403.90,533.90,280.9,272.0,564.00,V43.65,V12.51,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+**INSTITUTION
+Consultation
+Name: **NAME[AAA, BBB]
+Acct #: **ID-NUM
+MRN: **ID-NUM
+Admitted: **DATE[Jul 16 2007]
+Date: **DATE[Jul 17 2006]
+Dict: **NAME[XXX, WWW]
+Attend: **NAME[ZZZ, YYY]
+Gastroenterology Consultation Note
+I was asked to see this **AGE[in 60s]-year-old gentleman admitted with a right knee joint infection.  I had followed him during his previous **INSTITUTION stay between **DATE[Dec 21 2006], and **DATE[Feb 1 2007].  He was originally transferred from **INSTITUTION with a septic right knee and major upper GI bleeding.  He had a number of endoscopies which demonstrated very large gastric ulcers that were bleeding.  He required a total of 32 units of packed red blood cell transfusions during that hospitalization (I just called the blood bank and had them total it up.).  At the time of discharge from that admission, he was taking Protonix twice a day.  I subsequently performed an upper endoscopy on **DATE[Mar 26 2007], and noted that all his ulcers had healed, and his biopsies for H. pylori were negative.  I asked him to continue taking Protonix 40 mg a day after that point.  He has had no recent upper abdominal pain, nausea or vomiting, black bowel movements or melena.  He does not take nonsteroidal anti-inflammatory medications.  
+PAST MEDICAL HISTORY:  Includes IVC filter placed in **DATE[Dec 2006], because of suspicion of deep venous thrombosis, respiratory failure during his **DATE[Dec] hospitalization, chronic obstructive pulmonary disease, obstructive sleep apnea, prerenal azotemia, and hemorrhagic shock during his **DATE[Dec] hospital stay.
+REVIEW OF SYSTEMS:  Otherwise negative.
+CURRENT MEDICATIONS:  Include:
+1.  Zyrtec.
+2.  Lasix.
+3.  Protonix 40 mg IV.
+4.  Vancomycin IV.
+5.  Potassium.
+SOCIAL HISTORY:  He lives alone in **PLACE, PA.  He does not smoke cigarettes.  He occasionally smokes a cigar.  He drinks occasional wine.  He retired in 1978 as the superintendent of a mine for a coal company.
+PHYSICAL EXAMINATION:  He was a healthy-appearing older gentleman, with a blood pressure of 110/60.  Pulse 84.  Temperature 35.8 degrees.  Respiratory rate 18.  O2 saturation 96%.  His HEENT examination was normal.  His neck was normal.  Lungs were clear.  Heart sounds normal.  Abdomen revealed no mass, tenderness, or organomegaly.  Extremities:  His right knee was quite swollen with a surgical scar and discolored skin.  Left leg was normal.  
+LABORATORY DATA:  His hemoglobin is 10 g/dL.  Hematocrit 29.7%.  MCV 85.  
+White count 10,000.  Platelets 577,000.  His urinalysis showed greater than 20 red cells per high-power field, 3+ bacteria, 11-20 hyaline casts, 1-5 white cells.  His BUN 26, creatinine 1.2.  Liver blood tests are normal with an alkaline phosphatase of 170.  His total protein is 9.1.  Albumin 4.4.  His protime INR was 3.0.  PTT 42.  Sedimentation rate 104.  Note that he was taking Coumadin prior to admission, as well as the other listed medications.  
+ASSESSMENT:  My assessment is that he has had a history of peptic ulcer disease with major upper gastrointestinal bleeding during his summer 2006, bleeding admission.  Ulcers have resolved on a followup endoscopy.  For the moment, I would continue him on Protonix.  We will increase it twice a day by mouth, since it is probably more effective doing it that way than IV.  He is anemic, and this is probably anemia of chronic disease, but we will check his iron, total iron binding capacity, ferritin level, and stool guaiacs.  
+I will be happy to follow him with you.  Thank you for the opportunity to participate in his care.
+______________________________
+**NAME[WWW M XXX], MD
+HS Job # 782540 / 42037 / 29323
+SHY # **ID-NUM
+D: **DATE[Jul 17 2007] 16:26
+T: **DATE[Jul 17 2007] 17:04
+
+**CARBON-COPY
+
+
+</report_text>
+</report>

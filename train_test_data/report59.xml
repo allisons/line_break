@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060603HP-1xP/nJjDG8ZP-832-1440898916</checksum>
+<subtype>CONSULT</subtype>
+<type>HP</type>
+<chief_complaint>RIGHT LOWER LOBE PNEUMONIA</chief_complaint>
+<admit_diagnosis>786.2</admit_diagnosis>
+<discharge_diagnosis>486,428.0,404.93,585.6,427.31,790.5,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+REASON FOR CONSULTATION:  Elevated troponin.
+
+HISTORY OF PRESENT ILLNESS:  The patient was admitted through the emergency room because of complaints of a persistent fever, cough, and expectoration, which was going on for four or five days.  The patient specifically denies any complaints of chest pain, shortness of breath, palpitations, or lightheadedness.  The patient has a recent history of complication with a dialysis catheter and a right pleural effusion.  He had a thoracentesis done at that time.  He denies a previous history of smoking. 
+
+PAST MEDICAL HISTORY:  Review of past medical problems includes:
+
+
+1.  Hypertension.
+2.  Congestive heart failure on echo done recently with an ejection fraction of 55%.  It also showed the patient has an atrioseptal defect, tricuspid regurgitation, and mitral regurgitation.
+3.  Renal failure.  The patient is on hemodialysis.
+4.  Atrial fibrillation, along with a right bundle branch block with a left anterior hemiblock.  Rate controlled on Coumadin.  
+5.  Left AV fistula.
+6.  Questionable history of ischemic heart disease and status post catheterization in 2006.  On repeated inquiry, the patient denies having any heart problem.  I called the catheterization lab, and they did not have any documentation of cardiac catheterization on him.  On repeat questioning, he said that Dr. **NAME[VVV] did some procedure in the femoral area, so I am presuming probably it was not a cardiac catheterization.  It may have been a temporary access for dialysis.  
+
+CURRENT MEDICATIONS:  
+1.  Avapro 300 mg daily.
+2.  Lasix 80 daily.
+3.  Toprol XL 200 mg daily.
+4.  Accupril 10 daily.
+5.  Coumadin 4 mg daily.
+6.  Cardura 8 mg daily.
+
+The patient is on injections of Zosyn and Cipro and was given 1 g of vancomycin.
+
+REVIEW OF SYSTEMS:  Negative for any vision problem, current headache, or any chest pain or shortness of breath, though he had a cough with expectoration and fever.  No nausea, vomiting, or diarrhea.  The patient has a previous history of leg swelling with edema, but that resolved since he has been on dialysis.  No previous history of seizures or stroke.
+
+PHYSICAL EXAMINATION:  The patient's blood pressure is 121/61, temperature 99, pulse 70 per minute, respirations 16.  Precordial examination:  S1 with a systolic murmur.  The patient's S2 apparently is loud.  No jugular venous distention.  No leg edema, though the patient has chronic venous changes.  Chest bilaterally vesicular with decreased air entry in the right base with some crepitations.  There is a dull note on percussion.  GI:  Soft.  He has mild tenderness in the right hypochondrium.  He has hepatomegaly 3 fingers below the costal margin with a smooth surface.  Bowel sounds are positive.  
+No splenomegaly.  No free fluid.  Extremities:  Chronic changes and edema, as mentioned above.  
+
+LABORATORY DATA:  X-ray official report revealed the patient's cardiac size is within normal limits.  There is fluid and an infiltrate at the right lower lobe and degenerative changes of the shoulder joints noted.  This patient's EKG is consistent with atrial fibrillation with a right bundle branch block with a left anterior hemiblock.  The ventricular rate is 73 beats per minute. 
+
+
+Review of echo, which was done on **DATE[Mar 2 2007], shows:
+
+
+1.  Concentric left ventricular hypertrophy without cavity dilatation and an estimated ejection fraction of around 50% to 55%.
+2.  Mitral regurgitation.
+3.  Tricuspid regurgitation.
+4.  Atrioseptal defect with a dilated left atrium and a left-to-right shunting.  
+
+Review of lab data shows the sodium is 130, potassium 3.8, chloride 97, CO2 
+27, BUN 51, creatinine 1.5, glucose 134, calcium 8.8, albumin 2.9, ALT 22, 
+AST 20.  WBC 9.4, hemoglobin 13.1, hematocrit 39.2, platelets 204.  Troponin first set 0.07.  Troponin second set is 0.19.  Stab count is 3%.  
+
+ASSESSMENT/PLAN:  
+1.  Elevated troponin in the setting of absent chest pain and a previous history of ischemic heart disease, now presenting with features consistent with pneumonia and x-ray consistent with a fluid overload and pneumonia.  This possibly is troponin leak syndrome.  
+2.  Hypertension.  The patient is being maintained on ARB with an ACE inhibitor, Cardura, and beta-blockers.
+3.  Pneumonia, on antibiotics.
+4.  Renal failure, on hemodialysis.
+5.  Atrial fibrillation, rate controlled with beta-blocker and anticoagulation with Coumadin.
+
+We will continue this patient on Coumadin.  We will check a PT/INR today and give him the next dose of Coumadin.  At home, the patient gets 4 mg of Coumadin daily.  I will discuss with the attending and give further recommendations.
+
+
+______________________________
+**NAME[WWW XXX], M.D.
+
+HS Job # 460006 / 35282 / 
+# **ID-NUM
+D: **DATE[Jun 03 2007] 08:56
+T: **DATE[Jun 03 2007] 09:10
+
+
+
+
+</report_text>
+</report>

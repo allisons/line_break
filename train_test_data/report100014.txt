@@ -1,0 +1,129 @@
+[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION PALLIATIVE CARE PROGRESS NOTE
+- - - - -
+DATE: **DATE[Nov 02 2009]
+Time: 15:18
+- - - - -
+Physical: sleeping
+- - - - -
+GENERAL EXAM (Select "not examined" for any organ system not examined because such examination is not medically necessary for this encounter) Rounding Report Vitals: VITALS TIME:**DATE[Nov 02 2009] 15:18
+VITALS:
+**DATE[Nov 02] 14:39 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  142
+**DATE[Nov 02] 12:00 T:      BP: 84/60 P:113 RR: 18 SaO2: 95 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 02] 08:45 T:      BP: 88/64 P:108 RR: 18 SaO2:100 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 02] 06:11 T:      BP: 88/64 P:110 RR: 20 SaO2: 97 FiO2:  4 Ht:      Wt:     
+METRIC: Weight: 142
+- - - - -
+Constitutional:  Other: Full exam deferred.  Patient sleeping comfortably
+Eyes: Not Examined
+Ears, Nose, Mouth & Throat: Not examined
+Respiratory: Not examined
+Cardiovascular: Not examined
+Gastrointestinal: Not examined
+Extremities: Not examined
+Neurologic: Not examined
+Psychiatric: Not examined
+Integumentary/Skin: Not Examined
+Musculoskeletal: Not examined
+Genitourinary: Not examined
+Rectal/Pelvic: Not examined
+Breasts: Not examined
+Hematologic, Lymphatic & Immunologic: Not examined
+- - - - -
+Labs: Reviewed
+- - - - -
+ROUNDING REPORT: ATTENDING:**NAME[ZZZ, YYY M]
+SERVICE:Cardiology
+CODE STATUS:Code Status  -  Limited Therap
+ISOLATION STATUS:MRSA
+ALLERGIES:NKA
+ROUNDING REPORT TIME:**DATE[Nov 02 2009] 15:18
+VITALS:
+**DATE[Nov 02] 14:39 T:      BP:       P:    RR:    SaO2:    FiO2:    Ht:      Wt:  142
+**DATE[Nov 02] 12:00 T:      BP: 84/60 P:113 RR: 18 SaO2: 95 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 02] 08:45 T:      BP: 88/64 P:108 RR: 18 SaO2:100 FiO2:  4 Ht:      Wt:     
+**DATE[Nov 02] 06:11 T:      BP: 88/64 P:110 RR: 20 SaO2: 97 FiO2:  4 Ht:      Wt:     
+IO:        (7a-3p) (3p-12a) (12a-7a)    Total  (7a-3p) (3p-12a) (12a-7a)
+INTAKE:        240      922      262     1424        0        0        0
+OUTPUT:        425      250      300      975        0        0        0
+BALANCE:      -185      672      -38      449        0        0        0
+MEDICATIONS:
+ACTIVE INPATIENT MEDICATION ORDERS
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol TID
+aspirin   81mg  By Mouth Daily
+buPROPion   50mg  By Mouth TID
+DOBUTamine 1 gm [5mcg/kg/min] + Base s...   250mL 5.55mL/hr IV
+DOPamine 400mg [5mcg/kg/min] + Base s...   250mL 13.88mL/hr IV
+famotidine   20mg  By Mouth BID
+ferrous sulfate EC   325mg  By Mouth TID
+heparin   5,000Unit(s)  subQ Q8H
+insulin regular (HumuLIN R, NovoLIN...   0-12 Units  subQ Q6H
+levothyroxine   50mcg  By Mouth Daily
+milrinone 20mg [0.6mcg/kg/min] + Base...   100mL 13.32mL/hr IV
+quetiapine (Seroquel)   200mg  By Mouth AtBedtime
+ursodiol   1,000mg  By Mouth BIDmeals
+ACTIVE INPATIENT PRN MED ORDERS
+acetaminophen   650mg  By Mouth Q6H
+albuterol-ipratropium (DuoNeb 3 mg-0.5 m...   3mL  Aerosol Q2H
+alteplase   2mg  ClottCath As DirCPOE
+ondansetron (Zofran)   4mg  IV Q8H
+prochlorperazine (Compazine)   10mg  IV Q6H
+LABS:
+**DATE[Nov 02] 12:03
+Glucose (bedside) 127 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+**DATE[Nov 02] 06:24
+Glucose (bedside) 108 H
+**DATE[Nov 01] 21:00
+Glucose (bedside) 121 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+**DATE[Nov 01] 17:35
+Glucose (bedside) 130 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+**DATE[Nov 01] 11:43
+Glucose (bedside) 130 H
+Glu(Bedside Test) Meter **NAME[VVV]. RN Notified
+**DATE[Nov 01] 04:26
+Glucose (bedside) 110 H
+**DATE[Nov 01] 03:00
+Anion Gap 11.0
+GFR (estimated) eGFR
+Na 123 C
+K 4.6
+Cl 84 L
+CO2 28
+BUN 86 H
+Cr 2.7 H
+Glucose 96
+Ca 8.8
+Mg 2.5 H
+WBC 6.3
+RBC 3.58 L
+Hgb 9.2 L
+Hct 28.2 L
+MCV 78.7 L
+RDW 17.5 H
+Platelets 183
+TSH 1.905
+MICROBIOLOGY:
+VRE SCREEN(Rectal Swab)  6/29.   Culture: No Vancomycin Resistant Enterococcus isolated  [Final]
+DVT Prophylaxis:Heparin
+GT Prophylaxis:Famotidine
+ASSESSMENT AND PLAN
+Assessment: **AGE[in 40s] yo M with schizophrenia and CHF and sarcoidosis
+- - - - -
+Problem/Diagnosis 1: Goals; Plan: Family meeting **DATE[Nov 2 2009]  with primary team and palliative care.  Patient is dependent on 3 pressors at this point and weaning was unsuccesful.  Pt is not a candidate for VAD or heart transplant.  Decision made to continue medical management here with further attempts to wean pressors as tolerated.  We will not use bipap and will turn off ICD.  Anticipate that patient will die in the hospital.  Unfortunately, there are no other options at this point and his heart will fail at some point.  His creatnine is also worsening.  Palliative Care will follow to ensure comfort and family will call everyone who needs to come in.
+Problem/Diagnosis 2: SOB; Plan: No current sob.  
+-start dilaudid 0.2 mg IV q15min prn
+-do not use bipap
+Problem/Diagnosis 3: Code status; Plan: DNR/DNI, no bipap.  Continue pressors/inotropes for now.
+Problem/Diagnosis 4: Family support; Plan: support provided by our team including our social worker.
+- - - - -
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I spent rendering this evaluation and management service: 45;  of this time, the number of minutes that were spent on counseling and/or coordination of care was: 40; The counseling/coordination of care generally consisted of: goals of care and sob control
+- - - - -
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD at 15:28; **NAME[XXX, WWW] ; 8511/14917; **DATE[Nov 2 2009]; 15:28
+- - - - -
+
+https://salarcp:**EMAIL/cerner/get_pdf.php?rowguid=6533cbdc-6835-469d-8e16-3025e012a8d8^URL^IMAGE

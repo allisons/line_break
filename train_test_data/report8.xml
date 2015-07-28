@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060206ER-rI7/RppGzuIg-848-483419081</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>CHEST PAIN</chief_complaint>
+<admit_diagnosis>786.50</admit_diagnosis>
+<discharge_diagnosis>786.59,530.81,401.9,987.9,E891.2,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM 
+DATE OF SERVICE:  **DATE[Feb 06 06] 
+PRIMARY CARE PHYSICIAN: A  N
+CHIEF COMPLAINT:  Chest pain.
+HISTORY OF PRESENT ILLNESS:  This is a very pleasant **AGE[in 40s]-year-old gentleman who presents with chest pain and lightheadedness.  He is a city firefighter.  He was fighting a fire last night.  Reports having no problems at that time, but shortly afterwards developed chest pain.  He states that it was intermittent lasting several minutes at a time.  He states that he was talking with his commander when he developed some chest pain with a little bit of dizziness.  He reports no palpitations.  Chest pain was substernal.  No radiation, no nausea or vomiting.  He does have a history of reflux and this is completely different.  The patient was seen by EMS, had oxygen and Nitroglycerin which relieved his symptoms.  He has been asymptomatic since.   
+REVIEW OF SYSTEMS:  As above.  Otherwise negative.
+PAST MEDICAL HISTORY: Abdominal surgery.
+MEDICATIONS:  No medications.
+ALLERGIES:  No allergies.
+SOCIAL HISTORY:  No tobacco or alcohol abuse.
+FAMILY HISTORY:  Positive for hypertension, negative for premature cardiac disease. 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Vital signs were normal.  He is afebrile.
+GENERAL:  Well-developed male in no acute distress.
+HEAD:  Head is atraumatic.
+NECK:  Supple.
+CHEST:  Clear.
+CARDIAC:  Normal heart tones.
+ABDOMEN:  Obese.
+NEUROLOGIC:  Nonfocal.  Limited examination.
+IMPRESSION:  Concern about possible carbon monoxide exposure or cardiac ischemia.  The patient was asymptomatic here.  He has been treated with aspirin already.  Here, we are giving him Lopressor, topical Nitroglycerin and oxygen.  On re-evaluation, he has remained asymptomatic.   
+EKG INTERPRETATION:  EKG shows sinus rhythm with a rate of 87 beats per minute, PR interval of 156 milliseconds, QRS duration of 104 milliseconds, 
+QTC of 464 milliseconds.  The patient has left axis deviation but no evidence of acute ischemia.  Impression is abnormal EKG not suggestive of acute infarction.  
+PLAN/FOLLOW-UP:  At this point, the patient's laboratory data are pending.  
+The plan is to have him admitted for serial enzymes and to rule out for cardiac ischemia.  If his carbon monoxide level is elevated, we will re-valuate and discussion hyperbaric oxygen which he may need seeing as he has concern for end-organ damage.  If his carbon monoxide level is less than 6%, we will just proceed with normal care and rule out with serial enzymes. 
+IMPRESSION:  
+1. Chest pain, rule out cardiac ischemia.
+2. Possible carbon monoxide exposure.
+ 
+___________________________________
+**NAME[WWW M. XXX], M.D.
+Department of Emergency Medicine
+Toxicology Treatment Program
+Dictator:  **NAME[WWW M. XXX], M.D.
+DEB/tm
+D:  **DATE[Feb 06 2007] 06:52:28
+T:  **DATE[Feb 06 2007] 07:04:50
+R:  **DATE[Feb 06 2007] 07:04:50/tm
+Job ID:  334787/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[XXX, VVV M]. ***
+Electronically Signed by **NAME[WWW XXX]  **DATE[Feb 09 2007] 09:20:53 AM
+ 
+
+
+
+</report_text>
+</report>

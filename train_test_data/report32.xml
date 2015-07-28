@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060402ER-hHGK4TrnhB0C-848-2129334575</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>CHEST PAINX3D</chief_complaint>
+<admit_diagnosis>848.9</admit_diagnosis>
+<discharge_diagnosis>466.0,786.52,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Apr 02 06]
+PRIMARY CARE PHYSICIAN: **NAME[TTT SSS RRR]
+CHIEF COMPLAINT: 
+Chest pain and cough expectoration.
+HISTORY OF PRESENT ILLNESS:  
+This is a **AGE[in 40s]-year-old lady with a past medical history of hypercoagulable state and multiple pulmonary embolisms, chronically on Coumadin, who presented to the hospital with left-sided chest pain.  As per the patient, her pain began two years back.  It is pleuritic in nature.  The pain is an 8/10 in intensity.  It is persistent in timing.  It is exacerbated by taking a deep breath or coughing, and there are no relieving factors.  The pain does not radiate to the arms or the jaw.  The pain is not associated with perspiration or nausea.  She also is giving a history of having a cough with yellowish to greenish-colored expectoration.  The expectoration is minimal in amount.  She has not seen blood in the expectorant.  She denies any fevers or chills.  She denies any sick contacts.   
+REVIEW OF SYSTEMS: 
+She denies any nausea, vomiting, constipation or diarrhea.  She denies any abdominal pain.  She denies any swelling of her extremities.  She denies any bleeding from any other site of the body.   
+PAST MEDICAL HISTORY:   
+1 Factor V Leiden mutation.
+2 Hypercoagulable.
+3 Pulmonary embolism three times.
+4 History of _______________.
+5 Chronic low back pain.
+ALLERGIES: 
+MORPHINE WHICH GIVES HER HIVES.  
+MEDICATIONS: 
+She is on Coumadin 5 mg q.p.m. for the last two days.  Before that, she was taking 7.5 mg.  She has been managing her Coumadin herself.  Because of lack of insurance, she is not able to go to the **INSTITUTION.   
+SOCIAL HISTORY: 
+She has been a smoker in the past but apparently has decreased that recently. 
+ She denies alcohol, drugs or tattoos.  She is currently separated. 
+FAMILY HISTORY: 
+Her mother had bladder cancer.  Her mother also had coronary artery disease and diabetes.  Her father had lung cancer. 
+PHYSICAL EXAM:  
+General:  The patient is comfortable in the bed.  She does not look in any acute cardiopulmonary distress. 
+Vital Signs:  Afebrile.  Pulse is 80 and regular, and blood pressure is 120/84.  100% on room air.  Respiratory rate is 16. 
+HEENT:  PERRL.  EOMI.  No jugular venous distention or cervical lymphadenopathy.   
+Chest:  Clear to auscultation bilaterally.
+Cardiovascular System:  S1 and S2 normal.  No rubs, gallops or murmurs.
+Abdomen:  Soft, nontender, and nondistended.  Bowel sounds are present and are normal.   
+Lower Extremities:  No swelling, no erythema, no clubbing, no cyanosis, no edema.  ___________ test is negative.   
+Neurologic:  Neurologic examination is nonfocal.  
+Musculoskeletal:  She does not have tenderness over the ribs.  No musculoskeletal abnormalities seen.   
+ED COURSE:  
+This is a **AGE[in 40s]-year-old patient with a history of multiple pulmonary embolisms due to hypercoagulable state because of Factor V Leiden mutation.  This was diagnosed apparently in 2000 following an episode of pulmonary embolism.  She has been on Coumadin on and off.  She is known to have a history of being noncompliant with Coumadin.  In the ED, she was hemodynamically stable, but given the fact that she has issues with compliance, we were concerned about the possibility of a pulmonary embolism because of under-anticoagulation.  We checked her INR and it was 1.1.  We obtained a CT scan of the chest with IV dye using the PE protocol.  The scan was adequate and did not show any evidence of pulmonary embolism.   
+I discussed the clinical picture of the patient with Dr. **NAME[TTT RRR] who has seen the patient in the past with the resident.  Dr. **NAME[RRR] apparently knows the patient very well and tells me that the patient has had multiple scans in the last few years where the preliminary read was that the patient might have a pulmonary embolism, and she had been diagnosed with Factor V Leiden mutation at a different hospital.  She did have her Factor V Leiden mutation checked in our hospital recently, and it was normal.  She was homozygous for the mutation.  As per Dr. **NAME[RRR]'s opinion, the patient does not have Factor V Leiden mutation, and all of her CT scans that have been done in the **INSTITUTION system have been negative for pulmonary embolism.  She did tell me that the Medicine Team was planning to take her off her anticoagulation and repeat the whole battery of hypercoagulable state.  She does have an appointment with Dr. **NAME[QQQ PPP] on **DATE[Apr 03] at 3:20 p.m.  Dr. **NAME[RRR] was comfortable with us sending the patient home if we did not think that the patient was in any sort of hemodynamic compromise.  She was planning to repeat the whole battery tomorrow when the patient is in the clinic.   
+I discussed the case, and in my discussion with Dr. **NAME[ZZZ], who was the supervising attending, he agreed with the patient going home.  The patient did not have any fevers.  She is not tachypneic.  She is not having tachycardia.  Her chest pain started after she started having a cough.  Her x-ray did not show any infiltrates or any pneumothorax.  She had a CT scan on which there was no airspace disease.   
+The patient will be discharged on ibuprofen 400 mg q. 6 hours for pain control and will be given five Vicodin to be used for the breakthrough pain.  She has also been given Robitussin-CF to be used three times a day to help with the congestion.  She has been advised to follow up with Dr. **NAME[RRR] and Dr. **NAME[PPP] tomorrow at 3:20 p.m. in the Department of Medicine.  The patient did understand all of this and was very cooperative.  She was advised that if she has further chest pain which is not getting better, if she has increasing shortness of breath or if she is having fevers with chills, she should come back to the ED or call an ambulance.   
+This cased was supervised by Dr. **NAME[ZZZ], and he was in agreement with the plan. 
+___________________________________
+**NAME[YYY M. ZZZ], OOO]., M.D.
+ 
+Dictator:  **NAME[WWW XXX], M.D.
+AR/mr
+D:  **DATE[Apr 02 2007] 17:36:21
+T:  **DATE[Apr 02 2007] 17:48:05
+R:  **DATE[Apr 02 2007] 17:48:05/mr
+Job ID:  329343/**ID-NUM
+ 
+*** Dictated By: -**NAME[XXX, NNN] ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Apr 04 2007] 07:01:33 PM
+ 
+
+
+
+</report_text>
+</report>

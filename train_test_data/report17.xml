@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060302ER-X8fVFacJEpLn-848-371827271</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>HEADACHE</chief_complaint>
+<admit_diagnosis>346.20</admit_diagnosis>
+<discharge_diagnosis>784.0,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Mar 02 06]
+PRIMARY CARE PHYSICIAN: **NAME[WWW M XXX]
+HISTORY OF PRESENT ILLNESS:  
+This patient was seen and evaluated by myself.  After reviewing the history, physical examination and medical decision making with the resident physician, 
+Dr. **NAME[TTT SSS], as documented separately by him.  The nurses notes were reviewed as well. 
+The patient is a **AGE[in 40s]-year-old male with no significant past medical history, who presents for reassessment of persistent headache.  The patient states that approximately four weeks ago he had onset of headache, which was initially somewhat sharp and then became a constant, throbbing, aching pain in his right occipital region posteriorly in the base of his head.  He took some Motrin and that somewhat alleviated it.  He then had subsequently re-exacerbation of her it.  He was evaluated by his PCP and had CT scan with and without contrast, which was normal and he was seen in the Emergency Department as well.  The patient is currently awaiting evaluation by neurologist on **DATE[Mar 15].  He is concerned that he cannot wait that long.  
+He states that he is not in excruciating pain but significant enough to be bothersome to him. It is now somewhat throbbing pain and at time aching pain and it is fairly localized in the right occipital region.  He does note any specific pain in his neck, but he has noted some pain with certain movements in his right shoulder particularly with forward flexion of his shoulder and felt that his arm was somewhat sore and weak when he was attempting to bowl two days ago.  He has not noted any frank weakness in his grip or in the use of his arm other than with that particular motion.  He denied any recent trauma.  He has had no fever or chills.  He has had no upper respiratory symptoms.  He has had no pain with neck movement.  He denies nausea, vomiting, light-headedness or dizziness.  He has no difficulty with his gait. 
+REVIEW OF SYSTEMS:    
+The rest of the review of systems were negative.
+PAST MEDICAL HISTORY:   
+PAST MEDICAL HISTORY, MEDICATIONS, ALLERGIES, AND SOCIAL HISTORY:  As per the resident's dictation. 
+PHYSICAL EXAM:  
+The patient is a well-nourished, well-developed pleasant male in minimal discomfort.   
+Vital Signs:  Pulse 84, respirations 14, blood pressure 120/88.  
+HEENT exam was normocephalic and atraumatic.  There was no significant scalp tenderness.  His oropharynx is clear and moist.  Sclerae and conjunctivae are clear.  Tympanic membranes are clear.  Mastoid area was nontender without erythema.  External auditory canal appeared clear.  There was no significant focal neck tenderness or limitation of neck movement.  He did have certain discomfort when moving his shoulder and certain motion such as anterior flexion.   
+In testing muscle function and sensation in the distal right upper extremity there was no focal weakness.  He had no respiratory distress.  Motor and sensory function in the lower extremities was normal and gait was normal. 
+ED COURSE:  
+Our impression is that this patient has persistent headache now for approximately one month.  He has no significant associated neurologic symptoms other than the potential pain and weakness with certain movements of his right upper extremity.  These are not of acute onset.   
+It was felt that the patient's pain is potentially from cervical spinal cord nerve root impingement or stenosis.  We discussed the situation with the patient.  He is agreeable to plan to obtain outpatient MRI of the cervical spine and brain and to follow up with a primary care physician once this test is done within the next few days for appropriate referral and management.  
+The patient was advised of signs and symptoms for which to return to ED. 
+DISCHARGE DIAGNOSIS(ES):  
+EXACERBATION OF SUBACUTE HEADACHE.
+ 
+___________________________________
+**NAME[YYY M. ZZZ], RRR]., M.D.  
+ 
+Dictator:  **NAME[YYY M. ZZZ] RRR]., M.D.
+**INITIALS
+D:  **DATE[Mar 02 2007] 21:44:11
+T:  **DATE[Mar 02 2007] 21:52:59
+R:  **DATE[Mar 02 2007] 21:52:59/drl
+Job ID:  329584/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[ZZZ] Jr., M.D.-Vincent N. ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Mar 04 2007] 07:31:00 PM
+ 
+
+
+
+</report_text>
+</report>

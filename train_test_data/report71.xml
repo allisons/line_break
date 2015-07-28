@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060701ER-zzW6qpVGksgf-848-454441680</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>LOWER BACK PAIN</chief_complaint>
+<admit_diagnosis>729.1</admit_diagnosis>
+<discharge_diagnosis>724.2,E927,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Jul 01 06]
+PRIMARY CARE PHYSICIAN: **NAME[TTT M UUU]
+The patient was seen in conjunction with Dr. **NAME[SSS].  I agree with his history and physical findings except as dictated here.   
+CHIEF COMPLAINT: 
+Chief complaint is back pain. 
+HISTORY OF PRESENT ILLNESS:  
+Mr. **NAME[AAA] is a **AGE[in 30s]-year-old white male who injured his back several weeks ago.  I personally saw him and treated him at that time and gave him a prescription for Percocet.  This pain was progressively getting better; however, he attempted to lift something today and had the acute onset of worsening low back pain.  He describes this pain as low back pain, nonradiating, dull, achy in nature.  His Percocet has been helping but he no longer has any more.  He has not followed up with a back specialist as I had previously instructed him to and will do so immediately after the holidays.  Otherwise he denies any bowel or bladder incontinence and no neurologic complaints. 
+REVIEW OF SYSTEMS:  
+Review of systems is as per HPI; otherwise negative.  
+PAST MEDICAL HISTORY:  
+Past medical history is none.
+Medications:  None.
+ALLERGIES:  NONE.
+Social history:  Smoked two packs of cigarettes a day;  denies illicit drug use.  
+Family history:  Noncontributory.
+PHYSICAL EXAM:  
+General:  In no acute distress.  
+Vital signs:  Temperature 36.9, pulse 90, respiratory rate 16, blood pressure 120/82, room air sat 98%. 
+HEENT:  Head is normocephalic and atraumatic.  Eyes:  PERRLA.  EOMI.  Pharynx clear with moist mucous membranes.   
+Neck:  Supple.  No lymphadenopathy, thyromegaly, or JVD.
+Lungs:  CTP.  No rales, rhonchi, or wheezes. 
+Heart:  Regular rate and rhythm; no murmurs, gallops, rubs.
+Abdomen:  Soft, nontender, nondistended.  Positive bowel sounds.  No hepatosplenomegaly. 
+Extremities:  No clubbing, cyanosis, or edema.  Skin is warm and moist without lesion. 
+Neuro:  Alert and oriented x3.  Cranial nerves II through XII are grossly intact.  Strength is 5/5 in all 4 extremities.  There are +2 DTRs and normal sensation in bilateral lower extremities. 
+Back:  He has diffuse paralumbar tenderness.  There is no bony stepoff and no bony tenderness. 
+ED COURSE:  The patient was given a Percocet with good relief of his pain.  He was given a prescription for more and then given strict instructions that he needs to follow with a back specialist before any more pain medications will be provided.   
+ED DISCHARGE DIAGNOSIS(ES):  
+LOW BACK PAIN.
+___________________________________
+**NAME[VVV M. WWW], M.D.
+Dictator:  **NAME[VVV M. WWW], M.D.
+AFP/dlv
+D:  **DATE[Jul 01 2007] 20:38:34
+T:  **DATE[Jul 02 2007] 06:13:52
+R:  **DATE[Jul 02 2007] 06:13:52/dlv
+Job ID:  327989/**ID-NUM
+ 
+*** Dictated By: -**NAME[WWW, RRR M]. ***
+Electronically Signed by **NAME[VVV WWW]  **DATE[Jul 13 2007] 04:47:38 PM
+ 
+
+
+
+</report_text>
+</report>

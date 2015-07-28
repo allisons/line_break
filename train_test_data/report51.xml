@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060507OP-YQ5dXgTkERh+-489-1825086870</checksum>
+<subtype>OPERATION</subtype>
+<type>OP</type>
+<chief_complaint>THROMBOCYTOPENIA</chief_complaint>
+<admit_diagnosis>287.5</admit_diagnosis>
+<discharge_diagnosis>199.1,287.5,340,427.31,599.0,396.3,585.9,707.03,403.91,585.3,584.9,285.9,041.4,788.30,530.81,596.54,275.42,250.00,733.00,197.7,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-10-05</downlaod_time>
+<update_time/>
+<deid>v.6.22.08.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.08.0]
+
+
+**INSTITUTION
+Operative Report
+Name: **NAME[AAA, BBB]
+Acct #: **ID-NUM
+MRN: **ID-NUM
+Date of Procedure: **DATE[May 07 2006]
+Admitted: **DATE[May 06 2007]
+SURGEON:  **NAME[WWW XXX], MD
+PREOPERATIVE DIAGNOSIS:  Thrombotic thrombocytopenic purpura.
+POSTOPERATIVE DIAGNOSIS:  Thrombotic thrombocytopenic purpura.
+PROCEDURE:  Insertion of right femoral vein central venous dialysis catheter.
+SERVICE:  Oncologic Surgery.
+NURSING UNIT:  7-Main.
+ANESTHESIA:  Xylocaine 1%.
+INDICATIONS:  The patient is a **AGE[in 70s]-year-old woman who was thought to have TTP. 
+Placement of a dialysis catheter was recommended.
+OPERATIVE PROCEDURE:  The patient placed supine in bed.  Her right groin was prepped and then draped in a sterile fashion.  A 24-cm Niagara dialysis catheter was passed centrally via the right femoral vein in a sterile fashion using the Seldinger technique.  Blood return was nonpulsatile but brisk.  The catheter was flushed with heparinized saline and then heparin 1000 units per mL.  The catheter was secured with silk stitches.  A dry sterile dressing was applied.  The patient tolerated the procedure well.  There are no evident complications. 
+I was the only one scrubbed for this procedure.
+______________________________
+**NAME[WWW XXX], MD
+HS Job # 552096 / 38997 / 33413
+SHY # **ID-NUM
+D: **DATE[May 07 2007] 12:24
+T: **DATE[May 07 2007] 19:51
+
+**CARBON-COPY
+
+
+</report_text>
+</report>

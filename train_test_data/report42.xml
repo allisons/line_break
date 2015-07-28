@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20060413ER-r5eg2pgqE7Iw-848-608038489</checksum>
+<subtype>EVAL</subtype>
+<type>ER</type>
+<chief_complaint>LEFT EYE PAIN</chief_complaint>
+<admit_diagnosis>379.91</admit_diagnosis>
+<discharge_diagnosis>371.42,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2008-02-06</downlaod_time>
+<update_time/>
+<deid>v.6.22.06.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.06.0]
+
+
+ 
+**INSTITUTION 
+EMERGENCY DEPARTMENT
+PATIENT NAME:  **NAME[AAA, BBB]
+ACCOUNT #:  **ID-NUM
+DATE OF SERVICE:  **DATE[Apr 13 06]
+PRIMARY CARE PHYSICIAN:    
+HISTORY OF PRESENT ILLNESS:  
+This is a **AGE[in 30s]-year-old male who was seen by me in the Emergency Department after he presented with dryness in his left eye associated with mild itching.  Specifically, does not complain of any pain.  The last time he had a foreign body in his left eye.  He did not have ulcer associated pain.  He was working with metal yesterday, was wearing safety glasses at the time.  Denies any sensation of anything going into the eye but today, in the afternoon, he noticed the visual discomfort associated with the pruritus and comes into the Emergency Department for evaluation.   
+REVIEW OF SYSTEMS:    
+Review of systems otherwise negative.  Denies any excessive lacrimation, photophobia, or a foreign body sensation. 
+PHYSICAL EXAM:  
+Vital examination reveals a temperature of 37.2, pulse rate 78, respirations 15, blood pressure 124/palp.   
+Examination of the left eye shows him to have mild conjunctival injection.  Examination of the cornea shows him to have no foreign body.  There is no cells of flare in the anterior chamber.  Extraocular movements are full.  Slit lamp examination was fluorescein shows him to have a few PEKs over the lower part of the cornea.  Examination of the conjunctivae both of the upper and the lower eye does not show him to have a retained foreign body.  Sweeping of the conjunctivae also did not result in any foreign body.  Extraocular movements full _______ deficit.   
+ED COURSE:  
+Examination is concerning for a PEE, left eye, without any evidence of a foreign body.  The patient is being discharged home on home Atropine, erythromycin ointment four times a  day for the next three days.  He already has Artificial Tears, just continue to use, and he will follow with the Eye and **INSTITUTION as an outpatient.   
+DISCHARGE DIAGNOSIS(ES):  
+PUNCTATE EPITHELIAL EROSION, LEFT EYE.  
+Was seen primarily by me.  
+___________________________________
+**NAME[YYY ZZZ], M.D.  
+Emergency Medicine
+Attending Physician
+Dictator:  **NAME[YYY ZZZ], M.D.
+**INITIALS
+D:  **DATE[Apr 13 2007] 01:29:34
+T:  **DATE[Apr 13 2007] 04:57:48
+R:  **DATE[Apr 13 2007] 04:57:48/dlb
+Job ID:  344973/**ID-NUM
+Cc:
+ 
+*** Dictated By: -**NAME[ZZZ, XXX] ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Apr 18 2007] 07:34:36 AM
+ 
+
+
+
+</report_text>
+</report>
