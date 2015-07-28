@@ -47,9 +47,11 @@ def xml_strip(text):
     assert not old == fixed
     return fixed
     
-#TESTDATA, TRAINDATA = test_train_fold(sys.argv[1])
-TRAINDATA = glob(sys.argv[1]+"/*")
-TESTDATA = glob(sys.argv[2]+"/*")
+
+with open(sys.argv[1], 'r') as n:
+    TRAINDATA = n.readlines()
+with open(sys.argv[2], 'r') as b:
+    TESTDATA = b.readlines()
 if len(sys.argv) > 3:
     word_features = feat_functs[sys.argv[3]]
 else:
