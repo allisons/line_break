@@ -13,6 +13,7 @@ import sys
 
 from crf_formatter import *
 
+
 #Character based features?
 char = False
 
@@ -46,16 +47,22 @@ def xml_strip(text):
     fixed = text[s:e]
     assert not old == fixed
     return fixed
-    
+
 
 with open(sys.argv[1], 'r') as n:
     TRAINDATA = n.readlines()
 with open(sys.argv[2], 'r') as b:
+    print sys.argv[2]
     TESTDATA = b.readlines()
 if len(sys.argv) > 3:
     word_features = feat_functs[sys.argv[3]]
 else:
     word_features = feat_functs["allword"]
+    
+for i in xrange(len(TRAINDATA)):
+    TRAINDATA[i] = TRAINDATA[i][:-1]
+for i in xrange(len(TESTDATA)):
+    TESTDATA[i] = TESTDATA[i][:-1]
 
 
 def prepare_train_data(TRAINDATA):
@@ -64,7 +71,6 @@ def prepare_train_data(TRAINDATA):
     doc_list = list()
     begin_train = time.time()
     for path in TRAINDATA:
-        
         with open(path) as f:
             string = f.read()
 
@@ -107,4 +113,8 @@ def prepare_test_data(TESTDATA):
         feature_matrix.to_csv(filename, encoding='utf-8', sep=sep, header=False, index=False)
     end_test = time.time() - begin_test
     print "Test data file prep completed in ", end_test, "seconds"
+
+if __name__ == "__main__":
+    prepare_train_data(TRAINDATA)
+    prepare_test_data(TESTDATA)
 

@@ -13,8 +13,8 @@ file = "train_features"
 for j in xrange(10):
     templates = glob("templates/*")
     call = "./line_break.sh"
-    train = "training_fold_"+str(j)+".txt"
-    test = "testing_fold_"+str(j)+".txt"
+    train = "10_folds/training_fold_"+str(j)+".txt"
+    test = "10_folds/testing_fold_"+str(j)+".txt"
     feat_sets = ["allword", "casenum", "casepunct", "case", "numpunct", "num", "punct"]
     i = 0
 
